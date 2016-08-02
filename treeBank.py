@@ -142,10 +142,3 @@ class HmmMatrix(object):
         for i in range(0, m):
             confusionMatrix[i, :] = confusionMatrix[i, :] / float(self.tagTotal[i])
         return confusionMatrix
-
-
-if __name__ == '__main__':
-    H = HmmMatrix()
-    H.pathCount('dictionary/ctb8.0/data/postagged/')
-    H.createVocab()
-    A = H.createTransformMatrix()
