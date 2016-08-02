@@ -1,0 +1,3007 @@
+* chtb_0001 nw/xinhua/00/chtb_0001 XIN.19960210.0178
+* chtb_0002 nw/xinhua/00/chtb_0002 XIN.19960211.0308
+* chtb_0003 nw/xinhua/00/chtb_0003 XIN.19960212.0364
+* chtb_0004 nw/xinhua/00/chtb_0004 XIN.19960213.0455
+* chtb_0005 nw/xinhua/00/chtb_0005 XIN.19960202.0057
+* chtb_0006 nw/xinhua/00/chtb_0006 XIN.19960213.0457
+* chtb_0007 nw/xinhua/00/chtb_0007 XIN.19960213.0490
+* chtb_0008 nw/xinhua/00/chtb_0008 XIN.19960214.0546
+* chtb_0009 nw/xinhua/00/chtb_0009 XIN.19960215.0596
+* chtb_0010 nw/xinhua/00/chtb_0010 XIN.19960216.0842
+* chtb_0011 nw/xinhua/00/chtb_0011 XIN.19960220.0116
+* chtb_0012 nw/xinhua/00/chtb_0012 XIN.19960223.0259
+* chtb_0013 nw/xinhua/00/chtb_0013 XIN.19960224.0282
+* chtb_0014 nw/xinhua/00/chtb_0014 XIN.19960227.0504
+* chtb_0015 nw/xinhua/00/chtb_0015 XIN.19960228.0729
+* chtb_0016 nw/xinhua/00/chtb_0016 XIN.19960229.0116
+* chtb_0017 nw/xinhua/00/chtb_0017 XIN.19960229.0119
+* chtb_0018 nw/xinhua/00/chtb_0018 XIN.19960203.0220
+* chtb_0019 nw/xinhua/00/chtb_0019 XIN.19960206.0445
+* chtb_0020 nw/xinhua/00/chtb_0020 XIN.19960207.0453
+* chtb_0021 nw/xinhua/00/chtb_0021 XIN.19960308.0989
+* chtb_0022 nw/xinhua/00/chtb_0022 XIN.19960310.0068
+* chtb_0023 nw/xinhua/00/chtb_0023 XIN.19960310.0172
+* chtb_0024 nw/xinhua/00/chtb_0024 XIN.19960302.0205
+* chtb_0025 nw/xinhua/00/chtb_0025 XIN.19960313.0494
+* chtb_0026 nw/xinhua/00/chtb_0026 XIN.19960315.0636
+* chtb_0027 nw/xinhua/00/chtb_0027 XIN.19960317.0812
+* chtb_0028 nw/xinhua/00/chtb_0028 XIN.19960319.0953
+* chtb_0029 nw/xinhua/00/chtb_0029 XIN.19960319.0077
+* chtb_0030 nw/xinhua/00/chtb_0030 XIN.19960323.0322
+* chtb_0031 nw/xinhua/00/chtb_0031 XIN.19960329.0865
+* chtb_0032 nw/xinhua/00/chtb_0032 XIN.19960303.0336
+* chtb_0033 nw/xinhua/00/chtb_0033 XIN.19960304.0416
+* chtb_0034 nw/xinhua/00/chtb_0034 XIN.19960304.0452
+* chtb_0035 nw/xinhua/00/chtb_0035 XIN.19960406.1294
+* chtb_0036 nw/xinhua/00/chtb_0036 XIN.19960413.0224
+* chtb_0037 nw/xinhua/00/chtb_0037 XIN.19960415.0527
+* chtb_0038 nw/xinhua/00/chtb_0038 XIN.19960418.0869
+* chtb_0039 nw/xinhua/00/chtb_0039 XIN.19960421.0210
+* chtb_0040 nw/xinhua/00/chtb_0040 XIN.19960405.1267
+! chtb_0041 nw/xinhua/00/chtb_0041 XIN.19971204.0043
+! chtb_0042 nw/xinhua/00/chtb_0042 XIN.19971207.0056
+! chtb_0043 nw/xinhua/00/chtb_0043 XIN.19971209.0055
+! chtb_0044 nw/xinhua/00/chtb_0044 XIN.19971201.0076
+! chtb_0045 nw/xinhua/00/chtb_0045 XIN.19971211.0067
+! chtb_0046 nw/xinhua/00/chtb_0046 XIN.19971214.0050
+! chtb_0047 nw/xinhua/00/chtb_0047 XIN.19971215.0104
+! chtb_0048 nw/xinhua/00/chtb_0048 XIN.19971215.0105
+! chtb_0049 nw/xinhua/00/chtb_0049 XIN.19971216.0045
+! chtb_0050 nw/xinhua/00/chtb_0050 XIN.19971216.0055
+! chtb_0051 nw/xinhua/00/chtb_0051 XIN.19971216.0047
+! chtb_0052 nw/xinhua/00/chtb_0052 XIN.19971217.0010
+! chtb_0053 nw/xinhua/00/chtb_0053 XIN.19971217.0013
+! chtb_0054 nw/xinhua/00/chtb_0054 XIN.19971217.0074
+! chtb_0055 nw/xinhua/00/chtb_0055 XIN.19971217.0078
+! chtb_0056 nw/xinhua/00/chtb_0056 XIN.19971217.0057
+! chtb_0057 nw/xinhua/00/chtb_0057 XIN.19971218.0040
+! chtb_0058 nw/xinhua/00/chtb_0058 XIN.19971218.0048
+! chtb_0059 nw/xinhua/00/chtb_0059 XIN.19971220.0037
+! chtb_0060 nw/xinhua/00/chtb_0060 XIN.19971220.0054
+! chtb_0061 nw/xinhua/00/chtb_0061 XIN.19971220.0062
+! chtb_0062 nw/xinhua/00/chtb_0062 XIN.19971221.0032
+! chtb_0063 nw/xinhua/00/chtb_0063 XIN.19971202.0062
+! chtb_0064 nw/xinhua/00/chtb_0064 XIN.19971221.0035
+! chtb_0065 nw/xinhua/00/chtb_0065 XIN.19971221.0069
+! chtb_0066 nw/xinhua/00/chtb_0066 XIN.19971221.0070
+! chtb_0067 nw/xinhua/00/chtb_0067 XIN.19971222.0012
+! chtb_0068 nw/xinhua/00/chtb_0068 XIN.19971222.0040
+! chtb_0069 nw/xinhua/00/chtb_0069 XIN.19971222.0044
+! chtb_0070 nw/xinhua/00/chtb_0070 XIN.19971222.0057
+! chtb_0071 nw/xinhua/00/chtb_0071 XIN.19971222.0072
+! chtb_0072 nw/xinhua/00/chtb_0072 XIN.19971222.0078
+! chtb_0073 nw/xinhua/00/chtb_0073 XIN.19971222.0082
+! chtb_0074 nw/xinhua/00/chtb_0074 XIN.19971202.0084
+! chtb_0075 nw/xinhua/00/chtb_0075 XIN.19971225.0027
+! chtb_0076 nw/xinhua/00/chtb_0076 XIN.19971225.0035
+! chtb_0077 nw/xinhua/00/chtb_0077 XIN.19971225.0039
+! chtb_0078 nw/xinhua/00/chtb_0078 XIN.19971225.0090
+! chtb_0079 nw/xinhua/00/chtb_0079 XIN.19971226.0047
+! chtb_0080 nw/xinhua/00/chtb_0080 XIN.19971226.0067
+chtb_0081 nw/xinhua/00/chtb_0081 XIN.19971226.0076
+chtb_0082 nw/xinhua/00/chtb_0082 XIN.19971202.0087
+chtb_0083 nw/xinhua/00/chtb_0083 XIN.19971227.0026
+chtb_0084 nw/xinhua/00/chtb_0084 XIN.19971227.0029
+chtb_0085 nw/xinhua/00/chtb_0085 XIN.19971227.0039
+chtb_0086 nw/xinhua/00/chtb_0086 XIN.19971227.0044
+chtb_0087 nw/xinhua/00/chtb_0087 XIN.19971228.0030
+chtb_0088 nw/xinhua/00/chtb_0088 XIN.19971228.0037
+chtb_0089 nw/xinhua/00/chtb_0089 XIN.19971230.0045
+chtb_0090 nw/xinhua/00/chtb_0090 XIN.19971230.0057
+chtb_0091 nw/xinhua/00/chtb_0091 XIN.19980102.0036
+chtb_0092 nw/xinhua/00/chtb_0092 XIN.19980106.0029
+chtb_0093 nw/xinhua/00/chtb_0093 XIN.19980106.0044
+chtb_0094 nw/xinhua/00/chtb_0094 XIN.19980106.0046
+chtb_0095 nw/xinhua/00/chtb_0095 XIN.19980109.0013
+chtb_0096 nw/xinhua/00/chtb_0096 XIN.19980109.0029
+chtb_0097 nw/xinhua/00/chtb_0097 XIN.19980109.0050
+chtb_0098 nw/xinhua/00/chtb_0098 XIN.19980110.0036
+chtb_0099 nw/xinhua/00/chtb_0099 XIN.19980110.0037
+chtb_0100 nw/xinhua/01/chtb_0100 XIN.19980110.0078
+chtb_0101 nw/xinhua/01/chtb_0101 XIN.19980111.0027
+chtb_0102 nw/xinhua/01/chtb_0102 XIN.19980111.0073
+chtb_0103 nw/xinhua/01/chtb_0103 XIN.19980111.0084
+chtb_0104 nw/xinhua/01/chtb_0104 XIN.19980112.0051
+chtb_0105 nw/xinhua/01/chtb_0105 XIN.19980112.0078
+chtb_0106 nw/xinhua/01/chtb_0106 XIN.19980113.0054
+chtb_0107 nw/xinhua/01/chtb_0107 XIN.19980113.0076
+chtb_0108 nw/xinhua/01/chtb_0108 XIN.19980102.0049
+chtb_0109 nw/xinhua/01/chtb_0109 XIN.19980113.0077
+chtb_0110 nw/xinhua/01/chtb_0110 XIN.19980114.0015
+chtb_0111 nw/xinhua/01/chtb_0111 XIN.19980114.0026
+chtb_0112 nw/xinhua/01/chtb_0112 XIN.19980114.0052
+chtb_0113 nw/xinhua/01/chtb_0113 XIN.19980114.0055
+chtb_0114 nw/xinhua/01/chtb_0114 XIN.19980115.0052
+chtb_0115 nw/xinhua/01/chtb_0115 XIN.19980115.0056
+chtb_0116 nw/xinhua/01/chtb_0116 XIN.19980116.0045
+chtb_0117 nw/xinhua/01/chtb_0117 XIN.19980116.0052
+chtb_0118 nw/xinhua/01/chtb_0118 XIN.19980116.0056
+chtb_0119 nw/xinhua/01/chtb_0119 XIN.19980103.0026
+chtb_0120 nw/xinhua/01/chtb_0120 XIN.19980116.0060
+chtb_0121 nw/xinhua/01/chtb_0121 XIN.19980116.0093
+chtb_0122 nw/xinhua/01/chtb_0122 XIN.19980116.0102
+chtb_0123 nw/xinhua/01/chtb_0123 XIN.19980116.0113
+chtb_0124 nw/xinhua/01/chtb_0124 XIN.19980116.0078
+chtb_0125 nw/xinhua/01/chtb_0125 XIN.19980117.0019
+chtb_0126 nw/xinhua/01/chtb_0126 XIN.19980117.0041
+chtb_0127 nw/xinhua/01/chtb_0127 XIN.19980117.0058
+chtb_0128 nw/xinhua/01/chtb_0128 XIN.19980118.0043
+chtb_0129 nw/xinhua/01/chtb_0129 XIN.19980118.0056
+chtb_0130 nw/xinhua/01/chtb_0130 XIN.19980103.0035
+chtb_0131 nw/xinhua/01/chtb_0131 XIN.19980119.0016
+chtb_0132 nw/xinhua/01/chtb_0132 XIN.19980119.0050
+chtb_0133 nw/xinhua/01/chtb_0133 XIN.19980119.0066
+chtb_0134 nw/xinhua/01/chtb_0134 XIN.19980121.0027
+chtb_0135 nw/xinhua/01/chtb_0135 XIN.19980121.0051
+chtb_0136 nw/xinhua/01/chtb_0136 XIN.19980121.0059
+chtb_0137 nw/xinhua/01/chtb_0137 XIN.19980121.0068
+chtb_0138 nw/xinhua/01/chtb_0138 XIN.19980121.0069
+chtb_0139 nw/xinhua/01/chtb_0139 XIN.19980121.0089
+chtb_0140 nw/xinhua/01/chtb_0140 XIN.19980103.0043
+chtb_0141 nw/xinhua/01/chtb_0141 XIN.19980103.0045
+chtb_0142 nw/xinhua/01/chtb_0142 XIN.19980103.0058
+chtb_0143 nw/xinhua/01/chtb_0143 XIN.19980104.0031
+chtb_0144 nw/xinhua/01/chtb_0144 CB330006.BFL
+chtb_0145 nw/xinhua/01/chtb_0145 CB374006.BFW
+chtb_0146 nw/xinhua/01/chtb_0146 CB324008.BFJ
+chtb_0147 nw/xinhua/01/chtb_0147 CB009008.BFW
+chtb_0148 nw/xinhua/01/chtb_0148 CB316009.BFW
+chtb_0149 nw/xinhua/01/chtb_0149 CB343009.BFW
+chtb_0150 nw/xinhua/01/chtb_0150 CB011014.BFW
+chtb_0151 nw/xinhua/01/chtb_0151 CB007006.BFW
+chtb_0152 nw/xinhua/01/chtb_0152 CB326019.BFW
+chtb_0153 nw/xinhua/01/chtb_0153 CB368020.BFW
+chtb_0154 nw/xinhua/01/chtb_0154 CB012021.BBW
+chtb_0155 nw/xinhua/01/chtb_0155 CB386006.BFW
+chtb_0156 nw/xinhua/01/chtb_0156 CB013007.BFW
+chtb_0157 nw/xinhua/01/chtb_0157 CB368007.BFW
+chtb_0158 nw/xinhua/01/chtb_0158 CB006002.BFW
+chtb_0159 nw/xinhua/01/chtb_0159 CB364008.BFJ
+chtb_0160 nw/xinhua/01/chtb_0160 CB009002.BFW
+chtb_0161 nw/xinhua/01/chtb_0161 CB003011.BFW
+chtb_0162 nw/xinhua/01/chtb_0162 CB010015.BFW
+chtb_0163 nw/xinhua/01/chtb_0163 CB014017.BFW
+chtb_0164 nw/xinhua/01/chtb_0164 CB025018.BFW
+chtb_0165 nw/xinhua/01/chtb_0165 CB006003.BFW
+chtb_0166 nw/xinhua/01/chtb_0166 CB320024.BFJ
+chtb_0167 nw/xinhua/01/chtb_0167 CB347029.BFJ
+chtb_0168 nw/xinhua/01/chtb_0168 CB320003.BFW
+chtb_0169 nw/xinhua/01/chtb_0169 CB028003.BFW
+chtb_0170 nw/xinhua/01/chtb_0170 ART116
+chtb_0171 nw/xinhua/01/chtb_0171 ART119
+chtb_0172 nw/xinhua/01/chtb_0172 ART122
+chtb_0173 nw/xinhua/01/chtb_0173 ART125
+chtb_0174 nw/xinhua/01/chtb_0174 ART128
+chtb_0175 nw/xinhua/01/chtb_0175 ART131
+chtb_0176 nw/xinhua/01/chtb_0176 ART134
+chtb_0177 nw/xinhua/01/chtb_0177 ART137
+chtb_0178 nw/xinhua/01/chtb_0178 ART140
+chtb_0179 nw/xinhua/01/chtb_0179 ART143
+chtb_0180 nw/xinhua/01/chtb_0180 ART149
+chtb_0181 nw/xinhua/01/chtb_0181 ART152
+chtb_0182 nw/xinhua/01/chtb_0182 ART155
+chtb_0183 nw/xinhua/01/chtb_0183 ART158
+chtb_0184 nw/xinhua/01/chtb_0184 ART161
+chtb_0185 nw/xinhua/01/chtb_0185 ART164
+chtb_0186 nw/xinhua/01/chtb_0186 ART167
+chtb_0187 nw/xinhua/01/chtb_0187 ART170
+chtb_0188 nw/xinhua/01/chtb_0188 ART176
+chtb_0189 nw/xinhua/01/chtb_0189 ART179
+chtb_0190 nw/xinhua/01/chtb_0190 ART182
+chtb_0191 nw/xinhua/01/chtb_0191 ART185
+chtb_0192 nw/xinhua/01/chtb_0192 ART188
+chtb_0193 nw/xinhua/01/chtb_0193 ART191
+chtb_0194 nw/xinhua/01/chtb_0194 ART194
+chtb_0195 nw/xinhua/01/chtb_0195 ART197
+chtb_0196 nw/xinhua/01/chtb_0196 ART203
+chtb_0197 nw/xinhua/01/chtb_0197 ART209
+chtb_0198 nw/xinhua/01/chtb_0198 ART218
+chtb_0199 nw/xinhua/01/chtb_0199 ART227
+chtb_0200 nw/xinhua/02/chtb_0200 ART242
+chtb_0201 nw/xinhua/02/chtb_0201 ART245
+chtb_0202 nw/xinhua/02/chtb_0202 ART248
+chtb_0203 nw/xinhua/02/chtb_0203 ART251
+chtb_0204 nw/xinhua/02/chtb_0204 ART254
+chtb_0205 nw/xinhua/02/chtb_0205 ART257
+chtb_0206 nw/xinhua/02/chtb_0206 ART260
+chtb_0207 nw/xinhua/02/chtb_0207 ART263
+chtb_0208 nw/xinhua/02/chtb_0208 CB001001.BFW
+chtb_0209 nw/xinhua/02/chtb_0209 CB002023.BFW
+chtb_0210 nw/xinhua/02/chtb_0210 CB003001.BCJ
+chtb_0211 nw/xinhua/02/chtb_0211 CB004001.BCJ
+chtb_0212 nw/xinhua/02/chtb_0212 CB004002.BCJ
+chtb_0213 nw/xinhua/02/chtb_0213 CB005001.BCJ
+chtb_0214 nw/xinhua/02/chtb_0214 CB005002.BFJ
+chtb_0215 nw/xinhua/02/chtb_0215 CB005023.BFW
+chtb_0216 nw/xinhua/02/chtb_0216 CB006001.BFJ
+chtb_0217 nw/xinhua/02/chtb_0217 CB006002.BFJ
+chtb_0218 nw/xinhua/02/chtb_0218 CB006023.BFW
+chtb_0219 nw/xinhua/02/chtb_0219 CB007002.BFW
+chtb_0220 nw/xinhua/02/chtb_0220 CB010001.BFJ
+chtb_0221 nw/xinhua/02/chtb_0221 CB011001.BFW
+chtb_0222 nw/xinhua/02/chtb_0222 CB013001.BFW
+chtb_0223 nw/xinhua/02/chtb_0223 CB014002.BFW
+chtb_0224 nw/xinhua/02/chtb_0224 CB014031.BFW
+chtb_0225 nw/xinhua/02/chtb_0225 CB015001.BFJ
+chtb_0226 nw/xinhua/02/chtb_0226 CB016031.BFJ
+chtb_0227 nw/xinhua/02/chtb_0227 CB017001.BFJ
+chtb_0228 nw/xinhua/02/chtb_0228 CB018023.BFW
+chtb_0229 nw/xinhua/02/chtb_0229 CB019001.BFW
+chtb_0230 nw/xinhua/02/chtb_0230 CB020023.BFW
+chtb_0231 nw/xinhua/02/chtb_0231 CB021001.BFJ
+chtb_0232 nw/xinhua/02/chtb_0232 CB022023.BFW
+chtb_0233 nw/xinhua/02/chtb_0233 CB024031.BFW
+chtb_0234 nw/xinhua/02/chtb_0234 CB026031.BFW
+chtb_0235 nw/xinhua/02/chtb_0235 CB027001.BFW
+chtb_0236 nw/xinhua/02/chtb_0236 CB027023.BFJ
+chtb_0237 nw/xinhua/02/chtb_0237 CB027031.BFW
+chtb_0238 nw/xinhua/02/chtb_0238 CB028031.BCW
+chtb_0239 nw/xinhua/02/chtb_0239 CB029001.BFW
+chtb_0240 nw/xinhua/02/chtb_0240 CB029023.BFW
+chtb_0241 nw/xinhua/02/chtb_0241 CB029031.BFW
+chtb_0242 nw/xinhua/02/chtb_0242 CB030001.BFW
+chtb_0243 nw/xinhua/02/chtb_0243 CB030023.BFJ
+chtb_0244 nw/xinhua/02/chtb_0244 CB030031.BFW
+chtb_0245 nw/xinhua/02/chtb_0245 CB031023.BFJ
+chtb_0246 nw/xinhua/02/chtb_0246 CB031031.BFW
+chtb_0247 nw/xinhua/02/chtb_0247 CB032001.BFJ
+chtb_0248 nw/xinhua/02/chtb_0248 CB032023.BFJ
+chtb_0249 nw/xinhua/02/chtb_0249 CB032031.BFJ
+chtb_0250 nw/xinhua/02/chtb_0250 CB033001.BFJ
+chtb_0251 nw/xinhua/02/chtb_0251 CB033023.BFW
+chtb_0252 nw/xinhua/02/chtb_0252 CB034001.BFJ
+chtb_0253 nw/xinhua/02/chtb_0253 CB034023.BFW
+chtb_0254 nw/xinhua/02/chtb_0254 CB034031.BFJ
+chtb_0255 nw/xinhua/02/chtb_0255 CB035001.BFW
+chtb_0256 nw/xinhua/02/chtb_0256 CB035023.BFW
+chtb_0257 nw/xinhua/02/chtb_0257 CB036001.BFW
+chtb_0258 nw/xinhua/02/chtb_0258 CB036023.BFJ
+chtb_0259 nw/xinhua/02/chtb_0259 CB037001.BFW
+chtb_0260 nw/xinhua/02/chtb_0260 CB037023.BFI
+chtb_0261 nw/xinhua/02/chtb_0261 CB037031.BFJ
+chtb_0262 nw/xinhua/02/chtb_0262 CB038001.BFW
+chtb_0263 nw/xinhua/02/chtb_0263 CB038023.BFJ
+chtb_0264 nw/xinhua/02/chtb_0264 CB038031.BFJ
+chtb_0265 nw/xinhua/02/chtb_0265 CB039001.BFW
+chtb_0266 nw/xinhua/02/chtb_0266 CB039031.BFJ
+chtb_0267 nw/xinhua/02/chtb_0267 CB040001.BFW
+chtb_0268 nw/xinhua/02/chtb_0268 CB040023.BFW
+chtb_0269 nw/xinhua/02/chtb_0269 CB041001.BFW
+chtb_0270 nw/xinhua/02/chtb_0270 CB041023.BFW
+chtb_0271 nw/xinhua/02/chtb_0271 CB041031.BFW
+chtb_0272 nw/xinhua/02/chtb_0272 CB042001.BFW
+chtb_0273 nw/xinhua/02/chtb_0273 CB042023.BFJ
+chtb_0274 nw/xinhua/02/chtb_0274 CB042031.BFJ
+chtb_0275 nw/xinhua/02/chtb_0275 CB043001.BFW
+chtb_0276 nw/xinhua/02/chtb_0276 CB043023.BFJ
+chtb_0277 nw/xinhua/02/chtb_0277 CB043031.BFJ
+chtb_0278 nw/xinhua/02/chtb_0278 CB044001.BFW
+chtb_0279 nw/xinhua/02/chtb_0279 CB044031.BFW
+chtb_0280 nw/xinhua/02/chtb_0280 CB045023.BFW
+chtb_0281 nw/xinhua/02/chtb_0281 CB045031.BFW
+chtb_0282 nw/xinhua/02/chtb_0282 CB046001.BFW
+chtb_0283 nw/xinhua/02/chtb_0283 CB046031.BFW
+chtb_0284 nw/xinhua/02/chtb_0284 CB047001.BFW
+chtb_0285 nw/xinhua/02/chtb_0285 CB047023.BFJ
+chtb_0286 nw/xinhua/02/chtb_0286 CB047031.BFW
+chtb_0287 nw/xinhua/02/chtb_0287 CB048023.BFW
+chtb_0288 nw/xinhua/02/chtb_0288 CB049023.BFW
+chtb_0289 nw/xinhua/02/chtb_0289 CB049031.BFJ
+chtb_0290 nw/xinhua/02/chtb_0290 CB050001.BFW
+chtb_0291 nw/xinhua/02/chtb_0291 CB050031.BFW
+chtb_0292 nw/xinhua/02/chtb_0292 CB051001.BFW
+chtb_0293 nw/xinhua/02/chtb_0293 CB052001.BFW
+chtb_0294 nw/xinhua/02/chtb_0294 CB052023.BBJ
+chtb_0295 nw/xinhua/02/chtb_0295 CB052031.BFJ
+chtb_0296 nw/xinhua/02/chtb_0296 CB053001.BFW
+chtb_0297 nw/xinhua/02/chtb_0297 CB054001.BFW
+chtb_0298 nw/xinhua/02/chtb_0298 CB054031.BFJ
+chtb_0299 nw/xinhua/02/chtb_0299 CB055031.BFW
+chtb_0300 nw/xinhua/03/chtb_0300 CB056001.BFW
+chtb_0301 nw/xinhua/03/chtb_0301 CB057001.BFJ
+chtb_0302 nw/xinhua/03/chtb_0302 CB058001.BFW
+chtb_0303 nw/xinhua/03/chtb_0303 CB059001.BFW
+chtb_0304 nw/xinhua/03/chtb_0304 CB062001.BFJ
+chtb_0305 nw/xinhua/03/chtb_0305 CB159023.BBJ
+chtb_0306 nw/xinhua/03/chtb_0306 CB301001.BFY
+chtb_0307 nw/xinhua/03/chtb_0307 CB301023.BFY
+chtb_0308 nw/xinhua/03/chtb_0308 CB302001.BFY
+chtb_0309 nw/xinhua/03/chtb_0309 CB302002.BFY
+chtb_0310 nw/xinhua/03/chtb_0310 CB302023.BFY
+chtb_0311 nw/xinhua/03/chtb_0311 CB303001.BFY
+chtb_0312 nw/xinhua/03/chtb_0312 CB303002.BFY
+chtb_0313 nw/xinhua/03/chtb_0313 CB303023.BFY
+chtb_0314 nw/xinhua/03/chtb_0314 CB303031.BFY
+chtb_0315 nw/xinhua/03/chtb_0315 CB304031.BFY
+chtb_0316 nw/xinhua/03/chtb_0316 CB305031.BFY
+chtb_0317 nw/xinhua/03/chtb_0317 CB306001.BFY
+chtb_0318 nw/xinhua/03/chtb_0318 CB307001.BFY
+chtb_0319 nw/xinhua/03/chtb_0319 CB307031.BFY
+chtb_0320 nw/xinhua/03/chtb_0320 CB308001.BFY
+chtb_0321 nw/xinhua/03/chtb_0321 CB309001.BFY
+chtb_0322 nw/xinhua/03/chtb_0322 CB309031.BFY
+chtb_0323 nw/xinhua/03/chtb_0323 CB310001.BFY
+chtb_0324 nw/xinhua/03/chtb_0324 CB311001.BFY
+chtb_0325 nw/xinhua/03/chtb_0325 CB313001.BCY
+chtb_0400 ---ontonote-file-name--- xin-1097.1
+chtb_0401 ---ontonote-file-name--- xin-1097.10
+chtb_0402 ---ontonote-file-name--- xin-1097.11
+chtb_0403 ---ontonote-file-name--- xin-1097.12
+chtb_0404 ---ontonote-file-name--- xin-1097.13
+chtb_0405 ---ontonote-file-name--- xin-1097.14
+chtb_0406 ---ontonote-file-name--- xin-1097.15
+chtb_0407 ---ontonote-file-name--- xin-1097.16
+chtb_0408 ---ontonote-file-name--- xin-1097.17
+chtb_0409 ---ontonote-file-name--- xin-1097.18
+chtb_0410 ---ontonote-file-name--- xin-1097.20
+chtb_0411 ---ontonote-file-name--- xin-1097.23
+chtb_0412 ---ontonote-file-name--- xin-1097.24
+chtb_0413 ---ontonote-file-name--- xin-1097.25
+chtb_0414 ---ontonote-file-name--- xin-1097.26
+chtb_0415 ---ontonote-file-name--- xin-1097.27
+chtb_0416 ---ontonote-file-name--- xin-1097.28
+chtb_0417 ---ontonote-file-name--- xin-1097.29
+chtb_0418 ---ontonote-file-name--- xin-1097.30
+chtb_0419 ---ontonote-file-name--- xin-1097.32
+chtb_0420 ---ontonote-file-name--- xin-1097.34
+chtb_0421 ---ontonote-file-name--- xin-1097.6
+chtb_0422 ---ontonote-file-name--- xin-1097.7
+chtb_0423 ---ontonote-file-name--- xin-1097.8
+chtb_0424 ---ontonote-file-name--- xin-1197.10
+chtb_0425 ---ontonote-file-name--- xin-1197.100
+chtb_0426 ---ontonote-file-name--- xin-1197.11
+chtb_0427 ---ontonote-file-name--- xin-1197.14
+chtb_0428 ---ontonote-file-name--- xin-1197.16
+chtb_0429 ---ontonote-file-name--- xin-1197.18
+chtb_0430 ---ontonote-file-name--- xin-1197.19
+chtb_0431 ---ontonote-file-name--- xin-1197.20
+chtb_0432 ---ontonote-file-name--- xin-1197.25
+chtb_0433 ---ontonote-file-name--- xin-1197.26
+chtb_0434 ---ontonote-file-name--- xin-1197.27
+chtb_0435 ---ontonote-file-name--- xin-1197.28
+chtb_0436 ---ontonote-file-name--- xin-1197.29
+chtb_0437 ---ontonote-file-name--- xin-1197.31
+chtb_0438 ---ontonote-file-name--- xin-1197.5
+chtb_0439 ---ontonote-file-name--- xin-1197.50
+chtb_0440 ---ontonote-file-name--- xin-1197.51
+chtb_0441 ---ontonote-file-name--- xin-1197.52
+chtb_0442 ---ontonote-file-name--- xin-1197.53
+chtb_0443 ---ontonote-file-name--- xin-1197.55
+chtb_0444 ---ontonote-file-name--- xin-1197.56
+chtb_0445 ---ontonote-file-name--- xin-1197.58
+chtb_0446 ---ontonote-file-name--- xin-1197.59
+chtb_0447 ---ontonote-file-name--- xin-1197.6
+chtb_0448 ---ontonote-file-name--- xin-1197.61
+chtb_0449 ---ontonote-file-name--- xin-1197.62
+chtb_0450 ---ontonote-file-name--- xin-1197.63
+chtb_0451 ---ontonote-file-name--- xin-1197.64
+chtb_0452 ---ontonote-file-name--- xin-1197.66
+chtb_0453 ---ontonote-file-name--- xin-1197.7
+chtb_0454 ---ontonote-file-name--- xin-1197.8
+chtb_0500 ---ontonote-file-name--- 19970701_001.cy
+chtb_0501 ---ontonote-file-name--- 19970701_002.cy
+chtb_0502 ---ontonote-file-name--- 19970701_003.cy
+chtb_0503 ---ontonote-file-name--- 19970701_004.cy
+chtb_0504 ---ontonote-file-name--- 19970701_005.cy
+chtb_0505 ---ontonote-file-name--- 19970701_006.cy
+chtb_0506 ---ontonote-file-name--- 19970701_007.cy
+chtb_0507 ---ontonote-file-name--- 19970701_010.cy
+chtb_0508 ---ontonote-file-name--- 19970701_011.cy
+chtb_0509 ---ontonote-file-name--- 19970701_012.cy
+chtb_0510 ---ontonote-file-name--- 19970701_013.cy
+chtb_0511 ---ontonote-file-name--- 19970701_014.cy
+chtb_0512 ---ontonote-file-name--- 19970702_002.cy
+chtb_0513 ---ontonote-file-name--- 19970702_003.cy
+chtb_0514 ---ontonote-file-name--- 19970702_004.cy
+chtb_0515 ---ontonote-file-name--- 19970702_006.cy
+chtb_0516 ---ontonote-file-name--- 19970703_001.cy
+chtb_0517 ---ontonote-file-name--- 19970703_002.cy
+chtb_0518 ---ontonote-file-name--- 19970703_003.cy
+chtb_0519 ---ontonote-file-name--- 19970703_005.cy
+chtb_0520 ---ontonote-file-name--- 19970703_006.cy
+chtb_0521 ---ontonote-file-name--- 19970703_007.cy
+chtb_0522 ---ontonote-file-name--- 19970703_008.cy
+chtb_0523 ---ontonote-file-name--- 19970703_009.cy
+chtb_0524 ---ontonote-file-name--- 19970703_011.cy
+chtb_0525 ---ontonote-file-name--- 19970703_012.cy
+chtb_0526 ---ontonote-file-name--- 19970703_014.cy
+chtb_0527 ---ontonote-file-name--- 19970703_015.cy
+chtb_0528 ---ontonote-file-name--- 19970703_016.cy
+chtb_0529 ---ontonote-file-name--- 19970703_019.cy
+chtb_0530 ---ontonote-file-name--- 19970704_001.cy
+chtb_0531 ---ontonote-file-name--- 19970704_002.cy
+chtb_0532 ---ontonote-file-name--- 19970704_003.cy
+chtb_0533 ---ontonote-file-name--- 19970704_005.cy
+chtb_0534 ---ontonote-file-name--- 19970705_001.cy
+chtb_0535 ---ontonote-file-name--- 19970705_002.cy
+chtb_0536 ---ontonote-file-name--- 19970706_001.cy
+chtb_0537 ---ontonote-file-name--- 19970706_002.cy
+chtb_0538 ---ontonote-file-name--- 19970707_001.cy
+chtb_0539 ---ontonote-file-name--- 19970707_002.cy
+chtb_0540 ---ontonote-file-name--- 19970707_003.cy
+chtb_0541 ---ontonote-file-name--- 19970707_004.cy
+chtb_0542 ---ontonote-file-name--- 19970707_005.cy
+chtb_0543 ---ontonote-file-name--- 19970707_006.cy
+chtb_0544 ---ontonote-file-name--- 19970708_001.cy
+chtb_0545 ---ontonote-file-name--- 19970708_002.cy
+chtb_0546 ---ontonote-file-name--- 19970708_003.cy
+chtb_0547 ---ontonote-file-name--- 19970708_004.cy
+chtb_0548 ---ontonote-file-name--- 19970708_005.cy
+chtb_0549 ---ontonote-file-name--- 19970708_006.cy
+chtb_0550 ---ontonote-file-name--- 19970708_009.cy
+chtb_0551 ---ontonote-file-name--- 19970708_012.cy
+chtb_0552 ---ontonote-file-name--- 19970708_013.cy
+chtb_0553 ---ontonote-file-name--- 19970708_015.cy
+chtb_0554 ---ontonote-file-name--- 19970708_016.cy
+chtb_0590 ---ontonote-file-name--- 199698509037C.1.unmod
+chtb_0591 ---ontonote-file-name--- 199838703006C.1.mod
+chtb_0592 ---ontonote-file-name--- 199838703006C.2.mod
+chtb_0593 ---ontonote-file-name--- 199838703006C.3.unmod
+chtb_0594 ---ontonote-file-name--- 199838703006C.4.unmod
+chtb_0595 ---ontonote-file-name--- 199838703006C.5.mod
+chtb_0596 ---ontonote-file-name--- 199838703006C.6.unmod
+chtb_0600 ---ontonote-file-name--- 199602.xinhua.1
+chtb_0601 ---ontonote-file-name--- 199602.xinhua.11
+chtb_0602 ---ontonote-file-name--- 199602.xinhua.13
+chtb_0603 ---ontonote-file-name--- 199602.xinhua.24
+chtb_0604 ---ontonote-file-name--- 199712.xinhua.3
+chtb_0605 ---ontonote-file-name--- 199712.xinhua.38
+chtb_0606 ---ontonote-file-name--- 199712.xinhua.39
+chtb_0607 ---ontonote-file-name--- 199712.xinhua.70
+chtb_0608 ---ontonote-file-name--- 199712.xinhua.71
+chtb_0609 ---ontonote-file-name--- 199712.xinhua.73
+chtb_0610 ---ontonote-file-name--- 199712.xinhua.74
+chtb_0611 ---ontonote-file-name--- 199712.xinhua.76
+chtb_0612 ---ontonote-file-name--- 199712.xinhua.77
+chtb_0613 ---ontonote-file-name--- 9705_xinhua.1
+chtb_0614 ---ontonote-file-name--- 9705_xinhua.12
+chtb_0615 ---ontonote-file-name--- 9705_xinhua.13
+chtb_0616 ---ontonote-file-name--- 9705_xinhua.14
+chtb_0617 ---ontonote-file-name--- 9705_xinhua.15
+chtb_0618 ---ontonote-file-name--- 9705_xinhua.17
+chtb_0619 ---ontonote-file-name--- 9705_xinhua.20
+chtb_0620 ---ontonote-file-name--- 9705_xinhua.21
+chtb_0621 ---ontonote-file-name--- 9705_xinhua.22
+chtb_0622 ---ontonote-file-name--- 9705_xinhua.23
+chtb_0623 ---ontonote-file-name--- 9705_xinhua.24
+chtb_0624 ---ontonote-file-name--- 9705_xinhua.25
+chtb_0625 ---ontonote-file-name--- 9705_xinhua.26
+chtb_0626 ---ontonote-file-name--- 9705_xinhua.27
+chtb_0627 ---ontonote-file-name--- 9705_xinhua.3
+chtb_0628 ---ontonote-file-name--- 9705_xinhua.31
+chtb_0629 ---ontonote-file-name--- 9705_xinhua.34
+chtb_0630 ---ontonote-file-name--- 9705_xinhua.35
+chtb_0631 ---ontonote-file-name--- 9705_xinhua.37
+chtb_0632 ---ontonote-file-name--- 9705_xinhua.38
+chtb_0633 ---ontonote-file-name--- 9705_xinhua.39
+chtb_0634 ---ontonote-file-name--- 9705_xinhua.40
+chtb_0635 ---ontonote-file-name--- 9705_xinhua.41
+chtb_0636 ---ontonote-file-name--- 9705_xinhua.42
+chtb_0637 ---ontonote-file-name--- 9705_xinhua.43
+chtb_0638 ---ontonote-file-name--- 9705_xinhua.44
+chtb_0639 ---ontonote-file-name--- 9705_xinhua.45
+chtb_0640 ---ontonote-file-name--- 9705_xinhua.46
+chtb_0641 ---ontonote-file-name--- 9705_xinhua.47
+chtb_0642 ---ontonote-file-name--- 9705_xinhua.48
+chtb_0643 ---ontonote-file-name--- XIN19981227.0005
+chtb_0644 ---ontonote-file-name--- XIN19981227.0015
+chtb_0645 ---ontonote-file-name--- XIN19981227.0016
+chtb_0646 ---ontonote-file-name--- XIN19981227.0018
+chtb_0647 ---ontonote-file-name--- XIN19981227.0019
+chtb_0648 ---ontonote-file-name--- XIN19981227.0026
+chtb_0649 ---ontonote-file-name--- XIN19981227.0032
+chtb_0650 ---ontonote-file-name--- XIN19981227.0033
+chtb_0651 ---ontonote-file-name--- XIN19981227.0034
+chtb_0652 ---ontonote-file-name--- XIN19981227.0042
+chtb_0653 ---ontonote-file-name--- XIN19981227.0046
+chtb_0654 ---ontonote-file-name--- XIN19981227.0053
+chtb_0655 ---ontonote-file-name--- XIN19981227.0056
+chtb_0656 ---ontonote-file-name--- XIN19981227.0060
+chtb_0657 ---ontonote-file-name--- XIN19981227.0069
+chtb_0658 ---ontonote-file-name--- XIN19981227.0079
+chtb_0659 ---ontonote-file-name--- XIN19981227.0092
+chtb_0660 ---ontonote-file-name--- XIN19981227.0095
+chtb_0661 ---ontonote-file-name--- XIN19981228.0007
+chtb_0662 ---ontonote-file-name--- XIN19981228.0015
+chtb_0663 ---ontonote-file-name--- XIN19981228.0016
+chtb_0664 ---ontonote-file-name--- XIN19981228.0018
+chtb_0665 ---ontonote-file-name--- XIN19981228.0021
+chtb_0666 ---ontonote-file-name--- XIN19981228.0026
+chtb_0667 ---ontonote-file-name--- XIN19981228.0029
+chtb_0668 ---ontonote-file-name--- XIN19981228.0031
+chtb_0669 ---ontonote-file-name--- XIN19981228.0032
+chtb_0670 ---ontonote-file-name--- XIN19981228.0035
+chtb_0671 ---ontonote-file-name--- XIN19981228.0040
+chtb_0672 ---ontonote-file-name--- XIN19981228.0043
+chtb_0673 ---ontonote-file-name--- XIN19981228.0047
+chtb_0674 ---ontonote-file-name--- XIN19981228.0064
+chtb_0675 ---ontonote-file-name--- XIN19981228.0067
+chtb_0676 ---ontonote-file-name--- XIN19981228.0068
+chtb_0677 ---ontonote-file-name--- XIN19981228.0079
+chtb_0678 ---ontonote-file-name--- XIN19981228.0080
+chtb_0679 ---ontonote-file-name--- XIN19981228.0081
+chtb_0680 ---ontonote-file-name--- XIN19981228.0084
+chtb_0681 ---ontonote-file-name--- XIN19981228.0091
+chtb_0682 ---ontonote-file-name--- XIN19981228.0101
+chtb_0683 ---ontonote-file-name--- XIN19981228.0103
+chtb_0684 ---ontonote-file-name--- XIN19981228.0111
+chtb_0685 ---ontonote-file-name--- XIN19981228.0112
+chtb_0686 ---ontonote-file-name--- XIN19981228.0116
+chtb_0687 ---ontonote-file-name--- XIN19981228.0117
+chtb_0688 ---ontonote-file-name--- XIN19981228.0126
+chtb_0689 ---ontonote-file-name--- XIN19981228.0127
+chtb_0690 ---ontonote-file-name--- XIN19981228.0128
+chtb_0691 ---ontonote-file-name--- XIN19981228.0129
+chtb_0692 ---ontonote-file-name--- XIN19981228.0130
+chtb_0693 ---ontonote-file-name--- XIN19981228.0131
+chtb_0694 ---ontonote-file-name--- XIN19981228.0132
+chtb_0695 ---ontonote-file-name--- XIN19981228.0134
+chtb_0696 ---ontonote-file-name--- XIN19981228.0136
+chtb_0697 ---ontonote-file-name--- XIN19981228.0139
+chtb_0698 ---ontonote-file-name--- XIN19981228.0142
+chtb_0699 ---ontonote-file-name--- XIN19981228.0143
+chtb_0700 ---ontonote-file-name--- XIN19981229.0007
+chtb_0701 ---ontonote-file-name--- XIN19981229.0015
+chtb_0702 ---ontonote-file-name--- XIN19981229.0016
+chtb_0703 ---ontonote-file-name--- XIN19981229.0017
+chtb_0704 ---ontonote-file-name--- XIN19981229.0018
+chtb_0705 ---ontonote-file-name--- XIN19981229.0019
+chtb_0706 ---ontonote-file-name--- XIN19981229.0020
+chtb_0707 ---ontonote-file-name--- XIN19981229.0021
+chtb_0708 ---ontonote-file-name--- XIN19981229.0023
+chtb_0709 ---ontonote-file-name--- XIN19981229.0026
+chtb_0710 ---ontonote-file-name--- XIN19981229.0029
+chtb_0711 ---ontonote-file-name--- XIN19981229.0030
+chtb_0712 ---ontonote-file-name--- XIN19981229.0031
+chtb_0713 ---ontonote-file-name--- XIN19981229.0032
+chtb_0714 ---ontonote-file-name--- XIN19981229.0034
+chtb_0715 ---ontonote-file-name--- XIN19981229.0035
+chtb_0716 ---ontonote-file-name--- XIN19981229.0036
+chtb_0717 ---ontonote-file-name--- XIN19981229.0043
+chtb_0718 ---ontonote-file-name--- XIN19981229.0047
+chtb_0719 ---ontonote-file-name--- XIN19981229.0049
+chtb_0720 ---ontonote-file-name--- XIN19981229.0051
+chtb_0721 ---ontonote-file-name--- XIN19981229.0054
+chtb_0722 ---ontonote-file-name--- XIN19981229.0059
+chtb_0723 ---ontonote-file-name--- XIN19981229.0061
+chtb_0724 ---ontonote-file-name--- XIN19981229.0069
+chtb_0725 ---ontonote-file-name--- XIN19981229.0071
+chtb_0726 ---ontonote-file-name--- XIN19981229.0073
+chtb_0727 ---ontonote-file-name--- XIN19981229.0074
+chtb_0728 ---ontonote-file-name--- XIN19981229.0080
+chtb_0729 ---ontonote-file-name--- XIN19981229.0090
+chtb_0730 ---ontonote-file-name--- XIN19981229.0097
+chtb_0731 ---ontonote-file-name--- XIN19981229.0101
+chtb_0732 ---ontonote-file-name--- XIN19981229.0103
+chtb_0733 ---ontonote-file-name--- XIN19981229.0104
+chtb_0734 ---ontonote-file-name--- XIN19981229.0108
+chtb_0735 ---ontonote-file-name--- XIN19981229.0123
+chtb_0736 ---ontonote-file-name--- XIN19981229.0125
+chtb_0737 ---ontonote-file-name--- XIN19981229.0126
+chtb_0738 ---ontonote-file-name--- XIN19981229.0127
+chtb_0739 ---ontonote-file-name--- XIN19981229.0131
+chtb_0740 ---ontonote-file-name--- XIN19981229.0137
+chtb_0741 ---ontonote-file-name--- XIN19981229.0138
+chtb_0742 ---ontonote-file-name--- XIN19981229.0139
+chtb_0743 ---ontonote-file-name--- XIN19981229.0140
+chtb_0744 ---ontonote-file-name--- XIN19981229.0141
+chtb_0745 ---ontonote-file-name--- XIN19981229.0142
+chtb_0746 ---ontonote-file-name--- XIN19981229.0143
+chtb_0747 ---ontonote-file-name--- XIN19981229.0154
+chtb_0748 ---ontonote-file-name--- XIN19981229.0155
+chtb_0749 ---ontonote-file-name--- XIN19981229.0158
+chtb_0750 ---ontonote-file-name--- XIN19981229.0159
+chtb_0751 ---ontonote-file-name--- XIN19981230.0005
+chtb_0752 ---ontonote-file-name--- XIN19981230.0007
+chtb_0753 ---ontonote-file-name--- XIN19981230.0017
+chtb_0754 ---ontonote-file-name--- XIN19981230.0018
+chtb_0755 ---ontonote-file-name--- XIN19981230.0019
+chtb_0756 ---ontonote-file-name--- XIN19981230.0020
+chtb_0757 ---ontonote-file-name--- XIN19981230.0021
+chtb_0758 ---ontonote-file-name--- XIN19981230.0023
+chtb_0759 ---ontonote-file-name--- XIN19981230.0026
+chtb_0760 ---ontonote-file-name--- XIN19981230.0029
+chtb_0761 ---ontonote-file-name--- XIN19981230.0030
+chtb_0762 ---ontonote-file-name--- XIN19981230.0031
+chtb_0763 ---ontonote-file-name--- XIN19981230.0032
+chtb_0764 ---ontonote-file-name--- XIN19981230.0033
+chtb_0765 ---ontonote-file-name--- XIN19981230.0034
+chtb_0766 ---ontonote-file-name--- XIN19981230.0035
+chtb_0767 ---ontonote-file-name--- XIN19981230.0036
+chtb_0768 ---ontonote-file-name--- XIN19981230.0040
+chtb_0769 ---ontonote-file-name--- XIN19981230.0047
+chtb_0770 ---ontonote-file-name--- XIN19981230.0049
+chtb_0771 ---ontonote-file-name--- XIN19981230.0051
+chtb_0772 ---ontonote-file-name--- XIN19981230.0057
+chtb_0773 ---ontonote-file-name--- XIN19981230.0059
+chtb_0774 ---ontonote-file-name--- XIN19981230.0067
+chtb_0775 ---ontonote-file-name--- XIN19981230.0069
+chtb_0776 ---ontonote-file-name--- XIN19981230.0070
+chtb_0777 ---ontonote-file-name--- XIN19981230.0071
+chtb_0778 ---ontonote-file-name--- XIN19981230.0072
+chtb_0779 ---ontonote-file-name--- XIN19981230.0073
+chtb_0780 ---ontonote-file-name--- XIN19981230.0075
+chtb_0781 ---ontonote-file-name--- XIN19981230.0078
+chtb_0782 ---ontonote-file-name--- XIN19981230.0081
+chtb_0783 ---ontonote-file-name--- XIN19981230.0082
+chtb_0784 ---ontonote-file-name--- XIN19981230.0083
+chtb_0785 ---ontonote-file-name--- XIN19981230.0084
+chtb_0786 ---ontonote-file-name--- XIN19981230.0086
+chtb_0787 ---ontonote-file-name--- XIN19981230.0087
+chtb_0788 ---ontonote-file-name--- XIN19981230.0088
+chtb_0789 ---ontonote-file-name--- XIN19981230.0092
+chtb_0790 ---ontonote-file-name--- XIN19981230.0095
+chtb_0791 ---ontonote-file-name--- XIN19981230.0099
+chtb_0792 ---ontonote-file-name--- XIN19981230.0101
+chtb_0793 ---ontonote-file-name--- XIN19981230.0102
+chtb_0794 ---ontonote-file-name--- XIN19981230.0103
+chtb_0795 ---ontonote-file-name--- XIN19981230.0109
+chtb_0796 ---ontonote-file-name--- XIN19981230.0111
+chtb_0797 ---ontonote-file-name--- XIN19981230.0119
+chtb_0798 ---ontonote-file-name--- XIN19981230.0121
+chtb_0799 ---ontonote-file-name--- XIN19981230.0124
+chtb_0800 ---ontonote-file-name--- XIN19981230.0125
+chtb_0801 ---ontonote-file-name--- XIN19981230.0127
+chtb_0802 ---ontonote-file-name--- XIN19981230.0130
+chtb_0803 ---ontonote-file-name--- XIN19981230.0133
+chtb_0804 ---ontonote-file-name--- XIN19981230.0134
+chtb_0805 ---ontonote-file-name--- XIN19981230.0135
+chtb_0806 ---ontonote-file-name--- XIN19981230.0136
+chtb_0807 ---ontonote-file-name--- XIN19981230.0137
+chtb_0808 ---ontonote-file-name--- XIN19981230.0138
+chtb_0809 ---ontonote-file-name--- XIN19981230.0139
+chtb_0810 ---ontonote-file-name--- XIN19981230.0140
+chtb_0811 ---ontonote-file-name--- XIN19981230.0144
+chtb_0812 ---ontonote-file-name--- XIN19981230.0147
+chtb_0813 ---ontonote-file-name--- XIN19981230.0150
+chtb_0814 ---ontonote-file-name--- XIN19981230.0151
+chtb_0815 ---ontonote-file-name--- XIN19981230.0153
+chtb_0816 ---ontonote-file-name--- XIN19981231.0005
+chtb_0817 ---ontonote-file-name--- XIN19981231.0015
+chtb_0818 ---ontonote-file-name--- XIN19981231.0016
+chtb_0819 ---ontonote-file-name--- XIN19981231.0017
+chtb_0820 ---ontonote-file-name--- XIN19981231.0018
+chtb_0821 ---ontonote-file-name--- XIN19981231.0019
+chtb_0822 ---ontonote-file-name--- XIN19981231.0020
+chtb_0823 ---ontonote-file-name--- XIN19981231.0021
+chtb_0824 ---ontonote-file-name--- XIN19981231.0023
+chtb_0825 ---ontonote-file-name--- XIN19981231.0029
+chtb_0826 ---ontonote-file-name--- XIN19981231.0030
+chtb_0827 ---ontonote-file-name--- XIN19981231.0031
+chtb_0828 ---ontonote-file-name--- XIN19981231.0032
+chtb_0829 ---ontonote-file-name--- XIN19981231.0033
+chtb_0830 ---ontonote-file-name--- XIN19981231.0035
+chtb_0831 ---ontonote-file-name--- XIN19981231.0036
+chtb_0832 ---ontonote-file-name--- XIN19981231.0040
+chtb_0833 ---ontonote-file-name--- XIN19981231.0041
+chtb_0834 ---ontonote-file-name--- XIN19981231.0045
+chtb_0835 ---ontonote-file-name--- XIN19981231.0047
+chtb_0836 ---ontonote-file-name--- XIN19981231.0055
+chtb_0837 ---ontonote-file-name--- XIN19981231.0056
+chtb_0838 ---ontonote-file-name--- XIN19981231.0057
+chtb_0839 ---ontonote-file-name--- XIN19981231.0058
+chtb_0840 ---ontonote-file-name--- XIN19981231.0059
+chtb_0841 ---ontonote-file-name--- XIN19981231.0061
+chtb_0842 ---ontonote-file-name--- XIN19981231.0066
+chtb_0843 ---ontonote-file-name--- XIN19981231.0070
+chtb_0844 ---ontonote-file-name--- XIN19981231.0071
+chtb_0845 ---ontonote-file-name--- XIN19981231.0072
+chtb_0846 ---ontonote-file-name--- XIN19981231.0073
+chtb_0847 ---ontonote-file-name--- XIN19981231.0074
+chtb_0848 ---ontonote-file-name--- XIN19981231.0075
+chtb_0849 ---ontonote-file-name--- XIN19981231.0080
+chtb_0850 ---ontonote-file-name--- XIN19981231.0085
+chtb_0851 ---ontonote-file-name--- XIN19981231.0087
+chtb_0852 ---ontonote-file-name--- XIN19981231.0095
+chtb_0853 ---ontonote-file-name--- XIN19981231.0096
+chtb_0854 ---ontonote-file-name--- XIN19981231.0097
+chtb_0855 ---ontonote-file-name--- XIN19981231.0098
+chtb_0856 ---ontonote-file-name--- XIN19981231.0099
+chtb_0857 ---ontonote-file-name--- XIN19981231.0100
+chtb_0858 ---ontonote-file-name--- XIN19981231.0101
+chtb_0859 ---ontonote-file-name--- XIN19981231.0103
+chtb_0860 ---ontonote-file-name--- XIN19981231.0109
+chtb_0861 ---ontonote-file-name--- XIN19981231.0111
+chtb_0862 ---ontonote-file-name--- XIN19981231.0112
+chtb_0863 ---ontonote-file-name--- XIN19981231.0113
+chtb_0864 ---ontonote-file-name--- XIN19981231.0114
+chtb_0865 ---ontonote-file-name--- XIN19981231.0115
+chtb_0866 ---ontonote-file-name--- XIN19981231.0116
+chtb_0867 ---ontonote-file-name--- xin-1197.30
+chtb_0868 ---ontonote-file-name--- xin-1197.32
+chtb_0869 ---ontonote-file-name--- xin-1197.33
+chtb_0870 ---ontonote-file-name--- xin-1197.34
+chtb_0871 ---ontonote-file-name--- xin-1197.35
+chtb_0872 ---ontonote-file-name--- xin-1197.36
+chtb_0873 ---ontonote-file-name--- xin-1197.37
+chtb_0874 ---ontonote-file-name--- xin-1197.38
+chtb_0875 ---ontonote-file-name--- xin-1197.39
+chtb_0876 ---ontonote-file-name--- xin-1197.40
+chtb_0877 ---ontonote-file-name--- xin-1197.41
+chtb_0878 ---ontonote-file-name--- xin-1197.43
+chtb_0879 ---ontonote-file-name--- xin-1197.44
+chtb_0880 ---ontonote-file-name--- xin-1197.45
+chtb_0881 ---ontonote-file-name--- xin-1197.46
+chtb_0882 ---ontonote-file-name--- xin-1197.47
+chtb_0883 ---ontonote-file-name--- xin-1197.49
+chtb_0884 ---ontonote-file-name--- XIN19981227.0070
+chtb_0885 ---ontonote-file-name--- XIN19981228.0077
+chtb_0900 ---ontonote-file-name--- 9705_xinhua.18
+* chtb_0901 ---ontonote-file-name--- 9705_xinhua.19
+* chtb_0902 ---ontonote-file-name--- 9705_xinhua.28
+* chtb_0903 ---ontonote-file-name--- 9705_xinhua.30
+* chtb_0904 ---ontonote-file-name--- 9705_xinhua.33
+* chtb_0905 ---ontonote-file-name--- XIN19981227.0030
+* chtb_0906 ---ontonote-file-name--- XIN19981227.0066
+* chtb_0907 ---ontonote-file-name--- XIN19981227.0073
+* chtb_0908 ---ontonote-file-name--- XIN19981228.0019
+* chtb_0909 ---ontonote-file-name--- XIN19981228.0020
+* chtb_0910 ---ontonote-file-name--- XIN19981228.0030
+* chtb_0911 ---ontonote-file-name--- XIN19981228.0034
+* chtb_0912 ---ontonote-file-name--- XIN19981228.0113
+* chtb_0913 ---ontonote-file-name--- XIN19981228.0114
+* chtb_0914 ---ontonote-file-name--- XIN19981228.0122
+* chtb_0915 ---ontonote-file-name--- XIN19981229.0033
+* chtb_0916 ---ontonote-file-name--- XIN19981229.0040
+* chtb_0917 ---ontonote-file-name--- XIN19981229.0050
+* chtb_0918 ---ontonote-file-name--- XIN19981229.0070
+* chtb_0919 ---ontonote-file-name--- XIN19981229.0072
+* chtb_0920 ---ontonote-file-name--- XIN19981229.0075
+* chtb_0921 ---ontonote-file-name--- XIN19981229.0077
+* chtb_0922 ---ontonote-file-name--- XIN19981229.0151
+* chtb_0923 ---ontonote-file-name--- XIN19981230.0015
+* chtb_0924 ---ontonote-file-name--- XIN19981230.0085
+* chtb_0925 ---ontonote-file-name--- XIN19981230.0122
+* chtb_0926 ---ontonote-file-name--- XIN19981230.0123
+* chtb_0927 ---ontonote-file-name--- XIN19981231.0060
+* chtb_0928 ---ontonote-file-name--- XIN19981231.0063
+* chtb_0929 ---ontonote-file-name--- XIN19981231.0069
+* chtb_0930 ---ontonote-file-name--- XIN19981231.0076
+* chtb_0931 ---ontonote-file-name--- XIN19981231.0106
+chtb_1001 mz/sinorama/10/chtb_1001 200001003 200018901006C.1
+chtb_1002 mz/sinorama/10/chtb_1002 200001008 200018901026C.1
+chtb_1003 mz/sinorama/10/chtb_1003 200001010 200018901030C.1
+chtb_1004 mz/sinorama/10/chtb_1004 200001011 200018901040C.1
+chtb_1005 mz/sinorama/10/chtb_1005 200001015 200018901052C.1
+chtb_1006 mz/sinorama/10/chtb_1006 200001019 200018901086C.1
+chtb_1007 mz/sinorama/10/chtb_1007 200002003 200028902006C.1
+chtb_1008 mz/sinorama/10/chtb_1008 200002012 200028902077C.1
+chtb_1009 mz/sinorama/10/chtb_1009 200002013 200028902080C.1
+chtb_1010 mz/sinorama/10/chtb_1010 200002014 200028902090C.1
+chtb_1011 mz/sinorama/10/chtb_1011 200002015 200028902096C.1
+chtb_1012 mz/sinorama/10/chtb_1012 200002017 200028902108C.1
+chtb_1013 mz/sinorama/10/chtb_1013 200003003 200038903006C.1
+chtb_1014 mz/sinorama/10/chtb_1014 200003009 200038903026C.1
+chtb_1015 mz/sinorama/10/chtb_1015 200003015 200038903078C.1
+chtb_1016 mz/sinorama/10/chtb_1016 200003016 200038903080C.1
+chtb_1017 mz/sinorama/10/chtb_1017 200003019 200038903100C.1
+* chtb_1018 mz/sinorama/10/chtb_1018 200004003 200048904006C.1
+chtb_1019 mz/sinorama/10/chtb_1019 200004006 200048904026C.1
+* chtb_1020 mz/sinorama/10/chtb_1020 200004015 200048904051C.1
+chtb_1021 mz/sinorama/10/chtb_1021 200004023 200048904098C.1
+chtb_1022 mz/sinorama/10/chtb_1022 200005008 200058905030C.1
+chtb_1023 mz/sinorama/10/chtb_1023 200005014 200058905076C.1
+chtb_1024 mz/sinorama/10/chtb_1024 200006008 200068906036C.1
+chtb_1025 mz/sinorama/10/chtb_1025 200006018 200068906075C.1
+chtb_1026 mz/sinorama/10/chtb_1026 200006019 200068906078C.1
+chtb_1027 mz/sinorama/10/chtb_1027 200006023 200068906110C.1
+chtb_1028 mz/sinorama/10/chtb_1028 200007006 200078907032C.1
+chtb_1029 mz/sinorama/10/chtb_1029 200009008 200098909034C.1
+chtb_1030 mz/sinorama/10/chtb_1030 200009011 200098909073C.1
+chtb_1031 mz/sinorama/10/chtb_1031 200010003 2000108910008C.1
+chtb_1032 mz/sinorama/10/chtb_1032 200010006 2000108910028C.1
+chtb_1033 mz/sinorama/10/chtb_1033 200010013 2000108910076C.1
+chtb_1034 mz/sinorama/10/chtb_1034 200010014 2000108910078C.1
+chtb_1035 mz/sinorama/10/chtb_1035 200010015 2000108910080C.1
+* chtb_1036 mz/sinorama/10/chtb_1036 200011003 2000118911006C.1
+chtb_1037 mz/sinorama/10/chtb_1037 200011017 2000118911092C.1
+chtb_1038 mz/sinorama/10/chtb_1038 200011020 2000118911103C.1
+chtb_1039 mz/sinorama/10/chtb_1039 200012011 2000128912063C.1
+chtb_1040 mz/sinorama/10/chtb_1040 200012013 2000128912068C.1
+chtb_1041 mz/sinorama/10/chtb_1041 200012016 2000128912081C.1
+chtb_1042 mz/sinorama/10/chtb_1042 2001019001006 200119001006C.1
+chtb_1043 mz/sinorama/10/chtb_1043 2001019001040 200119001040C.1
+* chtb_1044 mz/sinorama/10/chtb_1044 2001019001064 200119001064C.1
+chtb_1045 mz/sinorama/10/chtb_1045 2001019001066 200119001066C.1
+chtb_1046 mz/sinorama/10/chtb_1046 2001019001067 200119001067C.1
+chtb_1047 mz/sinorama/10/chtb_1047 2001019001069 200119001069C.1
+chtb_1048 mz/sinorama/10/chtb_1048 2001019001072 200119001072C.1
+chtb_1049 mz/sinorama/10/chtb_1049 2001019001094 200119001094C.1
+chtb_1050 mz/sinorama/10/chtb_1050 2001019001098 200119001098C.1
+chtb_1051 mz/sinorama/10/chtb_1051 2001019001102 200119001102C.1
+chtb_1052 mz/sinorama/10/chtb_1052 2001019001106 200119001106C.1
+chtb_1053 mz/sinorama/10/chtb_1053 2001029002021 200129002021C.1
+chtb_1054 mz/sinorama/10/chtb_1054 2001029002024 200129002024C.1
+chtb_1055 mz/sinorama/10/chtb_1055 2001029002029 200129002029C.1
+chtb_1056 mz/sinorama/10/chtb_1056 2001029002036 200129002036C.1
+chtb_1057 mz/sinorama/10/chtb_1057 2001029002038 200129002038C.1
+chtb_1058 mz/sinorama/10/chtb_1058 2001029002042 200129002042C.1
+chtb_1059 mz/sinorama/10/chtb_1059 2001029002044 200129002044C.1
+* chtb_1060 mz/sinorama/10/chtb_1060 2001029002061 200129002061C.1
+* chtb_1061 mz/sinorama/10/chtb_1061 2001029002064 200129002064C.1
+chtb_1062 mz/sinorama/10/chtb_1062 2001029002066 200129002066C.1
+chtb_1063 mz/sinorama/10/chtb_1063 2001029002068 200129002068C.1
+chtb_1064 mz/sinorama/10/chtb_1064 2001029002076 200129002076C.1
+chtb_1065 mz/sinorama/10/chtb_1065 2001029002087 200129002087C.1
+chtb_1066 mz/sinorama/10/chtb_1066 2001029002088 200129002088C.1
+chtb_1067 mz/sinorama/10/chtb_1067 2001029002104 200129002104C.1
+chtb_1068 mz/sinorama/10/chtb_1068 2001039003006 200139003006C.1
+chtb_1069 mz/sinorama/10/chtb_1069 2001039003018 200139003018C.1
+chtb_1070 mz/sinorama/10/chtb_1070 2001039003030 200139003030C.1
+chtb_1071 mz/sinorama/10/chtb_1071 2001039003044 200139003044C.1
+* chtb_1072 mz/sinorama/10/chtb_1072 2001039003061 200139003061C.1
+chtb_1073 mz/sinorama/10/chtb_1073 2001039003063 200139003063C.1
+chtb_1074 mz/sinorama/10/chtb_1074 2001039003066 200139003066C.1
+chtb_1075 mz/sinorama/10/chtb_1075 2001039003068 200139003068C.1
+chtb_1076 mz/sinorama/10/chtb_1076 2001039003086 200139003086C.1
+chtb_1077 mz/sinorama/10/chtb_1077 2001039003090 200139003090C.1
+chtb_1078 mz/sinorama/10/chtb_1078 2001039003100 200139003100C.1
+chtb_1100 ---ontonote-file-name--- 199910004 1999108810021C.1
+chtb_1101 ---ontonote-file-name--- 199910009 1999108810038C.1
+chtb_1102 ---ontonote-file-name--- 199910013 1999108810059C.1
+chtb_1103 ---ontonote-file-name--- 199910017 1999108810090C.1
+chtb_1104 ---ontonote-file-name--- 199910017 1999108810090C.2
+chtb_1105 ---ontonote-file-name--- 199910017 1999108810090C.3
+chtb_1106 ---ontonote-file-name--- 199910017 1999108810090C.4
+chtb_1107 ---ontonote-file-name--- 199910017 1999108810090C.5
+chtb_1108 ---ontonote-file-name--- 199910017 1999108810090C.6
+chtb_1109 ---ontonote-file-name--- 199910017 1999108810090C.7
+chtb_1110 ---ontonote-file-name--- 199910017 1999108810090C.8
+chtb_1111 ---ontonote-file-name--- 199910017 1999108810090C.9
+chtb_1112 ---ontonote-file-name--- 199910018 1999108810100C.1
+chtb_1113 ---ontonote-file-name--- 199910019 1999108810108C.1
+chtb_1114 ---ontonote-file-name--- 199910020 1999108810116C.1
+chtb_1115 ---ontonote-file-name--- 199911008 1999118811048C.1
+chtb_1116 ---ontonote-file-name--- 199911015 1999118811096C.1
+chtb_1117 ---ontonote-file-name--- 199911016 1999118811102C.1
+* chtb_1118 ---ontonote-file-name--- 199912004 1999128812008C.1
+* chtb_1119 ---ontonote-file-name--- 199912010 1999128812028C.1
+! chtb_1120 ---ontonote-file-name--- 199912016 1999128812048C.1
+! chtb_1121 ---ontonote-file-name--- 199912017 1999128812052C.1
+! chtb_1122 ---ontonote-file-name--- 199912018 1999128812056C.1
+! chtb_1123 ---ontonote-file-name--- 199912021 1999128812084C.1
+! chtb_1124 ---ontonote-file-name--- 199912022 1999128812087C.1
+! chtb_1125 ---ontonote-file-name--- 199901004 199918801018C.1
+! chtb_1126 ---ontonote-file-name--- 199901006 199918801028C.1
+! chtb_1127 ---ontonote-file-name--- 199901008 199918801044C.1
+! chtb_1128 ---ontonote-file-name--- 199901019 199918801108C.1
+! chtb_1129 ---ontonote-file-name--- 199901020 199918801116C.1
+chtb_1130 ---ontonote-file-name--- 199902004 199928802022C.1
+chtb_1131 ---ontonote-file-name--- 199902015 199928802092C.1
+* chtb_1132 ---ontonote-file-name--- 199903013 199938803098C.1
+chtb_1133 ---ontonote-file-name--- 199903015 199938803116C.1
+chtb_1134 ---ontonote-file-name--- 199904004 199948804018C.1
+chtb_1135 ---ontonote-file-name--- 199904005 199948804020C.1
+chtb_1136 ---ontonote-file-name--- 199904007 199948804034C.1
+chtb_1137 ---ontonote-file-name--- 199904008 199948804046C.1
+chtb_1138 ---ontonote-file-name--- 199904013 199948804075C.1
+chtb_1139 ---ontonote-file-name--- 199904015 199948804088C.1
+chtb_1140 ---ontonote-file-name--- 199904016 199948804094C.1
+* chtb_1141 ---ontonote-file-name--- 199904018 199948804110C.1
+* chtb_1142 ---ontonote-file-name--- 199905007 199958805042C.1
+chtb_1143 ---ontonote-file-name--- 199905012 199958805055C.1
+chtb_1144 ---ontonote-file-name--- 199905016 199958805090C.1
+chtb_1145 ---ontonote-file-name--- 199905018 199958805104C.1
+chtb_1146 ---ontonote-file-name--- 199907007 199978807025C.1
+chtb_1147 ---ontonote-file-name--- 199907015 199978807076C.1
+* chtb_1148 ---ontonote-file-name--- 199907020 199978807110C.1
+chtb_1149 ---ontonote-file-name--- 199908004 199988808018C.1
+chtb_1150 ---ontonote-file-name--- 199908007 199988808044C.1
+chtb_1151 ---ontonote-file-name--- 199908013 199988808087C.1
+chtb_2000 bn/cbs/00/cbs_0001 CBS20001002.1000.1144
+chtb_2001 bn/cbs/00/cbs_0002 CBS20001005.1000.0965
+chtb_2002 bn/cbs/00/cbs_0003 CBS20001005.1000.1076
+chtb_2003 bn/cbs/00/cbs_0004 CBS20001006.1000.0874
+chtb_2004 bn/cbs/00/cbs_0005 CBS20001006.1000.1145
+chtb_2005 bn/cbs/00/cbs_0006 CBS20001007.1000.0694
+chtb_2006 bn/cbs/00/cbs_0007 CBS20001007.1000.0723
+chtb_2007 bn/cbs/00/cbs_0008 CBS20001007.1000.0899
+chtb_2008 bn/cbs/00/cbs_0009 CBS20001008.1000.0742
+chtb_2009 bn/cbs/00/cbs_0010 CBS20001009.1000.0952
+chtb_2010 bn/cbs/00/cbs_0011 CBS20001011.1000.0273
+chtb_2011 bn/cbs/00/cbs_0012 CBS20001012.1000.0464
+chtb_2012 bn/cbs/00/cbs_0013 CBS20001012.1000.0808
+chtb_2013 bn/cbs/00/cbs_0014 CBS20001013.1000.0333
+chtb_2014 bn/cbs/00/cbs_0015 CBS20001015.1000.0595
+chtb_2015 bn/cbs/00/cbs_0016 CBS20001016.0800.0593
+chtb_2016 bn/cbs/00/cbs_0017 CBS20001016.0800.0768
+chtb_2017 bn/cbs/00/cbs_0018 CBS20001017.1000.0537
+chtb_2018 bn/cbs/00/cbs_0019 CBS20001019.1000.0594
+chtb_2019 bn/cbs/00/cbs_0020 CBS20001020.1000.0716
+chtb_2020 bn/cbs/00/cbs_0021 CBS20001020.1000.1040
+chtb_2021 bn/cbs/00/cbs_0022 CBS20001021.1000.0183
+chtb_2022 bn/cbs/00/cbs_0023 CBS20001021.1000.0347
+chtb_2023 bn/cbs/00/cbs_0024 CBS20001021.1000.0734
+chtb_2024 bn/cbs/00/cbs_0025 CBS20001022.1000.0512
+chtb_2025 bn/cbs/00/cbs_0026 CBS20001022.1000.0589
+chtb_2026 bn/cbs/00/cbs_0027 CBS20001023.1000.0774
+chtb_2027 bn/cbs/00/cbs_0028 CBS20001023.1000.1067
+chtb_2028 bn/cbs/00/cbs_0029 CBS20001024.1000.0844
+chtb_2029 bn/cbs/00/cbs_0030 CBS20001024.1000.1071
+chtb_2030 bn/cbs/00/cbs_0031 CBS20001026.1000.0053
+chtb_2031 bn/cbs/00/cbs_0032 CBS20001026.1000.1031
+chtb_2032 bn/cbs/00/cbs_0033 CBS20001027.1000.0332
+chtb_2033 bn/cbs/00/cbs_0034 CBS20001027.1000.0430
+chtb_2034 bn/cbs/00/cbs_0035 CBS20001028.1000.0296
+chtb_2035 bn/cbs/00/cbs_0036 CBS20001029.1000.0657
+chtb_2036 bn/cbs/00/cbs_0037 CBS20001029.1000.0758
+chtb_2037 bn/cbs/00/cbs_0038 CBS20001030.1000.0617
+chtb_2038 bn/cbs/00/cbs_0039 CBS20001030.1000.0784
+chtb_2039 bn/cbs/00/cbs_0040 CBS20001030.1000.1095
+chtb_2040 bn/cbs/00/cbs_0041 CBS20001031.1000.0028
+chtb_2041 bn/cbs/00/cbs_0042 CBS20001031.1000.0669
+chtb_2042 bn/cbs/00/cbs_0043 CBS20001101.1000.0000
+chtb_2043 bn/cbs/00/cbs_0044 CBS20001101.1000.0556
+chtb_2044 bn/cbs/00/cbs_0045 CBS20001101.1000.0638
+chtb_2045 bn/cbs/00/cbs_0046 CBS20001101.1000.0713
+chtb_2046 bn/cbs/00/cbs_0047 CBS20001101.1000.0933
+chtb_2047 bn/cbs/00/cbs_0048 CBS20001102.1000.0031
+chtb_2048 bn/cbs/00/cbs_0049 CBS20001102.1000.0419
+chtb_2049 bn/cbs/00/cbs_0050 CBS20001102.1000.0558
+chtb_2050 bn/cbs/00/cbs_0051 CBS20001103.1000.1009
+chtb_2051 bn/cbs/00/cbs_0052 CBS20001105.1000.0098
+chtb_2052 bn/cbs/00/cbs_0053 CBS20001105.1000.0589
+chtb_2053 bn/cbs/00/cbs_0054 CBS20001105.1000.0711
+chtb_2054 bn/cbs/00/cbs_0055 CBS20001105.1000.0773
+chtb_2055 bn/cbs/00/cbs_0056 CBS20001106.1000.0036
+chtb_2056 bn/cbs/00/cbs_0057 CBS20001106.1000.1007
+chtb_2057 bn/cbs/00/cbs_0058 CBS20001107.0800.0323
+chtb_2058 bn/cbs/00/cbs_0059 CBS20001107.0800.0407
+chtb_2059 bn/cbs/00/cbs_0060 CBS20001108.1000.0968
+chtb_2060 bn/cbs/00/cbs_0061 CBS20001109.1000.0114
+chtb_2061 bn/cbs/00/cbs_0062 CBS20001109.1000.0221
+chtb_2062 bn/cbs/00/cbs_0063 CBS20001109.1000.0496
+chtb_2063 bn/cbs/00/cbs_0064 CBS20001109.1000.0606
+chtb_2064 bn/cbs/00/cbs_0065 CBS20001109.1000.1047
+chtb_2065 bn/cbs/00/cbs_0066 CBS20001110.1000.0115
+chtb_2066 bn/cbs/00/cbs_0067 CBS20001110.1000.0955
+chtb_2067 bn/cbs/00/cbs_0068 CBS20001111.1000.0484
+chtb_2068 bn/cbs/00/cbs_0069 CBS20001111.1000.0659
+chtb_2069 bn/cbs/00/cbs_0070 CBS20001111.1000.0799
+chtb_2070 bn/cbs/00/cbs_0071 CBS20001111.1000.0864
+chtb_2071 bn/cbs/00/cbs_0072 CBS20001111.1000.1024
+chtb_2072 bn/cbs/00/cbs_0073 CBS20001111.1000.1106
+chtb_2073 bn/cbs/00/cbs_0074 CBS20001112.1000.0238
+chtb_2074 bn/cbs/00/cbs_0075 CBS20001112.1000.0474
+chtb_2075 bn/cbs/00/cbs_0076 CBS20001112.1000.0520
+chtb_2076 bn/cbs/00/cbs_0077 CBS20001112.1000.0644
+chtb_2077 bn/cbs/00/cbs_0078 CBS20001112.1000.0688
+chtb_2078 bn/cbs/00/cbs_0079 CBS20001112.1000.0816
+chtb_2079 bn/cbs/00/cbs_0080 CBS20001113.1000.0772
+chtb_2080 bn/cbs/00/cbs_0081 CBS20001113.1000.0822
+chtb_2081 bn/cbs/00/cbs_0082 CBS20001113.1000.0928
+chtb_2082 bn/cbs/00/cbs_0083 CBS20001114.1000.0909
+chtb_2083 bn/cbs/00/cbs_0084 CBS20001114.1000.1092
+chtb_2084 bn/cbs/00/cbs_0085 CBS20001115.1000.0531
+chtb_2085 bn/cbs/00/cbs_0086 CBS20001116.1000.0518
+chtb_2086 bn/cbs/00/cbs_0087 CBS20001116.1000.0692
+chtb_2087 bn/cbs/00/cbs_0088 CBS20001117.1000.0244
+chtb_2088 bn/cbs/00/cbs_0089 CBS20001117.1000.0341
+chtb_2089 bn/cbs/00/cbs_0090 CBS20001117.1000.0487
+chtb_2090 bn/cbs/00/cbs_0091 CBS20001117.1000.1027
+chtb_2091 bn/cbs/00/cbs_0092 CBS20001118.1000.0489
+chtb_2092 bn/cbs/00/cbs_0093 CBS20001119.1000.0121
+chtb_2093 bn/cbs/00/cbs_0094 CBS20001119.1000.0866
+chtb_2094 bn/cbs/00/cbs_0095 CBS20001120.1000.0730
+chtb_2095 bn/cbs/00/cbs_0096 CBS20001120.1000.0823
+chtb_2096 bn/cbs/00/cbs_0097 CBS20001122.1000.0015
+chtb_2097 bn/cbs/00/cbs_0098 CBS20001122.1000.0631
+chtb_2098 bn/cbs/00/cbs_0099 CBS20001122.1000.1032
+chtb_2099 bn/cbs/01/cbs_0100 CBS20001123.1000.0706
+chtb_2100 bn/cbs/01/cbs_0101 CBS20001123.1000.0873
+chtb_2101 bn/cbs/01/cbs_0102 CBS20001123.1000.0962
+chtb_2102 bn/cbs/01/cbs_0103 CBS20001123.1000.1060
+chtb_2103 bn/cbs/01/cbs_0104 CBS20001124.0800.0078
+chtb_2104 bn/cbs/01/cbs_0105 CBS20001124.0800.0927
+chtb_2105 bn/cbs/01/cbs_0106 CBS20001125.1000.0264
+chtb_2106 bn/cbs/01/cbs_0107 CBS20001125.1000.0624
+chtb_2107 bn/cbs/01/cbs_0108 CBS20001126.1000.0174
+chtb_2108 bn/cbs/01/cbs_0109 CBS20001126.1000.0662
+chtb_2109 bn/cbs/01/cbs_0110 CBS20001126.1000.0700
+chtb_2110 bn/cbs/01/cbs_0111 CBS20001127.1000.0046
+chtb_2111 bn/cbs/01/cbs_0112 CBS20001129.1000.1072
+chtb_2112 bn/cbs/01/cbs_0113 CBS20001130.1000.1061
+chtb_2113 bn/cbs/01/cbs_0114 CBS20001201.1000.0576
+chtb_2114 bn/cbs/01/cbs_0115 CBS20001202.1000.0590
+chtb_2115 bn/cbs/01/cbs_0116 CBS20001203.1000.0378
+chtb_2116 bn/cbs/01/cbs_0117 CBS20001203.1000.0813
+chtb_2117 bn/cbs/01/cbs_0118 CBS20001203.1000.0882
+chtb_2118 bn/cbs/01/cbs_0119 CBS20001205.1000.0150
+chtb_2119 bn/cbs/01/cbs_0120 CBS20001205.1000.0660
+chtb_2120 bn/cbs/01/cbs_0121 CBS20001205.1000.0731
+chtb_2121 bn/cbs/01/cbs_0122 CBS20001206.1000.0289
+chtb_2122 bn/cbs/01/cbs_0123 CBS20001206.1000.1074
+chtb_2123 bn/cbs/01/cbs_0124 CBS20001207.1000.0835
+chtb_2124 bn/cbs/01/cbs_0125 CBS20001211.1000.0683
+chtb_2125 bn/cbs/01/cbs_0126 CBS20001211.1000.1050
+chtb_2126 bn/cbs/01/cbs_0127 CBS20001211.1000.1125
+chtb_2127 bn/cbs/01/cbs_0128 CBS20001212.1000.0797
+chtb_2128 bn/cbs/01/cbs_0129 CBS20001212.1000.0949
+chtb_2129 bn/cbs/01/cbs_0130 CBS20001213.1000.1048
+chtb_2130 bn/cbs/01/cbs_0131 CBS20001214.1000.0480
+chtb_2131 bn/cbs/01/cbs_0132 CBS20001214.1000.0550
+chtb_2132 bn/cbs/01/cbs_0133 CBS20001214.1000.0944
+chtb_2133 bn/cbs/01/cbs_0134 CBS20001214.1000.1127
+chtb_2134 bn/cbs/01/cbs_0135 CBS20001215.1000.0218
+chtb_2135 bn/cbs/01/cbs_0136 CBS20001215.1000.0593
+chtb_2136 bn/cbs/01/cbs_0137 CBS20001216.1000.0355
+chtb_2137 bn/cbs/01/cbs_0138 CBS20001216.1000.0533
+chtb_2138 bn/cbs/01/cbs_0139 CBS20001216.1000.1091
+chtb_2139 bn/cbs/01/cbs_0140 CBS20001217.1000.0414
+! chtb_2140 bn/cbs/01/cbs_0141 CBS20001217.1000.0515
+! chtb_2141 bn/cbs/01/cbs_0142 CBS20001217.1000.0600
+! chtb_2142 bn/cbs/01/cbs_0143 CBS20001217.1000.0731
+! chtb_2143 bn/cbs/01/cbs_0144 CBS20001217.1000.0789
+! chtb_2144 bn/cbs/01/cbs_0145 CBS20001218.0800.0371
+! chtb_2145 bn/cbs/01/cbs_0146 CBS20001218.0800.0537
+! chtb_2146 bn/cbs/01/cbs_0147 CBS20001219.1000.0782
+! chtb_2147 bn/cbs/01/cbs_0148 CBS20001219.1000.1081
+! chtb_2148 bn/cbs/01/cbs_0149 CBS20001219.1000.1123
+! chtb_2149 bn/cbs/01/cbs_0150 CBS20001220.1000.0533
+! chtb_2150 bn/cbs/01/cbs_0151 CBS20001221.1000.0247
+! chtb_2151 bn/cbs/01/cbs_0152 CBS20001222.1000.0514
+! chtb_2152 bn/cbs/01/cbs_0153 CBS20001222.1000.0556
+! chtb_2153 bn/cbs/01/cbs_0154 CBS20001222.1000.0724
+! chtb_2154 bn/cbs/01/cbs_0155 CBS20001222.1000.0879
+! chtb_2155 bn/cbs/01/cbs_0156 CBS20001223.1000.0795
+! chtb_2156 bn/cbs/01/cbs_0157 CBS20001223.1000.1049
+! chtb_2157 bn/cbs/01/cbs_0158 CBS20001223.1000.1099
+! chtb_2158 bn/cbs/01/cbs_0159 CBS20001224.1000.0608
+! chtb_2159 bn/cbs/01/cbs_0160 CBS20001224.1000.0894
+chtb_2160 bn/cbs/01/cbs_0161 CBS20001224.1000.0970
+chtb_2161 bn/cbs/01/cbs_0162 CBS20001225.1000.0766
+chtb_2162 bn/cbs/01/cbs_0163 CBS20001225.1000.1108
+chtb_2163 bn/cbs/01/cbs_0164 CBS20001226.1000.0914
+chtb_2164 bn/cbs/01/cbs_0165 CBS20001226.1000.1049
+* chtb_2165 bn/cbs/01/cbs_0166 CBS20001227.0800.0493
+* chtb_2166 bn/cbs/01/cbs_0167 CBS20001227.0800.0590
+* chtb_2167 bn/cbs/01/cbs_0168 CBS20001227.0800.0692
+* chtb_2168 bn/cbs/01/cbs_0169 CBS20010112.1000.0445
+* chtb_2169 bn/cbs/01/cbs_0170 CBS20010118.1000.0325
+* chtb_2170 bn/cbs/01/cbs_0171 CBS20010119.1000.0499
+* chtb_2171 bn/cbs/01/cbs_0172 CBS20010121.0800.0463
+* chtb_2172 bn/cbs/01/cbs_0173 CBS20010121.0800.0539
+* chtb_2173 bn/cbs/01/cbs_0174 CBS20010123.1200.0410
+* chtb_2174 bn/cbs/01/cbs_0175 CBS20010124.0800.0813
+* chtb_2175 bn/cbs/01/cbs_0176 CBS20010125.0800.0640
+* chtb_2176 bn/cbs/01/cbs_0177 CBS20010126.0800.0669
+* chtb_2177 bn/cbs/01/cbs_0178 CBS20010127.0800.0380
+* chtb_2178 bn/cbs/01/cbs_0179 CBS20010129.1000.0240
+* chtb_2179 bn/cbs/01/cbs_0180 CBS20010129.1000.0315
+* chtb_2180 bn/cbs/01/cbs_0181 CBS20010130.0800.0474
+chtb_2181 bn/cnr/00/cnr_0001 CNR20001001.1700.0426
+chtb_2182 bn/cnr/00/cnr_0002 CNR20001002.1700.0638
+chtb_2183 bn/cnr/00/cnr_0003 CNR20001003.1700.1040
+chtb_2184 bn/cnr/00/cnr_0004 CNR20001003.1700.1240
+chtb_2185 bn/cnr/00/cnr_0005 CNR20001004.1700.0727
+chtb_2186 bn/cnr/00/cnr_0006 CNR20001005.1700.1087
+chtb_2187 bn/cnr/00/cnr_0007 CNR20001006.1700.0001
+chtb_2188 bn/cnr/00/cnr_0008 CNR20001006.1700.0958
+chtb_2189 bn/cnr/00/cnr_0009 CNR20001008.1700.0510
+chtb_2190 bn/cnr/00/cnr_0010 CNR20001008.1700.0709
+chtb_2191 bn/cnr/00/cnr_0011 CNR20001008.1700.1195
+chtb_2192 bn/cnr/00/cnr_0012 CNR20001008.1700.1420
+chtb_2193 bn/cnr/00/cnr_0013 CNR20001010.1700.0924
+chtb_2194 bn/cnr/00/cnr_0014 CNR20001012.1700.1356
+chtb_2195 bn/cnr/00/cnr_0015 CNR20001012.1700.1372
+chtb_2196 bn/cnr/00/cnr_0016 CNR20001014.1700.0001
+chtb_2197 bn/cnr/00/cnr_0017 CNR20001014.1700.0453
+chtb_2198 bn/cnr/00/cnr_0018 CNR20001014.1700.1289
+chtb_2199 bn/cnr/00/cnr_0019 CNR20001014.1700.1308
+chtb_2200 bn/cnr/00/cnr_0020 CNR20001015.1700.0470
+chtb_2201 bn/cnr/00/cnr_0021 CNR20001015.1700.1039
+chtb_2202 bn/cnr/00/cnr_0022 CNR20001016.1700.0645
+chtb_2203 bn/cnr/00/cnr_0023 CNR20001016.1700.0817
+chtb_2204 bn/cnr/00/cnr_0024 CNR20001017.1700.1393
+chtb_2205 bn/cnr/00/cnr_0025 CNR20001017.1700.1409
+chtb_2206 bn/cnr/00/cnr_0026 CNR20001018.1700.0676
+chtb_2207 bn/cnr/00/cnr_0027 CNR20001018.1700.1417
+chtb_2208 bn/cnr/00/cnr_0028 CNR20001019.1700.0006
+chtb_2209 bn/cnr/00/cnr_0029 CNR20001019.1700.0858
+chtb_2210 bn/cnr/00/cnr_0030 CNR20001021.1700.0067
+chtb_2211 bn/cnr/00/cnr_0031 CNR20001021.1700.0713
+chtb_2212 bn/cnr/00/cnr_0032 CNR20001021.1700.1137
+chtb_2213 bn/cnr/00/cnr_0033 CNR20001021.1700.1259
+chtb_2214 bn/cnr/00/cnr_0034 CNR20001023.1700.1026
+chtb_2215 bn/cnr/00/cnr_0035 CNR20001023.1700.1261
+chtb_2216 bn/cnr/00/cnr_0036 CNR20001024.1700.0603
+chtb_2217 bn/cnr/00/cnr_0037 CNR20001024.1700.1169
+chtb_2218 bn/cnr/00/cnr_0038 CNR20001024.1700.1214
+chtb_2219 bn/cnr/00/cnr_0039 CNR20001024.1700.1235
+chtb_2220 bn/cnr/00/cnr_0040 CNR20001027.1700.0781
+chtb_2221 bn/cnr/00/cnr_0041 CNR20001027.1700.1195
+chtb_2222 bn/cnr/00/cnr_0042 CNR20001029.1700.0400
+chtb_2223 bn/cnr/00/cnr_0043 CNR20001030.1700.0658
+chtb_2224 bn/cnr/00/cnr_0044 CNR20001030.1700.0962
+chtb_2225 bn/cnr/00/cnr_0045 CNR20001031.1700.1008
+chtb_2226 bn/cnr/00/cnr_0046 CNR20001102.1700.1053
+chtb_2227 bn/cnr/00/cnr_0047 CNR20001103.1700.0856
+chtb_2228 bn/cnr/00/cnr_0048 CNR20001107.1700.1058
+chtb_2229 bn/cnr/00/cnr_0049 CNR20001108.1700.0291
+chtb_2230 bn/cnr/00/cnr_0050 CNR20001108.1700.0508
+chtb_2231 bn/cnr/00/cnr_0051 CNR20001108.1700.1201
+chtb_2232 bn/cnr/00/cnr_0052 CNR20001109.1700.1220
+chtb_2233 bn/cnr/00/cnr_0053 CNR20001114.1700.0558
+chtb_2234 bn/cnr/00/cnr_0054 CNR20001114.1700.1100
+chtb_2235 bn/cnr/00/cnr_0055 CNR20001114.1700.1415
+chtb_2236 bn/cnr/00/cnr_0056 CNR20001115.1700.1087
+chtb_2237 bn/cnr/00/cnr_0057 CNR20001121.1700.0798
+chtb_2238 bn/cnr/00/cnr_0058 CNR20001121.1700.1013
+chtb_2239 bn/cnr/00/cnr_0059 CNR20001121.1700.1232
+chtb_2240 bn/cnr/00/cnr_0060 CNR20001121.1700.1437
+chtb_2241 bn/cnr/00/cnr_0061 CNR20001122.1700.0091
+chtb_2242 bn/cnr/00/cnr_0062 CNR20001122.1700.0250
+chtb_2243 bn/cnr/00/cnr_0063 CNR20001122.1700.1152
+chtb_2244 bn/cnr/00/cnr_0064 CNR20001122.1700.1246
+chtb_2245 bn/cnr/00/cnr_0065 CNR20001126.1700.1041
+chtb_2246 bn/cnr/00/cnr_0066 CNR20001127.1700.0075
+chtb_2247 bn/cnr/00/cnr_0067 CNR20001127.1700.0591
+chtb_2248 bn/cnr/00/cnr_0068 CNR20001127.1700.0911
+chtb_2249 bn/cnr/00/cnr_0069 CNR20001127.1700.1365
+chtb_2250 bn/cnr/00/cnr_0070 CNR20001129.1700.0580
+chtb_2251 bn/cnr/00/cnr_0071 CNR20001130.1700.0285
+chtb_2252 bn/cnr/00/cnr_0072 CNR20001201.1700.0558
+chtb_2253 bn/cnr/00/cnr_0073 CNR20001201.1700.1429
+chtb_2254 bn/cnr/00/cnr_0074 CNR20001203.1700.0075
+chtb_2255 bn/cnr/00/cnr_0075 CNR20001203.1700.1239
+chtb_2256 bn/cnr/00/cnr_0076 CNR20001204.1700.0627
+chtb_2257 bn/cnr/00/cnr_0077 CNR20001204.1700.0671
+chtb_2258 bn/cnr/00/cnr_0078 CNR20001204.1700.1021
+chtb_2259 bn/cnr/00/cnr_0079 CNR20001204.1700.1466
+chtb_2260 bn/cnr/00/cnr_0080 CNR20001205.1700.0297
+chtb_2261 bn/cnr/00/cnr_0081 CNR20001205.1700.0481
+chtb_2262 bn/cnr/00/cnr_0082 CNR20001207.1700.1160
+chtb_2263 bn/cnr/00/cnr_0083 CNR20001208.1700.0553
+chtb_2264 bn/cnr/00/cnr_0084 CNR20001208.1700.1129
+chtb_2265 bn/cnr/00/cnr_0085 CNR20001209.1700.1290
+chtb_2266 bn/cnr/00/cnr_0086 CNR20001210.1700.0807
+chtb_2267 bn/cnr/00/cnr_0087 CNR20001210.1700.1031
+chtb_2268 bn/cnr/00/cnr_0088 CNR20001212.1700.0245
+chtb_2269 bn/cnr/00/cnr_0089 CNR20001214.1700.0658
+chtb_2270 bn/cnr/00/cnr_0090 CNR20001214.1700.0960
+chtb_2271 bn/cnr/00/cnr_0091 CNR20001216.1700.0880
+chtb_2272 bn/cnr/00/cnr_0092 CNR20001216.1700.1296
+chtb_2273 bn/cnr/00/cnr_0093 CNR20001216.1700.1340
+chtb_2274 bn/cnr/00/cnr_0094 CNR20001217.1700.0889
+chtb_2275 bn/cnr/00/cnr_0095 CNR20001217.1700.1117
+chtb_2276 bn/cnr/00/cnr_0096 CNR20001217.1700.1301
+chtb_2277 bn/cnr/00/cnr_0097 CNR20001218.1700.0450
+chtb_2278 bn/cnr/00/cnr_0098 CNR20001218.1700.0890
+chtb_2279 bn/cnr/00/cnr_0099 CNR20001218.1700.1295
+! chtb_2280 bn/cnr/01/cnr_0100 CNR20001218.1700.1337
+! chtb_2281 bn/cnr/01/cnr_0101 CNR20001221.1700.1286
+! chtb_2282 bn/cnr/01/cnr_0102 CNR20001221.1700.1476
+! chtb_2283 bn/cnr/01/cnr_0103 CNR20001223.1700.1251
+! chtb_2284 bn/cnr/01/cnr_0104 CNR20001223.1700.1451
+! chtb_2285 bn/cnr/01/cnr_0105 CNR20001224.1700.0506
+! chtb_2286 bn/cnr/01/cnr_0106 CNR20001225.1700.0020
+! chtb_2287 bn/cnr/01/cnr_0107 CNR20001225.1700.0291
+! chtb_2288 bn/cnr/01/cnr_0108 CNR20001225.1700.0317
+! chtb_2289 bn/cnr/01/cnr_0109 CNR20001225.1700.0801
+! chtb_2290 bn/cnr/01/cnr_0110 CNR20001225.1700.1435
+! chtb_2291 bn/cnr/01/cnr_0111 CNR20001226.1700.0241
+! chtb_2292 bn/cnr/01/cnr_0112 CNR20001226.1700.0307
+! chtb_2293 bn/cnr/01/cnr_0113 CNR20010112.1700.1148
+! chtb_2294 bn/cnr/01/cnr_0114 CNR20010113.1700.1570
+* chtb_2295 bn/cnr/01/cnr_0115 CNR20010114.1700.0251
+* chtb_2296 bn/cnr/01/cnr_0116 CNR20010117.1700.0889
+* chtb_2297 bn/cnr/01/cnr_0117 CNR20010118.1700.0579
+* chtb_2298 bn/cnr/01/cnr_0118 CNR20010119.1700.0795
+* chtb_2299 bn/cnr/01/cnr_0119 CNR20010120.1700.0722
+* chtb_2300 bn/cnr/01/cnr_0120 CNR20010120.1700.1180
+* chtb_2301 bn/cnr/01/cnr_0121 CNR20010120.1700.1527
+* chtb_2302 bn/cnr/01/cnr_0122 CNR20010127.2000.0575
+* chtb_2303 bn/cnr/01/cnr_0123 CNR20010127.2000.0859
+* chtb_2304 bn/cnr/01/cnr_0124 CNR20010127.2000.0993
+* chtb_2305 bn/cnr/01/cnr_0125 CNR20010128.1900.0563
+* chtb_2306 bn/cnr/01/cnr_0126 CNR20010129.1900.0845
+* chtb_2307 bn/cnr/01/cnr_0127 CNR20010129.1900.0975
+* chtb_2308 bn/cnr/01/cnr_0128 CNR20010129.1900.1268
+* chtb_2309 bn/cnr/01/cnr_0129 CNR20010130.1800.0811
+* chtb_2310 bn/cnr/01/cnr_0130 CNR20010130.1800.1556
+chtb_2311 bn/cnr/01/cnr_0131 CNR20010131.1800.1254
+chtb_2312 bn/cnr/01/cnr_0132 CTS10001211.1300.0012
+chtb_2313 bn/cnr/01/cnr_0133 CTS20001001.1300.0145
+chtb_2314 bn/cnr/01/cnr_0134 CTS20001001.1300.0381
+chtb_2315 bn/cnr/01/cnr_0135 CTS20001001.1300.0766
+chtb_2316 bn/cnr/01/cnr_0136 CTS20001003.1300.0557
+chtb_2317 bn/cnr/01/cnr_0137 CTS20001004.1300.0461
+chtb_2318 bn/cnr/01/cnr_0138 CTS20001004.1300.1116
+chtb_2319 bn/cnr/01/cnr_0139 CTS20001005.1800.0151
+chtb_2320 bn/cnr/01/cnr_0140 CTS20001005.1800.0617
+chtb_2321 bn/cts/00/cts_0010 CTS20001005.1800.0703
+chtb_2322 bn/cts/00/cts_0011 CTS20001005.1800.0848
+chtb_2323 bn/cts/00/cts_0012 CTS20001005.1800.1458
+chtb_2324 bn/cts/00/cts_0013 CTS20001006.1300.0413
+chtb_2325 bn/cts/00/cts_0014 CTS20001006.1300.1217
+chtb_2326 bn/cts/00/cts_0015 CTS20001006.1300.1415
+chtb_2327 bn/cts/00/cts_0016 CTS20001007.1300.0189
+chtb_2328 bn/cts/00/cts_0017 CTS20001007.1300.0258
+chtb_2329 bn/cts/00/cts_0018 CTS20001007.1300.0519
+chtb_2330 bn/cts/00/cts_0019 CTS20001007.1300.0714
+chtb_2331 bn/cts/00/cts_0020 CTS20001008.1300.0701
+chtb_2332 bn/cts/00/cts_0021 CTS20001008.1300.0777
+chtb_2333 bn/cts/00/cts_0022 CTS20001008.1300.1160
+chtb_2334 bn/cts/00/cts_0023 CTS20001009.1300.0388
+chtb_2335 bn/cts/00/cts_0024 CTS20001009.1300.0561
+chtb_2336 bn/cts/00/cts_0025 CTS20001009.1300.0908
+chtb_2337 bn/cts/00/cts_0026 CTS20001009.1300.1137
+chtb_2338 bn/cts/00/cts_0027 CTS20001009.1300.1351
+chtb_2339 bn/cts/00/cts_0028 CTS20001010.1300.0217
+chtb_2340 bn/cts/00/cts_0029 CTS20001011.1800.0480
+chtb_2341 bn/cts/00/cts_0030 CTS20001011.1800.0672
+chtb_2342 bn/cts/00/cts_0031 CTS20001011.1800.0794
+chtb_2343 bn/cts/00/cts_0032 CTS20001011.1800.1546
+chtb_2344 bn/cts/00/cts_0033 CTS20001011.1800.1759
+chtb_2345 bn/cts/00/cts_0034 CTS20001013.1300.0182
+chtb_2346 bn/cts/00/cts_0035 CTS20001013.1300.0456
+chtb_2347 bn/cts/00/cts_0036 CTS20001013.1300.0794
+chtb_2348 bn/cts/00/cts_0037 CTS20001014.1300.0259
+chtb_2349 bn/cts/00/cts_0038 CTS20001014.1300.0332
+chtb_2350 bn/cts/00/cts_0039 CTS20001014.1300.1201
+chtb_2351 bn/cts/00/cts_0040 CTS20001014.1300.1286
+chtb_2352 bn/cts/00/cts_0041 CTS20001015.1300.0643
+chtb_2353 bn/cts/00/cts_0042 CTS20001015.1300.0775
+chtb_2354 bn/cts/00/cts_0043 CTS20001015.1300.1065
+chtb_2355 bn/cts/00/cts_0044 CTS20001016.1300.0297
+chtb_2356 bn/cts/00/cts_0045 CTS20001016.1300.0391
+chtb_2357 bn/cts/00/cts_0046 CTS20001017.1800.0697
+chtb_2358 bn/cts/00/cts_0047 CTS20001017.1800.0842
+chtb_2359 bn/cts/00/cts_0048 CTS20001018.0900.0719
+chtb_2360 bn/cts/00/cts_0049 CTS20001018.0900.0780
+chtb_2361 bn/cts/00/cts_0050 CTS20001018.0900.0879
+chtb_2362 bn/cts/00/cts_0051 CTS20001018.0900.1048
+chtb_2363 bn/cts/00/cts_0052 CTS20001019.1300.0224
+chtb_2364 bn/cts/00/cts_0053 CTS20001019.1300.0508
+chtb_2365 bn/cts/00/cts_0054 CTS20001019.1300.0638
+chtb_2366 bn/cts/00/cts_0055 CTS20001020.1800.0123
+chtb_2367 bn/cts/00/cts_0056 CTS20001020.1800.0451
+chtb_2368 bn/cts/00/cts_0057 CTS20001020.1800.0678
+chtb_2369 bn/cts/00/cts_0058 CTS20001020.1800.0740
+chtb_2370 bn/cts/00/cts_0059 CTS20001021.1300.0615
+chtb_2371 bn/cts/00/cts_0060 CTS20001021.1300.1016
+chtb_2372 bn/cts/00/cts_0061 CTS20001022.1300.0057
+chtb_2373 bn/cts/00/cts_0062 CTS20001022.1300.0124
+chtb_2374 bn/cts/00/cts_0063 CTS20001022.1300.0519
+chtb_2375 bn/cts/00/cts_0064 CTS20001022.1300.0656
+chtb_2376 bn/cts/00/cts_0065 CTS20001022.1300.0937
+chtb_2377 bn/cts/00/cts_0066 CTS20001022.1300.0970
+chtb_2378 bn/cts/00/cts_0067 CTS20001023.1300.0266
+chtb_2379 bn/cts/00/cts_0068 CTS20001023.1300.0466
+chtb_2380 bn/cts/00/cts_0069 CTS20001023.1300.0727
+chtb_2381 bn/cts/00/cts_0070 CTS20001023.1300.1039
+chtb_2382 bn/cts/00/cts_0071 CTS20001023.1300.1378
+chtb_2383 bn/cts/00/cts_0072 CTS20001024.1300.0141
+chtb_2384 bn/cts/00/cts_0073 CTS20001024.1300.0213
+chtb_2385 bn/cts/00/cts_0074 CTS20001024.1300.0506
+chtb_2386 bn/cts/00/cts_0075 CTS20001024.1300.1033
+chtb_2387 bn/cts/00/cts_0076 CTS20001025.1300.0122
+chtb_2388 bn/cts/00/cts_0077 CTS20001025.1300.0193
+chtb_2389 bn/cts/00/cts_0078 CTS20001025.1300.0690
+chtb_2390 bn/cts/00/cts_0079 CTS20001025.1300.0883
+chtb_2391 bn/cts/00/cts_0080 CTS20001025.1300.1022
+chtb_2392 bn/cts/00/cts_0081 CTS20001025.1300.1254
+chtb_2393 bn/cts/00/cts_0082 CTS20001026.1300.0210
+chtb_2394 bn/cts/00/cts_0083 CTS20001027.1300.0217
+chtb_2395 bn/cts/00/cts_0084 CTS20001027.1300.0768
+chtb_2396 bn/cts/00/cts_0085 CTS20001027.1300.1372
+chtb_2397 bn/cts/00/cts_0086 CTS20001028.1300.0100
+chtb_2398 bn/cts/00/cts_0087 CTS20001028.1300.0551
+chtb_2399 bn/cts/00/cts_0088 CTS20001028.1300.0810
+chtb_2400 bn/cts/00/cts_0089 CTS20001028.1300.1399
+chtb_2401 bn/cts/00/cts_0090 CTS20001029.1300.0013
+chtb_2402 bn/cts/00/cts_0091 CTS20001029.1300.0406
+chtb_2403 bn/cts/00/cts_0092 CTS20001029.1300.0648
+chtb_2404 bn/cts/00/cts_0093 CTS20001029.1300.0996
+chtb_2405 bn/cts/00/cts_0094 CTS20001029.1300.1041
+chtb_2406 bn/cts/00/cts_0095 CTS20001029.1300.1354
+chtb_2407 bn/cts/00/cts_0096 CTS20001030.1800.0439
+chtb_2408 bn/cts/00/cts_0097 CTS20001030.1800.1440
+chtb_2409 bn/cts/00/cts_0098 CTS20001031.1300.0955
+chtb_2410 bn/cts/00/cts_0099 CTS20001031.1300.1042
+chtb_2411 bn/cts/01/cts_0100 CTS20001031.1300.1129
+chtb_2412 bn/cts/01/cts_0101 CTS20001101.0900.0351
+chtb_2413 bn/cts/01/cts_0102 CTS20001101.0900.0432
+chtb_2414 bn/cts/01/cts_0103 CTS20001101.0900.0763
+chtb_2415 bn/cts/01/cts_0104 CTS20001101.0900.0904
+chtb_2416 bn/cts/01/cts_0105 CTS20001102.1300.1747
+chtb_2417 bn/cts/01/cts_0106 CTS20001103.1800.0004
+chtb_2418 bn/cts/01/cts_0107 CTS20001103.1800.0174
+chtb_2419 bn/cts/01/cts_0108 CTS20001103.1800.0417
+chtb_2420 bn/cts/01/cts_0109 CTS20001103.1800.1246
+chtb_2421 bn/cts/01/cts_0110 CTS20001103.1800.1320
+chtb_2422 bn/cts/01/cts_0111 CTS20001104.1300.0001
+chtb_2423 bn/cts/01/cts_0112 CTS20001104.1300.1231
+chtb_2424 bn/cts/01/cts_0113 CTS20001105.1300.0317
+chtb_2425 bn/cts/01/cts_0114 CTS20001105.1300.0613
+chtb_2426 bn/cts/01/cts_0115 CTS20001105.1300.0683
+chtb_2427 bn/cts/01/cts_0116 CTS20001105.1300.0868
+chtb_2428 bn/cts/01/cts_0117 CTS20001106.1300.0279
+chtb_2429 bn/cts/01/cts_0118 CTS20001106.1300.0363
+chtb_2430 bn/cts/01/cts_0119 CTS20001106.1300.0423
+chtb_2431 bn/cts/01/cts_0120 CTS20001106.1300.0675
+chtb_2432 bn/cts/01/cts_0121 CTS20001106.1300.1376
+chtb_2433 bn/cts/01/cts_0122 CTS20001107.0900.0468
+chtb_2434 bn/cts/01/cts_0123 CTS20001107.0900.0790
+chtb_2435 bn/cts/01/cts_0124 CTS20001107.0900.1029
+chtb_2436 bn/cts/01/cts_0125 CTS20001108.1300.0504
+chtb_2437 bn/cts/01/cts_0126 CTS20001108.1300.1022
+chtb_2438 bn/cts/01/cts_0127 CTS20001109.1300.0159
+chtb_2439 bn/cts/01/cts_0128 CTS20001109.1300.1077
+chtb_2440 bn/cts/01/cts_0129 CTS20001109.1300.1415
+chtb_2441 bn/cts/01/cts_0130 CTS20001110.1300.0358
+chtb_2442 bn/cts/01/cts_0131 CTS20001110.1300.0538
+chtb_2443 bn/cts/01/cts_0132 CTS20001110.1300.1241
+chtb_2444 bn/cts/01/cts_0133 CTS20001111.1300.0079
+chtb_2445 bn/cts/01/cts_0134 CTS20001111.1300.0160
+chtb_2446 bn/cts/01/cts_0135 CTS20001111.1300.0278
+chtb_2447 bn/cts/01/cts_0136 CTS20001111.1300.1440
+chtb_2448 bn/cts/01/cts_0137 CTS20001112.1300.0306
+chtb_2449 bn/cts/01/cts_0138 CTS20001112.1300.0676
+chtb_2450 bn/cts/01/cts_0139 CTS20001112.1300.1009
+chtb_2451 bn/cts/01/cts_0140 CTS20001113.1300.0758
+chtb_2452 bn/cts/01/cts_0141 CTS20001113.1300.0831
+chtb_2453 bn/cts/01/cts_0142 CTS20001114.1800.0759
+chtb_2454 bn/cts/01/cts_0143 CTS20001114.1800.0837
+chtb_2455 bn/cts/01/cts_0144 CTS20001114.1800.1410
+chtb_2456 bn/cts/01/cts_0145 CTS20001115.1300.0964
+chtb_2457 bn/cts/01/cts_0146 CTS20001116.1300.0284
+chtb_2458 bn/cts/01/cts_0147 CTS20001116.1300.0657
+chtb_2459 bn/cts/01/cts_0148 CTS20001116.1300.0687
+chtb_2460 bn/cts/01/cts_0149 CTS20001116.1300.0763
+chtb_2461 bn/cts/01/cts_0150 CTS20001116.1300.0835
+chtb_2462 bn/cts/01/cts_0151 CTS20001116.1300.1063
+chtb_2463 bn/cts/01/cts_0152 CTS20001116.1300.1142
+chtb_2464 bn/cts/01/cts_0153 CTS20001116.1300.1169
+chtb_2465 bn/cts/01/cts_0154 CTS20001117.1300.0048
+chtb_2466 bn/cts/01/cts_0155 CTS20001117.1300.0303
+chtb_2467 bn/cts/01/cts_0156 CTS20001117.1300.0820
+chtb_2468 bn/cts/01/cts_0157 CTS20001117.1300.1114
+chtb_2469 bn/cts/01/cts_0158 CTS20001118.1300.0081
+chtb_2470 bn/cts/01/cts_0159 CTS20001118.1300.0425
+chtb_2471 bn/cts/01/cts_0160 CTS20001118.1300.0684
+chtb_2472 bn/cts/01/cts_0161 CTS20001118.1300.0757
+chtb_2473 bn/cts/01/cts_0162 CTS20001118.1300.0859
+chtb_2474 bn/cts/01/cts_0163 CTS20001118.1300.0918
+chtb_2475 bn/cts/01/cts_0164 CTS20001119.1300.0378
+chtb_2476 bn/cts/01/cts_0165 CTS20001119.1300.0564
+chtb_2477 bn/cts/01/cts_0166 CTS20001120.1300.0506
+chtb_2478 bn/cts/01/cts_0167 CTS20001120.1300.0737
+chtb_2479 bn/cts/01/cts_0168 CTS20001120.1300.0774
+chtb_2480 bn/cts/01/cts_0169 CTS20001120.1300.1052
+chtb_2481 bn/cts/01/cts_0170 CTS20001121.1300.0182
+chtb_2482 bn/cts/01/cts_0171 CTS20001121.1300.0552
+chtb_2483 bn/cts/01/cts_0172 CTS20001121.1300.0621
+chtb_2484 bn/cts/01/cts_0173 CTS20001121.1300.0689
+chtb_2485 bn/cts/01/cts_0174 CTS20001122.1300.0271
+chtb_2486 bn/cts/01/cts_0175 CTS20001122.1300.0497
+chtb_2487 bn/cts/01/cts_0176 CTS20001122.1300.0859
+chtb_2488 bn/cts/01/cts_0177 CTS20001122.1300.0945
+chtb_2489 bn/cts/01/cts_0178 CTS20001122.1300.1414
+chtb_2490 bn/cts/01/cts_0179 CTS20001123.1300.0100
+chtb_2491 bn/cts/01/cts_0180 CTS20001123.1300.0496
+chtb_2492 bn/cts/01/cts_0181 CTS20001123.1300.0592
+chtb_2493 bn/cts/01/cts_0182 CTS20001123.1300.0805
+chtb_2494 bn/cts/01/cts_0183 CTS20001124.1300.0672
+chtb_2495 bn/cts/01/cts_0184 CTS20001124.1300.0705
+chtb_2496 bn/cts/01/cts_0185 CTS20001125.1300.0257
+chtb_2497 bn/cts/01/cts_0186 CTS20001125.1300.0727
+chtb_2498 bn/cts/01/cts_0187 CTS20001127.1300.0323
+chtb_2499 bn/cts/01/cts_0188 CTS20001127.1300.1328
+chtb_2500 bn/cts/01/cts_0189 CTS20001128.1300.0973
+chtb_2501 bn/cts/01/cts_0190 CTS20001130.1300.0234
+chtb_2502 bn/cts/01/cts_0191 CTS20001130.1300.0429
+chtb_2503 bn/cts/01/cts_0192 CTS20001130.1300.0880
+chtb_2504 bn/cts/01/cts_0193 CTS20001130.1300.0941
+chtb_2505 bn/cts/01/cts_0194 CTS20001201.1300.0437
+chtb_2506 bn/cts/01/cts_0195 CTS20001201.1300.0899
+chtb_2507 bn/cts/01/cts_0196 CTS20001201.1300.1186
+chtb_2508 bn/cts/01/cts_0197 CTS20001201.1300.1417
+chtb_2509 bn/cts/01/cts_0198 CTS20001202.1300.0777
+chtb_2510 bn/cts/01/cts_0199 CTS20001202.1300.0849
+chtb_2511 bn/cts/02/cts_0200 CTS20001202.1300.1416
+chtb_2512 bn/cts/02/cts_0201 CTS20001203.1300.0010
+chtb_2513 bn/cts/02/cts_0202 CTS20001204.1300.0160
+chtb_2514 bn/cts/02/cts_0203 CTS20001204.1300.1117
+chtb_2515 bn/cts/02/cts_0204 CTS20001205.1300.0961
+chtb_2516 bn/cts/02/cts_0205 CTS20001206.1300.0101
+chtb_2517 bn/cts/02/cts_0206 CTS20001206.1300.0190
+chtb_2518 bn/cts/02/cts_0207 CTS20001206.1300.0398
+chtb_2519 bn/cts/02/cts_0208 CTS20001207.1300.0521
+chtb_2520 bn/cts/02/cts_0209 CTS20001209.1300.0963
+chtb_2521 bn/cts/02/cts_0210 CTS20001209.1300.1118
+chtb_2522 bn/cts/02/cts_0211 CTS20001210.1300.0198
+chtb_2523 bn/cts/02/cts_0212 CTS20001211.1300.0012
+chtb_2524 bn/cts/02/cts_0213 CTS20001211.1300.0121
+chtb_2525 bn/cts/02/cts_0214 CTS20001211.1300.0211
+chtb_2526 bn/cts/02/cts_0215 CTS20001211.1300.0506
+chtb_2527 bn/cts/02/cts_0216 CTS20001211.1300.1117
+chtb_2528 bn/cts/02/cts_0217 CTS20001212.1300.0471
+chtb_2529 bn/cts/02/cts_0218 CTS20001212.1300.0904
+chtb_2530 bn/cts/02/cts_0219 CTS20001212.1300.0971
+chtb_2531 bn/cts/02/cts_0220 CTS20001213.1300.0281
+chtb_2532 bn/cts/02/cts_0221 CTS20001213.1300.0503
+chtb_2533 bn/cts/02/cts_0222 CTS20001214.1300.1126
+chtb_2534 bn/cts/02/cts_0223 CTS20001215.1300.0532
+chtb_2535 bn/cts/02/cts_0224 CTS20001215.1300.0684
+chtb_2536 bn/cts/02/cts_0225 CTS20001215.1300.0799
+chtb_2537 bn/cts/02/cts_0226 CTS20001216.1300.0201
+chtb_2538 bn/cts/02/cts_0227 CTS20001216.1300.1105
+chtb_2539 bn/cts/02/cts_0228 CTS20001217.1300.0474
+chtb_2540 bn/cts/02/cts_0229 CTS20001217.1300.0998
+chtb_2541 bn/cts/02/cts_0230 CTS20001217.1300.1072
+chtb_2542 bn/cts/02/cts_0231 CTS20001218.1300.0479
+chtb_2543 bn/cts/02/cts_0232 CTS20001218.1300.0965
+chtb_2544 bn/cts/02/cts_0233 CTS20001219.1300.0124
+chtb_2545 bn/cts/02/cts_0234 CTS20001219.1300.0812
+chtb_2546 bn/cts/02/cts_0235 CTS20001220.1300.0740
+chtb_2547 bn/cts/02/cts_0236 CTS20001221.1300.0060
+chtb_2548 bn/cts/02/cts_0237 CTS20001221.1300.0349
+chtb_2549 bn/cts/02/cts_0238 CTS20001221.1300.0732
+! chtb_2550 bn/cts/02/cts_0239 CTS20001221.1300.1388
+! chtb_2551 bn/cts/02/cts_0240 CTS20001222.1300.0194
+! chtb_2552 bn/cts/02/cts_0241 CTS20001222.1300.0530
+! chtb_2553 bn/cts/02/cts_0242 CTS20001222.1300.0687
+! chtb_2554 bn/cts/02/cts_0243 CTS20001222.1300.0723
+! chtb_2555 bn/cts/02/cts_0244 CTS20001222.1300.0808
+! chtb_2556 bn/cts/02/cts_0245 CTS20001222.1300.1132
+! chtb_2557 bn/cts/02/cts_0246 CTS20001223.1300.0006
+! chtb_2558 bn/cts/02/cts_0247 CTS20001223.1300.0286
+! chtb_2559 bn/cts/02/cts_0248 CTS20001223.1300.0809
+! chtb_2560 bn/cts/02/cts_0249 CTS20001223.1300.0967
+! chtb_2561 bn/cts/02/cts_0250 CTS20001223.1300.1197
+! chtb_2562 bn/cts/02/cts_0251 CTS20001224.1300.0005
+! chtb_2563 bn/cts/02/cts_0252 CTS20001224.1300.0252
+! chtb_2564 bn/cts/02/cts_0253 CTS20001224.1300.0396
+! chtb_2565 bn/cts/02/cts_0254 CTS20001225.1300.0100
+! chtb_2566 bn/cts/02/cts_0255 CTS20001225.1300.0190
+! chtb_2567 bn/cts/02/cts_0256 CTS20001225.1300.0520
+! chtb_2568 bn/cts/02/cts_0257 CTS20001225.1300.0585
+! chtb_2569 bn/cts/02/cts_0258 CTS20001226.2000.0407
+* chtb_2570 bn/cts/02/cts_0259 CTS20001226.2000.0716
+* chtb_2571 bn/cts/02/cts_0260 CTS20001226.2000.1264
+* chtb_2572 bn/cts/02/cts_0261 CTS20010112.1300.0101
+* chtb_2573 bn/cts/02/cts_0262 CTS20010112.1300.0373
+* chtb_2574 bn/cts/02/cts_0263 CTS20010112.1300.0443
+* chtb_2575 bn/cts/02/cts_0264 CTS20010113.1300.0323
+* chtb_2576 bn/cts/02/cts_0265 CTS20010113.1300.0393
+* chtb_2577 bn/cts/02/cts_0266 CTS20010113.1300.0985
+* chtb_2578 bn/cts/02/cts_0267 CTS20010114.1300.0864
+* chtb_2579 bn/cts/02/cts_0268 CTS20010115.2000.0467
+* chtb_2580 bn/cts/02/cts_0269 CTS20010115.2000.1236
+* chtb_2581 bn/cts/02/cts_0270 CTS20010116.1300.1467
+* chtb_2582 bn/cts/02/cts_0271 CTS20010117.1300.0211
+* chtb_2583 bn/cts/02/cts_0272 CTS20010117.1300.0925
+* chtb_2584 bn/cts/02/cts_0273 CTS20010117.1300.0997
+* chtb_2585 bn/cts/02/cts_0274 CTS20010118.1300.0723
+* chtb_2586 bn/cts/02/cts_0275 CTS20010118.1300.0933
+* chtb_2587 bn/cts/02/cts_0276 CTS20010119.1300.0074
+* chtb_2588 bn/cts/02/cts_0277 CTS20010119.1300.0649
+* chtb_2589 bn/cts/02/cts_0278 CTS20010119.1300.0763
+* chtb_2590 bn/cts/02/cts_0279 CTS20010119.1300.0941
+* chtb_2591 bn/cts/02/cts_0280 CTS20010119.1300.1098
+* chtb_2592 bn/cts/02/cts_0281 CTS20010119.1300.1337
+* chtb_2593 bn/cts/02/cts_0282 CTS20010120.1300.1480
+* chtb_2594 bn/cts/02/cts_0283 CTS20010120.1300.1511
+* chtb_2595 bn/cts/02/cts_0284 CTS20010121.1300.1356
+* chtb_2596 bn/cts/02/cts_0285 CTS20010122.1300.0413
+* chtb_2597 bn/cts/02/cts_0286 CTS20010122.1300.0770
+* chtb_2598 bn/cts/02/cts_0287 CTS20010122.1300.0916
+* chtb_2599 bn/cts/02/cts_0288 CTS20010122.1300.1460
+* chtb_2600 bn/cts/02/cts_0289 CTS20010123.1300.0140
+* chtb_2601 bn/cts/02/cts_0290 CTS20010123.1300.0221
+* chtb_2602 bn/cts/02/cts_0291 CTS20010123.1300.0544
+chtb_2603 bn/cts/02/cts_0292 CTS20010123.1300.0704
+chtb_2604 bn/cts/02/cts_0293 CTS20010124.1300.0208
+chtb_2605 bn/cts/02/cts_0294 CTS20010124.1300.0619
+chtb_2606 bn/cts/02/cts_0295 CTS20010125.1300.0678
+chtb_2607 bn/cts/02/cts_0296 CTS20010125.1300.0755
+chtb_2608 bn/cts/02/cts_0297 CTS20010125.1300.1067
+chtb_2609 bn/cts/02/cts_0298 CTS20010125.1300.1406
+chtb_2610 bn/cts/02/cts_0299 CTS20010126.1300.0216
+chtb_2611 bn/cts/03/cts_0300 CTS20010126.1300.1012
+chtb_2612 bn/cts/03/cts_0301 CTS20010127.1300.0504
+chtb_2613 bn/cts/03/cts_0302 CTS20010127.1300.0849
+chtb_2614 bn/cts/03/cts_0303 CTS20010128.1300.0007
+chtb_2615 bn/cts/03/cts_0304 CTS20010128.1300.0463
+chtb_2616 bn/cts/03/cts_0305 CTS20010128.1300.0835
+chtb_2617 bn/cts/03/cts_0306 CTS20010129.1300.0004
+chtb_2618 bn/cts/03/cts_0307 CTS20010129.1300.0409
+chtb_2619 bn/cts/03/cts_0308 CTS20010131.1300.0494
+chtb_2620 bn/cts/03/cts_0309 CTS20010131.1300.0709
+chtb_2621 bn/cts/03/cts_0310 CTS20010131.1300.0780
+chtb_2622 bn/cts/03/cts_0311 CTS20010131.1300.0871
+chtb_2623 bn/cts/03/cts_0312 CTS20010131.1300.1362
+chtb_2624 bn/ctv/00/ctv_0001 CTV20001003.1330.0000
+chtb_2625 bn/ctv/00/ctv_0002 CTV20001003.1330.1594
+chtb_2626 bn/ctv/00/ctv_0003 CTV20001005.1330.0595
+chtb_2627 bn/ctv/00/ctv_0004 CTV20001005.1330.1284
+chtb_2628 bn/ctv/00/ctv_0005 CTV20001005.1330.1424
+chtb_2629 bn/ctv/00/ctv_0006 CTV20001005.1330.1455
+chtb_2630 bn/ctv/00/ctv_0007 CTV20001009.1330.0695
+chtb_2631 bn/ctv/00/ctv_0008 CTV20001010.1330.1176
+chtb_2632 bn/ctv/00/ctv_0009 CTV20001010.1330.1622
+chtb_2633 bn/ctv/00/ctv_0010 CTV20001010.1330.1644
+chtb_2634 bn/ctv/00/ctv_0011 CTV20001011.1330.0522
+chtb_2635 bn/ctv/00/ctv_0012 CTV20001011.1330.1247
+chtb_2636 bn/ctv/00/ctv_0013 CTV20001015.1430.1540
+chtb_2637 bn/ctv/00/ctv_0014 CTV20001017.1330.0062
+chtb_2638 bn/ctv/00/ctv_0015 CTV20001017.1330.0441
+chtb_2639 bn/ctv/00/ctv_0016 CTV20001017.1330.1237
+chtb_2640 bn/ctv/00/ctv_0017 CTV20001019.1330.1410
+chtb_2641 bn/ctv/00/ctv_0018 CTV20001019.1330.1631
+chtb_2642 bn/ctv/00/ctv_0019 CTV20001021.1530.0743
+chtb_2643 bn/ctv/00/ctv_0020 CTV20001021.1530.0961
+chtb_2644 bn/ctv/00/ctv_0021 CTV20001021.1530.1075
+chtb_2645 bn/ctv/00/ctv_0022 CTV20001021.1530.1567
+chtb_2646 bn/ctv/00/ctv_0023 CTV20001022.1430.0459
+chtb_2647 bn/ctv/00/ctv_0024 CTV20001022.1430.0961
+chtb_2648 bn/ctv/00/ctv_0025 CTV20001022.1430.1024
+chtb_2649 bn/ctv/00/ctv_0026 CTV20001024.1330.1118
+chtb_2650 bn/ctv/00/ctv_0027 CTV20001024.1330.1400
+chtb_2651 bn/ctv/00/ctv_0028 CTV20001024.1330.1495
+chtb_2652 bn/ctv/00/ctv_0029 CTV20001024.1330.1616
+chtb_2653 bn/ctv/00/ctv_0030 CTV20001025.1330.0673
+chtb_2654 bn/ctv/00/ctv_0031 CTV20001025.1330.1648
+chtb_2655 bn/ctv/00/ctv_0032 CTV20001026.1530.0223
+chtb_2656 bn/ctv/00/ctv_0033 CTV20001026.1530.0802
+chtb_2657 bn/ctv/00/ctv_0034 CTV20001026.1530.1197
+chtb_2658 bn/ctv/00/ctv_0035 CTV20001026.1530.1525
+chtb_2659 bn/ctv/00/ctv_0036 CTV20001030.1330.0014
+chtb_2660 bn/ctv/00/ctv_0037 CTV20001030.1330.0326
+chtb_2661 bn/ctv/00/ctv_0038 CTV20001030.1330.1412
+chtb_2662 bn/ctv/00/ctv_0039 CTV20001030.1330.1547
+chtb_2663 bn/ctv/00/ctv_0040 CTV20001031.1330.0053
+chtb_2664 bn/ctv/00/ctv_0041 CTV20001031.1330.0264
+chtb_2665 bn/ctv/00/ctv_0042 CTV20001031.1330.0894
+chtb_2666 bn/ctv/00/ctv_0043 CTV20001031.1330.1152
+chtb_2667 bn/ctv/00/ctv_0044 CTV20001031.1330.1387
+chtb_2668 bn/ctv/00/ctv_0045 CTV20001031.1330.1462
+chtb_2669 bn/ctv/00/ctv_0046 CTV20001102.1330.0604
+chtb_2670 bn/ctv/00/ctv_0047 CTV20001102.1330.0879
+chtb_2671 bn/ctv/00/ctv_0048 CTV20001102.1330.0976
+chtb_2672 bn/ctv/00/ctv_0049 CTV20001102.1330.1413
+chtb_2673 bn/ctv/00/ctv_0050 CTV20001104.1530.0780
+chtb_2674 bn/ctv/00/ctv_0051 CTV20001106.1330.0134
+chtb_2675 bn/ctv/00/ctv_0052 CTV20001106.1330.0676
+chtb_2676 bn/ctv/00/ctv_0053 CTV20001106.1330.0915
+chtb_2677 bn/ctv/00/ctv_0054 CTV20001106.1330.1311
+chtb_2678 bn/ctv/00/ctv_0055 CTV20001106.1330.1457
+chtb_2679 bn/ctv/00/ctv_0056 CTV20001106.1330.1519
+chtb_2680 bn/ctv/00/ctv_0057 CTV20001107.1330.0384
+chtb_2681 bn/ctv/00/ctv_0058 CTV20001107.1330.1032
+chtb_2682 bn/ctv/00/ctv_0059 CTV20001107.1330.1545
+chtb_2683 bn/ctv/00/ctv_0060 CTV20001110.1330.0231
+chtb_2684 bn/ctv/00/ctv_0061 CTV20001110.1330.0298
+chtb_2685 bn/ctv/00/ctv_0062 CTV20001110.1330.0881
+chtb_2686 bn/ctv/00/ctv_0063 CTV20001110.1330.1532
+chtb_2687 bn/ctv/00/ctv_0064 CTV20001113.1330.0378
+chtb_2688 bn/ctv/00/ctv_0065 CTV20001113.1330.0878
+chtb_2689 bn/ctv/00/ctv_0066 CTV20001113.1330.1161
+chtb_2690 bn/ctv/00/ctv_0067 CTV20001114.1330.0245
+chtb_2691 bn/ctv/00/ctv_0068 CTV20001114.1330.0505
+chtb_2692 bn/ctv/00/ctv_0069 CTV20001114.1330.1509
+chtb_2693 bn/ctv/00/ctv_0070 CTV20001114.1330.1559
+chtb_2694 bn/ctv/00/ctv_0071 CTV20001116.1330.0474
+chtb_2695 bn/ctv/00/ctv_0072 CTV20001116.1330.1023
+chtb_2696 bn/ctv/00/ctv_0073 CTV20001116.1330.1304
+chtb_2697 bn/ctv/00/ctv_0074 CTV20001117.1330.0369
+chtb_2698 bn/ctv/00/ctv_0075 CTV20001117.1330.1499
+chtb_2699 bn/ctv/00/ctv_0076 CTV20001120.1330.0066
+chtb_2700 bn/ctv/00/ctv_0077 CTV20001120.1330.0761
+chtb_2701 bn/ctv/00/ctv_0078 CTV20001121.1330.0682
+chtb_2702 bn/ctv/00/ctv_0079 CTV20001121.1330.1539
+chtb_2703 bn/ctv/00/ctv_0080 CTV20001122.1330.1504
+chtb_2704 bn/ctv/00/ctv_0081 CTV20001123.1330.0443
+chtb_2705 bn/ctv/00/ctv_0082 CTV20001123.1330.0554
+chtb_2706 bn/ctv/00/ctv_0083 CTV20001123.1330.0837
+chtb_2707 bn/ctv/00/ctv_0084 CTV20001123.1330.1019
+chtb_2708 bn/ctv/00/ctv_0085 CTV20001123.1330.1450
+chtb_2709 bn/ctv/00/ctv_0086 CTV20001123.1330.1541
+chtb_2710 bn/ctv/00/ctv_0087 CTV20001127.1330.0329
+chtb_2711 bn/ctv/00/ctv_0088 CTV20001127.1330.1368
+chtb_2712 bn/ctv/00/ctv_0089 CTV20001127.1330.1462
+chtb_2713 bn/ctv/00/ctv_0090 CTV20001129.1330.0001
+chtb_2714 bn/ctv/00/ctv_0091 CTV20001129.1330.0118
+chtb_2715 bn/ctv/00/ctv_0092 CTV20001129.1330.0449
+chtb_2716 bn/ctv/00/ctv_0093 CTV20001129.1330.0717
+chtb_2717 bn/ctv/00/ctv_0094 CTV20001129.1330.1511
+chtb_2718 bn/ctv/00/ctv_0095 CTV20001201.1330.0675
+chtb_2719 bn/ctv/00/ctv_0096 CTV20001201.1330.1047
+chtb_2720 bn/ctv/00/ctv_0097 CTV20001201.1330.1413
+chtb_2721 bn/ctv/00/ctv_0098 CTV20001201.1330.1555
+chtb_2722 bn/ctv/00/ctv_0099 CTV20001202.1530.0030
+chtb_2723 bn/ctv/01/ctv_0100 CTV20001202.1530.0612
+chtb_2724 bn/ctv/01/ctv_0101 CTV20001202.1530.1582
+chtb_2725 bn/ctv/01/ctv_0102 CTV20001203.1430.0763
+chtb_2726 bn/ctv/01/ctv_0103 CTV20001205.1330.0213
+chtb_2727 bn/ctv/01/ctv_0104 CTV20001205.1330.0509
+chtb_2728 bn/ctv/01/ctv_0105 CTV20001205.1330.1436
+chtb_2729 bn/ctv/01/ctv_0106 CTV20001205.1330.1551
+chtb_2730 bn/ctv/01/ctv_0107 CTV20001207.1330.0204
+chtb_2731 bn/ctv/01/ctv_0108 CTV20001207.1330.0449
+chtb_2732 bn/ctv/01/ctv_0109 CTV20001207.1330.0642
+chtb_2733 bn/ctv/01/ctv_0110 CTV20001207.1330.0869
+chtb_2734 bn/ctv/01/ctv_0111 CTV20001207.1330.1143
+chtb_2735 bn/ctv/01/ctv_0112 CTV20001207.1330.1448
+chtb_2736 bn/ctv/01/ctv_0113 CTV20001208.1330.0003
+chtb_2737 bn/ctv/01/ctv_0114 CTV20001208.1330.0374
+chtb_2738 bn/ctv/01/ctv_0115 CTV20001208.1330.0743
+chtb_2739 bn/ctv/01/ctv_0116 CTV20001208.1330.0800
+chtb_2740 bn/ctv/01/ctv_0117 CTV20001208.1330.0897
+chtb_2741 bn/ctv/01/ctv_0118 CTV20001208.1330.0992
+chtb_2742 bn/ctv/01/ctv_0119 CTV20001208.1330.1180
+chtb_2743 bn/ctv/01/ctv_0120 CTV20001208.1330.1503
+chtb_2744 bn/ctv/01/ctv_0121 CTV20001208.1330.1585
+chtb_2745 bn/ctv/01/ctv_0122 CTV20001210.1430.0951
+chtb_2746 bn/ctv/01/ctv_0123 CTV20001210.1430.1151
+chtb_2747 bn/ctv/01/ctv_0124 CTV20001210.1430.1316
+chtb_2748 bn/ctv/01/ctv_0125 CTV20001210.1430.1519
+chtb_2749 bn/ctv/01/ctv_0126 CTV20001210.1430.1597
+chtb_2750 bn/ctv/01/ctv_0127 CTV20001213.1330.0213
+chtb_2751 bn/ctv/01/ctv_0128 CTV20001213.1330.1008
+chtb_2752 bn/ctv/01/ctv_0129 CTV20001213.1330.1479
+chtb_2753 bn/ctv/01/ctv_0130 CTV20001213.1330.1524
+chtb_2754 bn/ctv/01/ctv_0131 CTV20001215.1330.0171
+chtb_2755 bn/ctv/01/ctv_0132 CTV20001215.1330.1550
+chtb_2756 bn/ctv/01/ctv_0133 CTV20001215.1330.1591
+chtb_2757 bn/ctv/01/ctv_0134 CTV20001217.1430.0263
+chtb_2758 bn/ctv/01/ctv_0135 CTV20001217.1430.0830
+chtb_2759 bn/ctv/01/ctv_0136 CTV20001217.1430.0968
+chtb_2760 bn/ctv/01/ctv_0137 CTV20001217.1430.1339
+chtb_2761 bn/ctv/01/ctv_0138 CTV20001219.1330.1595
+chtb_2762 bn/ctv/01/ctv_0139 CTV20001221.1330.0346
+chtb_2763 bn/ctv/01/ctv_0140 CTV20001221.1330.1322
+chtb_2764 bn/ctv/01/ctv_0141 CTV20001221.1330.1452
+chtb_2765 bn/ctv/01/ctv_0142 CTV20001223.1530.0428
+chtb_2766 bn/ctv/01/ctv_0143 CTV20001223.1530.0485
+chtb_2767 bn/ctv/01/ctv_0144 CTV20001223.1530.1085
+chtb_2768 bn/ctv/01/ctv_0145 CTV20001223.1530.1288
+chtb_2769 bn/ctv/01/ctv_0146 CTV20001223.1530.1593
+chtb_2770 bn/ctv/01/ctv_0147 CTV20001223.1530.1621
+chtb_2771 bn/ctv/01/ctv_0148 CTV20001223.1530.1648
+chtb_2772 bn/ctv/01/ctv_0149 CTV20001224.1430.1439
+chtb_2773 bn/ctv/01/ctv_0150 CTV20001224.1430.1496
+chtb_2774 bn/ctv/01/ctv_0151 CTV20001226.1330.0735
+! chtb_2775 bn/ctv/01/ctv_0152 CTV20001226.1330.1656
+! chtb_2776 bn/ctv/01/ctv_0153 CTV20001227.1330.0447
+! chtb_2777 bn/ctv/01/ctv_0154 CTV20001227.1330.1536
+! chtb_2778 bn/ctv/01/ctv_0155 CTV20001228.1330.1196
+! chtb_2779 bn/ctv/01/ctv_0156 CTV20001228.1330.1308
+! chtb_2780 bn/ctv/01/ctv_0157 CTV20001228.1330.1405
+! chtb_2781 bn/ctv/01/ctv_0158 CTV20001228.1330.1491
+! chtb_2782 bn/ctv/01/ctv_0159 CTV20001228.1330.1586
+! chtb_2783 bn/ctv/01/ctv_0160 CTV20010103.1330.0488
+! chtb_2784 bn/ctv/01/ctv_0161 CTV20010104.1330.0937
+! chtb_2785 bn/ctv/01/ctv_0162 CTV20010104.1330.1468
+! chtb_2786 bn/ctv/01/ctv_0163 CTV20010110.1330.1065
+! chtb_2787 bn/ctv/01/ctv_0164 CTV20010110.1330.1139
+! chtb_2788 bn/ctv/01/ctv_0165 CTV20010110.1330.1471
+! chtb_2789 bn/ctv/01/ctv_0166 CTV20010112.1330.0889
+! chtb_2790 bn/ctv/01/ctv_0167 CTV20010112.1330.1444
+! chtb_2791 bn/ctv/01/ctv_0168 CTV20010113.1530.0221
+! chtb_2792 bn/ctv/01/ctv_0169 CTV20010113.1530.0995
+! chtb_2793 bn/ctv/01/ctv_0170 CTV20010113.1530.1265
+! chtb_2794 bn/ctv/01/ctv_0171 CTV20010116.1330.0029
+! chtb_2795 bn/ctv/01/ctv_0172 CTV20010116.1330.0833
+! chtb_2796 bn/ctv/01/ctv_0173 CTV20010116.1330.1265
+! chtb_2797 bn/ctv/01/ctv_0174 CTV20010117.1330.0763
+! chtb_2798 bn/ctv/01/ctv_0175 CTV20010118.1330.1200
+! chtb_2799 bn/ctv/01/ctv_0176 CTV20010118.1330.1628
+* chtb_2800 bn/ctv/01/ctv_0177 CTV20010120.1530.0517
+* chtb_2801 bn/ctv/01/ctv_0178 CTV20010120.1530.0555
+* chtb_2802 bn/ctv/01/ctv_0179 CTV20010120.1530.0934
+* chtb_2803 bn/ctv/01/ctv_0180 CTV20010120.1530.1341
+* chtb_2804 bn/ctv/01/ctv_0181 CTV20010120.1530.1404
+* chtb_2805 bn/ctv/01/ctv_0182 CTV20010120.1530.1497
+* chtb_2806 bn/ctv/01/ctv_0183 CTV20010120.1530.1607
+* chtb_2807 bn/ctv/01/ctv_0184 CTV20010121.1430.0033
+* chtb_2808 bn/ctv/01/ctv_0185 CTV20010121.1430.0311
+* chtb_2809 bn/ctv/01/ctv_0186 CTV20010121.1430.1322
+* chtb_2810 bn/ctv/01/ctv_0187 CTV20010121.1430.1408
+* chtb_2811 bn/ctv/01/ctv_0188 CTV20010121.1430.1564
+* chtb_2812 bn/ctv/01/ctv_0189 CTV20010125.1330.1467
+* chtb_2813 bn/ctv/01/ctv_0190 CTV20010127.1530.0260
+* chtb_2814 bn/ctv/01/ctv_0191 CTV20010128.1330.1097
+* chtb_2815 bn/ctv/01/ctv_0192 CTV20010128.1330.1462
+* chtb_2816 bn/ctv/01/ctv_0193 CTV20010130.1330.0480
+* chtb_2817 bn/ctv/01/ctv_0194 CTV20010130.1330.0665
+* chtb_2818 bn/ctv/01/ctv_0195 CTV20010131.1330.0247
+* chtb_2819 bn/ctv/01/ctv_0196 CTV20010131.1330.0551
+chtb_2820 bn/ctv/01/ctv_0197 CTV20010131.1330.0605
+chtb_2821 bn/vom/00/vom_0001 VOM20001002.1800.0234
+chtb_2822 bn/vom/00/vom_0002 VOM20001002.1800.0780
+chtb_2823 bn/vom/00/vom_0003 VOM20001002.1800.0966
+chtb_2824 bn/vom/00/vom_0004 VOM20001002.1800.1935
+chtb_2825 bn/vom/00/vom_0005 VOM20001002.1800.1999
+chtb_2826 bn/vom/00/vom_0006 VOM20001004.1800.0117
+chtb_2827 bn/vom/00/vom_0007 VOM20001004.1800.0590
+chtb_2828 bn/vom/00/vom_0008 VOM20001004.1800.0776
+chtb_2829 bn/vom/00/vom_0009 VOM20001004.1800.1942
+chtb_2830 bn/vom/00/vom_0010 VOM20001004.1800.2013
+chtb_2831 bn/vom/00/vom_0011 VOM20001004.1800.2345
+chtb_2832 bn/vom/00/vom_0012 VOM20001004.1800.2582
+chtb_2833 bn/vom/00/vom_0013 VOM20001005.1800.0124
+chtb_2834 bn/vom/00/vom_0014 VOM20001005.1800.0430
+chtb_2835 bn/vom/00/vom_0015 VOM20001005.1800.1966
+chtb_2836 bn/vom/00/vom_0016 VOM20001005.1800.2123
+chtb_2837 bn/vom/00/vom_0017 VOM20001005.1800.3322
+chtb_2838 bn/vom/00/vom_0018 VOM20001006.1800.0115
+chtb_2839 bn/vom/00/vom_0019 VOM20001006.1800.0278
+chtb_2840 bn/vom/00/vom_0020 VOM20001006.1800.0330
+chtb_2841 bn/vom/00/vom_0021 VOM20001006.1800.0436
+chtb_2842 bn/vom/00/vom_0022 VOM20001006.1800.1851
+chtb_2843 bn/vom/00/vom_0023 VOM20001006.1800.2054
+chtb_2844 bn/vom/00/vom_0024 VOM20001006.1800.2111
+chtb_2845 bn/vom/00/vom_0025 VOM20001008.1800.0011
+chtb_2846 bn/vom/00/vom_0026 VOM20001008.1800.0109
+chtb_2847 bn/vom/00/vom_0027 VOM20001008.1800.0554
+chtb_2848 bn/vom/00/vom_0028 VOM20001008.1800.1841
+chtb_2849 bn/vom/00/vom_0029 VOM20001008.1800.1906
+chtb_2850 bn/vom/00/vom_0030 VOM20001008.1800.2009
+chtb_2851 bn/vom/00/vom_0031 VOM20001008.1800.2049
+chtb_2852 bn/vom/00/vom_0032 VOM20001008.1800.3132
+chtb_2853 bn/vom/00/vom_0033 VOM20001010.1800.0113
+chtb_2854 bn/vom/00/vom_0034 VOM20001010.1800.0358
+chtb_2855 bn/vom/00/vom_0035 VOM20001010.1800.0425
+chtb_2856 bn/vom/00/vom_0036 VOM20001010.1800.1087
+chtb_2857 bn/vom/00/vom_0037 VOM20001010.1800.1318
+chtb_2858 bn/vom/00/vom_0038 VOM20001010.1800.1930
+chtb_2859 bn/vom/00/vom_0039 VOM20001010.1800.1971
+chtb_2860 bn/vom/00/vom_0040 VOM20001010.1800.2022
+chtb_2861 bn/vom/00/vom_0041 VOM20001012.1800.0416
+chtb_2862 bn/vom/00/vom_0042 VOM20001012.1800.0816
+chtb_2863 bn/vom/00/vom_0043 VOM20001012.1800.0940
+chtb_2864 bn/vom/00/vom_0044 VOM20001012.1800.2018
+chtb_2865 bn/vom/00/vom_0045 VOM20001012.1800.2064
+chtb_2866 bn/vom/00/vom_0046 VOM20001012.1800.2136
+chtb_2867 bn/vom/00/vom_0047 VOM20001013.1800.0200
+chtb_2868 bn/vom/00/vom_0048 VOM20001013.1800.0247
+chtb_2869 bn/vom/00/vom_0049 VOM20001013.1800.0287
+chtb_2870 bn/vom/00/vom_0050 VOM20001013.1800.0379
+chtb_2871 bn/vom/00/vom_0051 VOM20001013.1800.0411
+chtb_2872 bn/vom/00/vom_0052 VOM20001013.1800.1113
+chtb_2873 bn/vom/00/vom_0053 VOM20001013.1800.1217
+chtb_2874 bn/vom/00/vom_0054 VOM20001013.1800.1982
+chtb_2875 bn/vom/00/vom_0055 VOM20001013.1800.2030
+chtb_2876 bn/vom/00/vom_0056 VOM20001014.1800.0181
+chtb_2877 bn/vom/00/vom_0057 VOM20001014.1800.0337
+chtb_2878 bn/vom/00/vom_0058 VOM20001014.1800.0426
+chtb_2879 bn/vom/00/vom_0059 VOM20001014.1800.0628
+chtb_2880 bn/vom/00/vom_0060 VOM20001014.1800.1109
+chtb_2881 bn/vom/00/vom_0061 VOM20001014.1800.2130
+chtb_2882 bn/vom/00/vom_0062 VOM20001014.1800.2390
+chtb_2883 bn/vom/00/vom_0063 VOM20001016.1800.0121
+chtb_2884 bn/vom/00/vom_0064 VOM20001016.1800.0391
+chtb_2885 bn/vom/00/vom_0065 VOM20001016.1800.1128
+chtb_2886 bn/vom/00/vom_0066 VOM20001016.1800.1466
+chtb_2887 bn/vom/00/vom_0067 VOM20001016.1800.1883
+chtb_2888 bn/vom/00/vom_0068 VOM20001016.1800.2852
+chtb_2889 bn/vom/00/vom_0069 VOM20001018.1800.0119
+chtb_2890 bn/vom/00/vom_0070 VOM20001018.1800.0285
+chtb_2891 bn/vom/00/vom_0071 VOM20001018.1800.0356
+chtb_2892 bn/vom/00/vom_0072 VOM20001018.1800.0430
+chtb_2893 bn/vom/00/vom_0073 VOM20001018.1800.1306
+chtb_2894 bn/vom/00/vom_0074 VOM20001018.1800.2923
+chtb_2895 bn/vom/00/vom_0075 VOM20001020.1800.0105
+chtb_2896 bn/vom/00/vom_0076 VOM20001020.1800.0144
+chtb_2897 bn/vom/00/vom_0077 VOM20001020.1800.0210
+chtb_2898 bn/vom/00/vom_0078 VOM20001020.1800.1740
+chtb_2899 bn/vom/00/vom_0079 VOM20001020.1800.1775
+chtb_2900 bn/vom/00/vom_0080 VOM20001020.1800.2010
+chtb_2901 bn/vom/00/vom_0081 VOM20001020.1800.2981
+chtb_2902 bn/vom/00/vom_0082 VOM20001021.1800.0265
+chtb_2903 bn/vom/00/vom_0083 VOM20001021.1800.1038
+chtb_2904 bn/vom/00/vom_0084 VOM20001021.1800.1144
+chtb_2905 bn/vom/00/vom_0085 VOM20001021.1800.1958
+chtb_2906 bn/vom/00/vom_0086 VOM20001021.1800.2120
+chtb_2907 bn/vom/00/vom_0087 VOM20001022.1800.0231
+chtb_2908 bn/vom/00/vom_0088 VOM20001022.1800.0366
+chtb_2909 bn/vom/00/vom_0089 VOM20001022.1800.1220
+chtb_2910 bn/vom/00/vom_0090 VOM20001022.1800.1467
+chtb_2911 bn/vom/00/vom_0091 VOM20001022.1800.1617
+chtb_2912 bn/vom/00/vom_0092 VOM20001022.1800.2158
+chtb_2913 bn/vom/00/vom_0093 VOM20001022.1800.2200
+chtb_2914 bn/vom/00/vom_0094 VOM20001022.1800.2493
+chtb_2915 bn/vom/00/vom_0095 VOM20001022.1800.2938
+chtb_2916 bn/vom/00/vom_0096 VOM20001022.1800.3315
+chtb_2917 bn/vom/00/vom_0097 VOM20001024.1800.0239
+chtb_2918 bn/vom/00/vom_0098 VOM20001024.1800.0289
+chtb_2919 bn/vom/00/vom_0099 VOM20001024.1800.1071
+chtb_2920 bn/vom/01/vom_0100 VOM20001024.1800.1241
+chtb_2921 bn/vom/01/vom_0101 VOM20001024.1800.1850
+chtb_2922 bn/vom/01/vom_0102 VOM20001024.1800.2163
+chtb_2923 bn/vom/01/vom_0103 VOM20001024.1800.2621
+chtb_2924 bn/vom/01/vom_0104 VOM20001024.1800.2758
+chtb_2925 bn/vom/01/vom_0105 VOM20001026.1800.0175
+chtb_2926 bn/vom/01/vom_0106 VOM20001026.1800.0795
+chtb_2927 bn/vom/01/vom_0107 VOM20001026.1800.2276
+chtb_2928 bn/vom/01/vom_0108 VOM20001027.1800.0151
+chtb_2929 bn/vom/01/vom_0109 VOM20001027.1800.0230
+chtb_2930 bn/vom/01/vom_0110 VOM20001027.1800.0269
+chtb_2931 bn/vom/01/vom_0111 VOM20001027.1800.0327
+chtb_2932 bn/vom/01/vom_0112 VOM20001027.1800.1666
+chtb_2933 bn/vom/01/vom_0113 VOM20001027.1800.1882
+chtb_2934 bn/vom/01/vom_0114 VOM20001027.1800.1912
+chtb_2935 bn/vom/01/vom_0115 VOM20001027.1800.1957
+chtb_2936 bn/vom/01/vom_0116 VOM20001027.1800.1984
+chtb_2937 bn/vom/01/vom_0117 VOM20001027.1800.2019
+chtb_2938 bn/vom/01/vom_0118 VOM20001027.1800.2136
+chtb_2939 bn/vom/01/vom_0119 VOM20001027.1800.3246
+chtb_2940 bn/vom/01/vom_0120 VOM20001028.1800.0152
+chtb_2941 bn/vom/01/vom_0121 VOM20001028.1800.0282
+chtb_2942 bn/vom/01/vom_0122 VOM20001028.1800.0364
+chtb_2943 bn/vom/01/vom_0123 VOM20001028.1800.0617
+chtb_2944 bn/vom/01/vom_0124 VOM20001028.1800.0762
+chtb_2945 bn/vom/01/vom_0125 VOM20001028.1800.1914
+chtb_2946 bn/vom/01/vom_0126 VOM20001028.1800.1997
+chtb_2947 bn/vom/01/vom_0127 VOM20001028.1800.2080
+chtb_2948 bn/vom/01/vom_0128 VOM20001028.1800.3128
+chtb_2949 bn/vom/01/vom_0129 VOM20001114.0700.0096
+chtb_2950 bn/vom/01/vom_0130 VOM20001114.0700.0245
+chtb_2951 bn/vom/01/vom_0131 VOM20001114.0700.0302
+chtb_2952 bn/vom/01/vom_0132 VOM20001114.0700.1897
+chtb_2953 bn/vom/01/vom_0133 VOM20001114.0700.2372
+chtb_2954 bn/vom/01/vom_0134 VOM20001115.0700.0068
+chtb_2955 bn/vom/01/vom_0135 VOM20001115.0700.0140
+chtb_2956 bn/vom/01/vom_0136 VOM20001115.0700.1089
+chtb_2957 bn/vom/01/vom_0137 VOM20001115.0700.1981
+chtb_2958 bn/vom/01/vom_0138 VOM20001115.0700.2995
+chtb_2959 bn/vom/01/vom_0139 VOM20001116.0700.0118
+chtb_2960 bn/vom/01/vom_0140 VOM20001116.0700.2724
+chtb_2961 bn/vom/01/vom_0141 VOM20001118.0700.0169
+chtb_2962 bn/vom/01/vom_0142 VOM20001118.0700.0219
+chtb_2963 bn/vom/01/vom_0143 VOM20001118.0700.1171
+chtb_2964 bn/vom/01/vom_0144 VOM20001118.0700.1605
+chtb_2965 bn/vom/01/vom_0145 VOM20001118.0700.1897
+chtb_2966 bn/vom/01/vom_0146 VOM20001120.0700.0179
+chtb_2967 bn/vom/01/vom_0147 VOM20001120.0700.1862
+chtb_2968 bn/vom/01/vom_0148 VOM20001122.0700.0351
+chtb_2969 bn/vom/01/vom_0149 VOM20001122.0700.2784
+chtb_2970 bn/vom/01/vom_0150 VOM20001123.0700.0197
+chtb_2971 bn/vom/01/vom_0151 VOM20001123.0700.0261
+chtb_2972 bn/vom/01/vom_0152 VOM20001123.0700.0578
+chtb_2973 bn/vom/01/vom_0153 VOM20001123.0700.0882
+chtb_2974 bn/vom/01/vom_0154 VOM20001123.0700.2073
+chtb_2975 bn/vom/01/vom_0155 VOM20001124.0700.0099
+chtb_2976 bn/vom/01/vom_0156 VOM20001124.0700.0242
+chtb_2977 bn/vom/01/vom_0157 VOM20001124.0700.0309
+chtb_2978 bn/vom/01/vom_0158 VOM20001124.0700.2037
+chtb_2979 bn/vom/01/vom_0159 VOM20001124.0700.2168
+chtb_2980 bn/vom/01/vom_0160 VOM20001126.0700.0157
+chtb_2981 bn/vom/01/vom_0161 VOM20001126.0700.0685
+chtb_2982 bn/vom/01/vom_0162 VOM20001126.0700.2447
+chtb_2983 bn/vom/01/vom_0163 VOM20001128.0700.0172
+chtb_2984 bn/vom/01/vom_0164 VOM20001128.0700.0266
+chtb_2985 bn/vom/01/vom_0165 VOM20001128.0700.0319
+chtb_2986 bn/vom/01/vom_0166 VOM20001128.0700.1018
+chtb_2987 bn/vom/01/vom_0167 VOM20001128.0700.1227
+chtb_2988 bn/vom/01/vom_0168 VOM20001129.0700.0220
+chtb_2989 bn/vom/01/vom_0169 VOM20001129.0700.0275
+chtb_2990 bn/vom/01/vom_0170 VOM20001129.0700.0331
+chtb_2991 bn/vom/01/vom_0171 VOM20001129.0700.0363
+chtb_2992 bn/vom/01/vom_0172 VOM20001129.0700.0595
+chtb_2993 bn/vom/01/vom_0173 VOM20001129.0700.0798
+chtb_2994 bn/vom/01/vom_0174 VOM20001129.0700.1526
+chtb_2995 bn/vom/01/vom_0175 VOM20001129.0700.1645
+chtb_2996 bn/vom/01/vom_0176 VOM20001129.0700.2150
+chtb_2997 bn/vom/01/vom_0177 VOM20001129.0700.2200
+chtb_2998 bn/vom/01/vom_0178 VOM20001129.0700.2829
+chtb_2999 bn/vom/01/vom_0179 VOM20001129.0700.2999
+chtb_3000 bn/vom/01/vom_0180 VOM20001130.0700.0174
+chtb_3001 bn/vom/01/vom_0181 VOM20001130.0700.0210
+chtb_3002 bn/vom/01/vom_0182 VOM20001130.0700.0251
+chtb_3003 bn/vom/01/vom_0183 VOM20001130.0700.0296
+chtb_3004 bn/vom/01/vom_0184 VOM20001130.0700.1248
+chtb_3005 bn/vom/01/vom_0185 VOM20001130.0700.2824
+chtb_3006 bn/vom/01/vom_0186 VOM20001202.0700.0061
+chtb_3007 bn/vom/01/vom_0187 VOM20001202.0700.0222
+chtb_3008 bn/vom/01/vom_0188 VOM20001202.0700.0308
+chtb_3009 bn/vom/01/vom_0189 VOM20001202.0700.0344
+chtb_3010 bn/vom/01/vom_0190 VOM20001204.0700.0613
+chtb_3011 bn/vom/01/vom_0191 VOM20001204.0700.1505
+chtb_3012 bn/vom/01/vom_0192 VOM20001204.0700.1803
+chtb_3013 bn/vom/01/vom_0193 VOM20001204.0700.2094
+chtb_3014 bn/vom/01/vom_0194 VOM20001206.0700.0144
+chtb_3015 bn/vom/01/vom_0195 VOM20001206.0700.0186
+chtb_3016 bn/vom/01/vom_0196 VOM20001206.0700.0322
+chtb_3017 bn/vom/01/vom_0197 VOM20001206.0700.0350
+chtb_3018 bn/vom/01/vom_0198 VOM20001207.0700.0129
+chtb_3019 bn/vom/01/vom_0199 VOM20001207.0700.1963
+chtb_3020 bn/vom/02/vom_0200 VOM20001208.0700.0139
+chtb_3021 bn/vom/02/vom_0201 VOM20001208.0700.0194
+chtb_3022 bn/vom/02/vom_0202 VOM20001208.0700.0290
+chtb_3023 bn/vom/02/vom_0203 VOM20001208.0700.2138
+chtb_3024 bn/vom/02/vom_0204 VOM20001210.0700.0139
+chtb_3025 bn/vom/02/vom_0205 VOM20001210.0700.0257
+chtb_3026 bn/vom/02/vom_0206 VOM20001210.0700.0304
+chtb_3027 bn/vom/02/vom_0207 VOM20001210.0700.0392
+chtb_3028 bn/vom/02/vom_0208 VOM20001210.0700.0657
+chtb_3029 bn/vom/02/vom_0209 VOM20001210.0700.0921
+chtb_3030 bn/vom/02/vom_0210 VOM20001210.0700.2071
+chtb_3031 bn/vom/02/vom_0211 VOM20001212.0700.0187
+chtb_3032 bn/vom/02/vom_0212 VOM20001212.0700.0330
+chtb_3033 bn/vom/02/vom_0213 VOM20001212.0700.1365
+chtb_3034 bn/vom/02/vom_0214 VOM20001212.0700.1913
+chtb_3035 bn/vom/02/vom_0215 VOM20001212.0700.2070
+chtb_3036 bn/vom/02/vom_0216 VOM20001212.0700.2119
+chtb_3037 bn/vom/02/vom_0217 VOM20001214.0700.0220
+chtb_3038 bn/vom/02/vom_0218 VOM20001214.0700.0260
+chtb_3039 bn/vom/02/vom_0219 VOM20001214.0700.0352
+chtb_3040 bn/vom/02/vom_0220 VOM20001214.0700.1188
+chtb_3041 bn/vom/02/vom_0221 VOM20001214.0700.1922
+chtb_3042 bn/vom/02/vom_0222 VOM20001214.0700.2179
+chtb_3043 bn/vom/02/vom_0223 VOM20001215.0700.0147
+chtb_3044 bn/vom/02/vom_0224 VOM20001215.0700.0200
+chtb_3045 bn/vom/02/vom_0225 VOM20001215.0700.2000
+chtb_3046 bn/vom/02/vom_0226 VOM20001216.0700.0211
+chtb_3047 bn/vom/02/vom_0227 VOM20001216.0700.0543
+chtb_3048 bn/vom/02/vom_0228 VOM20001216.0700.1886
+chtb_3049 bn/vom/02/vom_0229 VOM20001218.0700.0120
+chtb_3050 bn/vom/02/vom_0230 VOM20001218.0700.0303
+chtb_3051 bn/vom/02/vom_0231 VOM20001218.0700.0373
+chtb_3052 bn/vom/02/vom_0232 VOM20001218.0700.2592
+chtb_3053 bn/vom/02/vom_0233 VOM20001220.0700.0158
+chtb_3054 bn/vom/02/vom_0234 VOM20001220.0700.0231
+chtb_3055 bn/vom/02/vom_0235 VOM20001220.0700.0710
+chtb_3056 bn/vom/02/vom_0236 VOM20001220.0700.0939
+chtb_3057 bn/vom/02/vom_0237 VOM20001221.0700.0217
+chtb_3058 bn/vom/02/vom_0238 VOM20001221.0700.0277
+chtb_3059 bn/vom/02/vom_0239 VOM20001221.0700.0643
+chtb_3060 bn/vom/02/vom_0240 VOM20001221.0700.0716
+chtb_3061 bn/vom/02/vom_0241 VOM20001221.0700.1980
+chtb_3062 bn/vom/02/vom_0242 VOM20001222.0700.0160
+chtb_3063 bn/vom/02/vom_0243 VOM20001222.0700.0347
+chtb_3064 bn/vom/02/vom_0244 VOM20001222.0700.0416
+chtb_3065 bn/vom/02/vom_0245 VOM20001222.0700.1974
+chtb_3066 bn/vom/02/vom_0246 VOM20001222.0700.2648
+chtb_3067 bn/vom/02/vom_0247 VOM20001223.0700.0136
+chtb_3068 bn/vom/02/vom_0248 VOM20001223.0700.0173
+chtb_3069 bn/vom/02/vom_0249 VOM20001223.0700.0222
+chtb_3070 bn/vom/02/vom_0250 VOM20001223.0700.0269
+chtb_3071 bn/vom/02/vom_0251 VOM20001223.0700.0342
+chtb_3072 bn/vom/02/vom_0252 VOM20001223.0700.0383
+chtb_3073 bn/vom/02/vom_0253 VOM20001230.0700.0044
+chtb_3074 bn/vom/02/vom_0254 VOM20001230.0700.0185
+chtb_3075 bn/vom/02/vom_0255 VOM20001230.0700.0298
+chtb_3076 bn/vom/02/vom_0256 VOM20001230.0700.0379
+chtb_3077 bn/vom/02/vom_0257 VOM20001230.0700.0572
+chtb_3078 bn/vom/02/vom_0258 VOM20001230.0700.0828
+chtb_3079 bn/vom/02/vom_0259 VOM20001230.0700.0983
+! chtb_3080 bn/vom/02/vom_0260 VOM20001230.0700.1093
+! chtb_3081 bn/vom/02/vom_0261 VOM20001230.0700.1666
+! chtb_3082 bn/vom/02/vom_0262 VOM20001231.0700.0015
+! chtb_3083 bn/vom/02/vom_0263 VOM20001231.0700.0229
+! chtb_3084 bn/vom/02/vom_0264 VOM20001231.0700.0328
+! chtb_3085 bn/vom/02/vom_0265 VOM20001231.0700.0839
+! chtb_3086 bn/vom/02/vom_0266 VOM20001231.0700.1465
+! chtb_3087 bn/vom/02/vom_0267 VOM20010106.0700.0611
+! chtb_3088 bn/vom/02/vom_0268 VOM20010107.0700.1148
+! chtb_3089 bn/vom/02/vom_0269 VOM20010108.0700.0216
+! chtb_3090 bn/vom/02/vom_0270 VOM20010108.0700.0294
+! chtb_3091 bn/vom/02/vom_0271 VOM20010108.0700.1728
+! chtb_3092 bn/vom/02/vom_0272 VOM20010108.0700.2022
+! chtb_3093 bn/vom/02/vom_0273 VOM20010110.0700.0258
+! chtb_3094 bn/vom/02/vom_0274 VOM20010110.0700.1619
+! chtb_3095 bn/vom/02/vom_0275 VOM20010110.0700.1804
+! chtb_3096 bn/vom/02/vom_0276 VOM20010110.0700.1847
+! chtb_3097 bn/vom/02/vom_0277 VOM20010110.0700.1912
+! chtb_3098 bn/vom/02/vom_0278 VOM20010112.0700.0092
+! chtb_3099 bn/vom/02/vom_0279 VOM20010112.0700.0154
+! chtb_3100 bn/vom/02/vom_0280 VOM20010112.0700.1156
+! chtb_3101 bn/vom/02/vom_0281 VOM20010113.0700.2023
+! chtb_3102 bn/vom/02/vom_0282 VOM20010114.0700.0084
+! chtb_3103 bn/vom/02/vom_0283 VOM20010114.0700.0205
+! chtb_3104 bn/vom/02/vom_0284 VOM20010116.0700.0157
+! chtb_3105 bn/vom/02/vom_0285 VOM20010116.0700.0205
+! chtb_3106 bn/vom/02/vom_0286 VOM20010116.0700.0282
+! chtb_3107 bn/vom/02/vom_0287 VOM20010116.0700.1542
+! chtb_3108 bn/vom/02/vom_0288 VOM20010116.0700.1912
+! chtb_3109 bn/vom/02/vom_0289 VOM20010119.0700.0098
+* chtb_3110 bn/vom/02/vom_0290 VOM20010119.0700.0271
+* chtb_3111 bn/vom/02/vom_0291 VOM20010119.0700.0885
+* chtb_3112 bn/vom/02/vom_0292 VOM20010119.0700.0976
+* chtb_3113 bn/vom/02/vom_0293 VOM20010119.0700.1692
+* chtb_3114 bn/vom/02/vom_0294 VOM20010120.0700.0185
+* chtb_3115 bn/vom/02/vom_0295 VOM20010120.0700.0240
+* chtb_3116 bn/vom/02/vom_0296 VOM20010122.0700.0234
+* chtb_3117 bn/vom/02/vom_0297 VOM20010122.0700.0278
+* chtb_3118 bn/vom/02/vom_0298 VOM20010122.0700.0341
+* chtb_3119 bn/vom/02/vom_0299 VOM20010122.0700.0670
+* chtb_3120 bn/vom/03/vom_0300 VOM20010122.0700.1150
+* chtb_3121 bn/vom/03/vom_0301 VOM20010122.0700.1347
+* chtb_3122 bn/vom/03/vom_0302 VOM20010122.0700.1474
+* chtb_3123 bn/vom/03/vom_0303 VOM20010122.0700.2378
+* chtb_3124 bn/vom/03/vom_0304 VOM20010124.0700.0153
+* chtb_3125 bn/vom/03/vom_0305 VOM20010124.0700.0358
+* chtb_3126 bn/vom/03/vom_0306 VOM20010124.0700.0677
+* chtb_3127 bn/vom/03/vom_0307 VOM20010124.0700.0797
+* chtb_3128 bn/vom/03/vom_0308 VOM20010124.0700.1913
+* chtb_3129 bn/vom/03/vom_0309 VOM20010124.0700.2356
+* chtb_3130 bn/vom/03/vom_0310 VOM20010125.0700.0134
+* chtb_3131 bn/vom/03/vom_0311 VOM20010125.0700.1446
+* chtb_3132 bn/vom/03/vom_0312 VOM20010126.0700.0212
+* chtb_3133 bn/vom/03/vom_0313 VOM20010126.0700.0308
+* chtb_3134 bn/vom/03/vom_0314 VOM20010126.0700.0358
+* chtb_3135 bn/vom/03/vom_0315 VOM20010126.0700.2196
+* chtb_3136 bn/vom/03/vom_0316 VOM20010126.0700.2590
+* chtb_3137 bn/vom/03/vom_0317 VOM20010128.0700.0560
+* chtb_3138 bn/vom/03/vom_0318 VOM20010128.0700.0937
+* chtb_3139 bn/vom/03/vom_0319 VOM20010128.0700.2399
+* chtb_3140 bn/vom/03/vom_0320 VOM20010130.0700.0184
+* chtb_3141 bn/vom/03/vom_0321 VOM20010130.0700.0318
+* chtb_3142 bn/vom/03/vom_0322 VOM20010130.0700.0881
+* chtb_3143 bn/vom/03/vom_0323 VOM20010130.0700.1165
+* chtb_3144 bn/vom/03/vom_0324 VOM20010131.0700.0075
+* chtb_3145 bn/vom/03/vom_0325 VOM20010131.0700.1965
+chtb_4000 nw/p2.5_cmn/00/p2.5_cmn_0001 AFP_CMN_20061127.0007-S1
+chtb_4001 nw/p2.5_cmn/00/p2.5_cmn_0002 AFP_CMN_20061128.0042-S1
+chtb_4002 nw/p2.5_cmn/00/p2.5_cmn_0003 AFP_CMN_20061129.0008-S1
+chtb_4003 nw/p2.5_cmn/00/p2.5_cmn_0004 AFP_CMN_20061129.0028-S1
+chtb_4004 nw/p2.5_cmn/00/p2.5_cmn_0005 AFP_CMN_20061211.0009-S1
+chtb_4005 nw/p2.5_cmn/00/p2.5_cmn_0006 AFP_CMN_20061211.0037-S2
+chtb_4006 nw/p2.5_cmn/00/p2.5_cmn_0007 CNS_CMN_20061123.0049-S1
+chtb_4007 nw/p2.5_cmn/00/p2.5_cmn_0008 CNS_CMN_20061128.0350-S1
+chtb_4008 nw/p2.5_cmn/00/p2.5_cmn_0009 CNS_CMN_20061128.1278-S1
+chtb_4009 nw/p2.5_cmn/00/p2.5_cmn_0010 CNS_CMN_20061129.0075-S2
+chtb_4010 nw/p2.5_cmn/00/p2.5_cmn_0011 CNS_CMN_20061204.0477-S1
+chtb_4011 nw/p2.5_cmn/00/p2.5_cmn_0012 CNS_CMN_20061207.0301-S1
+chtb_4012 nw/p2.5_cmn/00/p2.5_cmn_0013 CNS_CMN_20061211.0008-S1
+chtb_4013 nw/p2.5_cmn/00/p2.5_cmn_0014 CNS_CMN_20061211.0166-S1
+chtb_4014 nw/p2.5_cmn/00/p2.5_cmn_0015 CNS_CMN_20061211.0507-S1
+chtb_4015 nw/p2.5_cmn/00/p2.5_cmn_0016 CNS_CMN_20061213.1515-S1
+chtb_4016 nw/p2.5_cmn/00/p2.5_cmn_0017 CNS_CMN_20061214.0033-S1
+chtb_4017 nw/p2.5_cmn/00/p2.5_cmn_0018 CNS_CMN_20061214.1519-S1
+chtb_4018 nw/p2.5_cmn/00/p2.5_cmn_0019 CNS_CMN_20061215.0033-S1
+chtb_4019 nw/p2.5_cmn/00/p2.5_cmn_0020 CNS_CMN_20061215.0527-S1
+chtb_4020 nw/p2.5_cmn/00/p2.5_cmn_0021 CNS_CMN_20061216.0233-S1
+chtb_4021 nw/p2.5_cmn/00/p2.5_cmn_0022 CNS_CMN_20061216.0241-S1
+chtb_4022 nw/p2.5_cmn/00/p2.5_cmn_0023 CNS_CMN_20061218.0035-S1
+chtb_4023 nw/p2.5_cmn/00/p2.5_cmn_0024 CNS_CMN_20061219.0047-S1
+chtb_4024 nw/p2.5_cmn/00/p2.5_cmn_0026 CNS_CMN_20061222.0137-S1
+chtb_4025 nw/p2.5_cmn/00/p2.5_cmn_0029 GMW_CMN_20061128.0024-S1
+chtb_4026 nw/p2.5_cmn/00/p2.5_cmn_0034 GMW_CMN_20061215.0015-S1
+chtb_4027 nw/p2.5_cmn/00/p2.5_cmn_0046 PDA_CMN_20061212.0031-S1
+chtb_4028 nw/p2.5_cmn/00/p2.5_cmn_0063 XIN_CMN_20061122.0188-S1
+chtb_4029 nw/p2.5_cmn/00/p2.5_cmn_0064 XIN_CMN_20061124.0139-S1
+chtb_4030 nw/p2.5_cmn/00/p2.5_cmn_0065 XIN_CMN_20061124.0144-S1
+chtb_4031 nw/p2.5_cmn/00/p2.5_cmn_0066 XIN_CMN_20061125.0023-S1
+chtb_4032 nw/p2.5_cmn/00/p2.5_cmn_0067 XIN_CMN_20061125.0161-S1
+chtb_4033 nw/p2.5_cmn/00/p2.5_cmn_0068 XIN_CMN_20061126.0133-S1
+chtb_4034 nw/p2.5_cmn/00/p2.5_cmn_0069 XIN_CMN_20061127.0018-S1
+chtb_4035 nw/p2.5_cmn/00/p2.5_cmn_0070 XIN_CMN_20061129.0270-S1
+chtb_4036 nw/p2.5_cmn/00/p2.5_cmn_0071 XIN_CMN_20061130.0233-S1
+chtb_4037 nw/p2.5_cmn/00/p2.5_cmn_0072 XIN_CMN_20061130.0267-S1
+chtb_4038 nw/p2.5_cmn/00/p2.5_cmn_0073 XIN_CMN_20061205.0118-S1
+chtb_4039 nw/p2.5_cmn/00/p2.5_cmn_0074 XIN_CMN_20061213.0103-S1
+chtb_4040 nw/p2.5_cmn/00/p2.5_cmn_0075 XIN_CMN_20061214.0112-S1
+chtb_4041 nw/p2.5_cmn/00/p2.5_cmn_0076 XIN_CMN_20061215.0021-S1
+chtb_4042 nw/p2.5_cmn/00/p2.5_cmn_0077 XIN_CMN_20061215.0280-S1
+chtb_4043 nw/p2.5_cmn/00/p2.5_cmn_0078 XIN_CMN_20061215.0318-S1
+chtb_4044 nw/p2.5_cmn/00/p2.5_cmn_0079 XIN_CMN_20061218.0072-S1
+chtb_4045 nw/p2.5_cmn/00/p2.5_cmn_0080 XIN_CMN_20061218.0134-S1
+chtb_4046 nw/p2.5_cmn/00/p2.5_cmn_0081 XIN_CMN_20061218.0223-S1
+chtb_4047 nw/p2.5_cmn/00/p2.5_cmn_0082 XIN_CMN_20061219.0035-S1
+chtb_4048 nw/p2.5_cmn/00/p2.5_cmn_0083 XIN_CMN_20061220.0037-S1
+chtb_4049 nw/p2.5_cmn/00/p2.5_cmn_0084 XIN_CMN_20061220.0200-S1
+chtb_4050 nw/p2.5_cmn/00/p2.5_cmn_0085 XIN_CMN_20061221.0194-S1
+chtb_4051 bn/p2.5_cmn/00/p2.5_cmn_0001 CCTV1_30MINNEWS_CMN_20061205_115701-S1
+chtb_4052 bn/p2.5_cmn/00/p2.5_cmn_0002 CCTV1_30MINNEWS_CMN_20061205_115701-S2
+chtb_4053 bn/p2.5_cmn/00/p2.5_cmn_0003 CCTV1_30MINNEWS_CMN_20061205_115701-S3
+chtb_4054 bn/p2.5_cmn/00/p2.5_cmn_0004 CCTV1_30MINNEWS_CMN_20061206_115701-S1
+chtb_4055 bn/p2.5_cmn/00/p2.5_cmn_0005 CCTV1_30MINNEWS_CMN_20061206_115701-S2
+chtb_4056 bn/p2.5_cmn/00/p2.5_cmn_0006 CCTV1_30MINNEWS_CMN_20061206_115701-S3
+chtb_4057 bn/p2.5_cmn/00/p2.5_cmn_0007 CCTV1_30MINNEWS_CMN_20061206_115701-S4
+chtb_4058 bn/p2.5_cmn/00/p2.5_cmn_0008 CCTV1_30MINNEWS_CMN_20061206_115701-S8
+chtb_4059 bn/p2.5_cmn/00/p2.5_cmn_0009 CCTV1_30MINNEWS_CMN_20061206_115701-S9
+chtb_4060 bn/p2.5_cmn/00/p2.5_cmn_0011 CCTV1_30MINNEWS_CMN_20061212_115701-S2
+chtb_4061 bn/p2.5_cmn/00/p2.5_cmn_0012 CCTV1_30MINNEWS_CMN_20061212_115701-S8
+chtb_4062 bn/p2.5_cmn/00/p2.5_cmn_0013 CCTV1_30MINNEWS_CMN_20061212_115701-S9
+chtb_4063 bn/p2.5_cmn/00/p2.5_cmn_0014 CCTV1_30MINNEWS_CMN_20061214_115701-S1
+chtb_4064 bn/p2.5_cmn/00/p2.5_cmn_0015 CCTV1_30MINNEWS_CMN_20061214_115701-S2
+chtb_4065 bn/p2.5_cmn/00/p2.5_cmn_0016 CCTV1_30MINNEWS_CMN_20061214_115701-S3
+chtb_4066 bn/p2.5_cmn/00/p2.5_cmn_0017 CCTV1_30MINNEWS_CMN_20061214_115701-S9
+chtb_4067 bn/p2.5_cmn/00/p2.5_cmn_0018 CCTV2_ECONOMYANDLAW_CMN_20061215_202824-S1
+chtb_4068 bn/p2.5_cmn/00/p2.5_cmn_0019 CCTV4_DAILYNEWS_CMN_20061124_135800-S9
+chtb_4069 bn/p2.5_cmn/00/p2.5_cmn_0020 CCTV4_DAILYNEWS_CMN_20061127_135800-S1
+chtb_4070 bn/p2.5_cmn/00/p2.5_cmn_0021 CCTV4_DAILYNEWS_CMN_20061201_135800-S1
+chtb_4071 bn/p2.5_cmn/00/p2.5_cmn_0022 CCTV4_DAILYNEWS_CMN_20061204_135800-S1
+chtb_4072 bn/p2.5_cmn/00/p2.5_cmn_0023 CCTV4_DAILYNEWS_CMN_20061204_135800-S9
+chtb_4073 bn/p2.5_cmn/00/p2.5_cmn_0024 CCTV4_DAILYNEWS_CMN_20061206_135800-S1
+chtb_4074 bn/p2.5_cmn/00/p2.5_cmn_0025 CCTV4_DAILYNEWS_CMN_20061211_135801-S9
+chtb_4075 bn/p2.5_cmn/00/p2.5_cmn_0026 CCTV4_DAILYNEWS_CMN_20061218_135800-S9
+chtb_4076 bn/p2.5_cmn/00/p2.5_cmn_0027 CCTV4_DAILYNEWS_CMN_20061219_135800-S1
+chtb_4077 bn/p2.5_cmn/00/p2.5_cmn_0028 CCTV4_DAILYNEWS_CMN_20061219_135800-S2
+chtb_4078 bn/p2.5_cmn/00/p2.5_cmn_0029 CCTV4_DAILYNEWS_CMN_20061220_135800-S1
+chtb_4079 bn/p2.5_cmn/00/p2.5_cmn_0030 CCTV4_DAILYNEWS_CMN_20061220_135800-S2
+chtb_4080 bn/p2.5_cmn/00/p2.5_cmn_0031 CCTV4_DAILYNEWS_CMN_20061221_135801-S1
+chtb_4081 bn/p2.5_cmn/00/p2.5_cmn_0032 CCTV4_DAILYNEWS_CMN_20061222_135800-S1
+chtb_4082 bn/p2.5_cmn/00/p2.5_cmn_0033 CCTV4_DAILYNEWS_CMN_20061222_135800-S2
+chtb_4083 bn/p2.5_cmn/00/p2.5_cmn_0034 CCTV4_NEWS3_CMN_20061201_075800-S1
+chtb_4084 bn/p2.5_cmn/00/p2.5_cmn_0035 CCTV4_NEWS3_CMN_20061205_075801-S1
+chtb_4085 bn/p2.5_cmn/00/p2.5_cmn_0036 CCTV4_NEWS3_CMN_20061206_075800-S1
+chtb_4086 bn/p2.5_cmn/00/p2.5_cmn_0037 CCTV4_NEWS3_CMN_20061206_075800-S9
+chtb_4087 bn/p2.5_cmn/00/p2.5_cmn_0038 CCTV4_NEWS3_CMN_20061207_075801-S1
+chtb_4088 bn/p2.5_cmn/00/p2.5_cmn_0039 CCTV7_MILITARYNEWS1_CMN_20061207_193006-S1
+chtb_4089 bn/p2.5_cmn/00/p2.5_cmn_0040 CCTV7_MILITARYNEWS1_CMN_20061213_193003-S1
+chtb_4090 bn/p2.5_cmn/00/p2.5_cmn_0041 CCTVNEWS_EVENINGNEWS_CMN_20061206_225701-S1
+chtb_4091 bn/p2.5_cmn/00/p2.5_cmn_0042 CCTVNEWS_EVENINGNEWS_CMN_20061207_225701-S7
+chtb_4092 bn/p2.5_cmn/00/p2.5_cmn_0043 CCTVNEWS_EVENINGNEWS_CMN_20061207_225701-S8
+chtb_4093 bn/p2.5_cmn/00/p2.5_cmn_0044 CCTVNEWS_EVENINGNEWS_CMN_20061207_225701-S9
+chtb_4094 bn/p2.5_cmn/00/p2.5_cmn_0045 CCTVNEWS_EVENINGNEWS_CMN_20061215_225701-S1
+chtb_4095 bn/p2.5_cmn/00/p2.5_cmn_0046 CCTVNEWS_EVENINGNEWS_CMN_20061215_225701-S2
+chtb_4096 bn/p2.5_cmn/00/p2.5_cmn_0047 NTDTV_NTDNEWS12_CMN_20061201_115801-S9
+chtb_4097 bn/p2.5_cmn/00/p2.5_cmn_0048 NTDTV_NTDNEWS12_CMN_20061221_115800-S1
+chtb_4098 bn/p2.5_cmn/00/p2.5_cmn_0049 NTDTV_NTDNEWS19_CMN_20061124_185801-S1
+chtb_4099 bn/p2.5_cmn/00/p2.5_cmn_0051 NTDTV_NTDNEWS19_CMN_20061127_185800-S9
+chtb_4100 bn/p2.5_cmn/00/p2.5_cmn_0055 PHOENIX_ASIANJRNL_CMN_20061211_075800-S1
+chtb_4101 bn/p2.5_cmn/00/p2.5_cmn_0056 PHOENIX_ASIANJRNL_CMN_20061220_075800-S1
+chtb_4102 bn/p2.5_cmn/00/p2.5_cmn_0057 PHOENIX_GOODMORNCN_CMN_20061123_185800-S1
+chtb_4103 bn/p2.5_cmn/00/p2.5_cmn_0058 PHOENIX_GOODMORNCN_CMN_20061128_185800-S1
+chtb_4104 bn/p2.5_cmn/00/p2.5_cmn_0059 PHOENIX_GOODMORNCN_CMN_20061128_185800-S8
+chtb_4105 bn/p2.5_cmn/00/p2.5_cmn_0060 PHOENIX_GOODMORNCN_CMN_20061128_185800-S9
+chtb_4106 bn/p2.5_cmn/00/p2.5_cmn_0061 PHOENIX_GOODMORNCN_CMN_20061204_185800-S1
+chtb_4107 bn/p2.5_cmn/00/p2.5_cmn_0062 PHOENIX_GOODMORNCN_CMN_20061206_185800-S1
+chtb_4108 bn/p2.5_cmn/00/p2.5_cmn_0063 PHOENIX_GOODMORNCN_CMN_20061206_185800-S2
+chtb_4109 bn/p2.5_cmn/00/p2.5_cmn_0064 PHOENIX_GOODMORNCN_CMN_20061206_185800-S3
+chtb_4110 bn/p2.5_cmn/00/p2.5_cmn_0065 PHOENIX_GOODMORNCN_CMN_20061210_185801-S9
+chtb_4111 bn/p2.5_cmn/00/p2.5_cmn_0066 PHOENIX_GOODMORNCN_CMN_20061221_185800-S1
+chtb_4112 bc/cctv/00/cctv_0000 CCTV4_ACROSSCHINA_CMN_20050812_150501
+chtb_4113 bc/cctv/00/cctv_0001 CCTV4_ACROSSCHINA_CMN_20050817_150500
+chtb_4114 bc/cctv/00/cctv_0002 CCTV4_TDYFOCUS_CMN_20051118_081300
+chtb_4115 bc/cctv/00/cctv_0003 CCTV4_TDYFOCUS_CMN_20051121_081300
+chtb_4116 bc/cctv/00/cctv_0004 CCTV4_TDYFOCUS_CMN_20051130_082800
+chtb_4117 bc/cctv/00/cctv_0005 CCTV4_TDYFOCUS_CMN_20060104_082800
+chtb_4118 bc/cctv/00/cctv_0006 CCTV4_TDYFOCUS_CMN_20060116_082800
+chtb_4119 bc/cctv/00/cctv_0007 CCTV4_TDYFOCUS_CMN_20060118_082900
+chtb_4120 bc/cnn/00/cnn_0000 CNN_AARONBROWN_ENG_20051101_215800
+chtb_4121 bc/cnn/00/cnn_0001 CNN_AARONBROWN_ENG_20051108_215800
+chtb_4122 bc/cnn/00/cnn_0002 CNN_LARRYKING_ENG_20051014_210000
+chtb_4123 bc/cnn/00/cnn_0003 CNN_LARRYKING_ENG_20051031_205800
+chtb_4124 bc/cnn/00/cnn_0004 CNN_RELIASRC_ENG_20050717_113000
+chtb_4125 bc/msnbc/00/msnbc_0000 MSNBC_MEETPRESS_ENG_20060326_215801
+chtb_4126 bc/p2.5_cmn/00/p2.5_cmn_0001 ANHUI_POLITICALCONSULT_CMN_20061212_175400-S1
+chtb_4127 bc/p2.5_cmn/00/p2.5_cmn_0002 CCTV1_LEGALREPORT_CMN_20061122_123701-S1
+chtb_4128 bc/p2.5_cmn/00/p2.5_cmn_0003 CCTV1_LEGALREPORT_CMN_20061128_123701-S1
+chtb_4129 bc/p2.5_cmn/00/p2.5_cmn_0004 CCTV1_LEGALREPORT_CMN_20061204_123701-S1
+chtb_4130 bc/p2.5_cmn/00/p2.5_cmn_0005 CCTV1_LEGALREPORT_CMN_20061207_123702-S1
+chtb_4131 bc/p2.5_cmn/00/p2.5_cmn_0006 CCTV1_LEGALREPORT_CMN_20061213_123701-S1
+chtb_4132 bc/p2.5_cmn/00/p2.5_cmn_0007 CCTV4_ACROSSSTRAIT_CMN_20061215_130034-S1
+chtb_4133 bc/p2.5_cmn/00/p2.5_cmn_0008 CCTV4_ACROSSSTRAIT_CMN_20061215_130034-S9
+chtb_4134 bc/p2.5_cmn/00/p2.5_cmn_0009 CCTV4_NEWS3_CMN_20061130_075801-S1
+chtb_4135 bc/p2.5_cmn/00/p2.5_cmn_0010 CCTV4_NEWS3_CMN_20061130_075801-S9
+chtb_4136 bc/p2.5_cmn/00/p2.5_cmn_0011 CCTV4_TDYFOCUS_CMN_20061201_082800-S1
+chtb_4137 bc/p2.5_cmn/00/p2.5_cmn_0012 CCTV4_TDYFOCUS_CMN_20061207_082800-S9
+chtb_4138 bc/p2.5_cmn/00/p2.5_cmn_0013 CCTV4_TDYFOCUS_CMN_20061211_082800-S1
+chtb_4139 bc/p2.5_cmn/00/p2.5_cmn_0014 CCTV4_TDYFOCUS_CMN_20061218_082801-S1
+chtb_4140 bc/p2.5_cmn/00/p2.5_cmn_0015 CCTV4_TDYFOCUS_CMN_20061218_082801-S2
+chtb_4141 bc/p2.5_cmn/00/p2.5_cmn_0016 CCTV4_TDYFOCUS_CMN_20061218_082801-S3
+chtb_4142 bc/p2.5_cmn/00/p2.5_cmn_0017 CCTV4_TDYFOCUS_CMN_20061218_082801-S7
+chtb_4143 bc/p2.5_cmn/00/p2.5_cmn_0018 CCTV4_TDYFOCUS_CMN_20061218_082801-S8
+chtb_4144 bc/p2.5_cmn/00/p2.5_cmn_0019 CCTV4_TDYFOCUS_CMN_20061218_082801-S9
+chtb_4145 bc/p2.5_cmn/00/p2.5_cmn_0020 CCTVNEWS_PEOPLEINNEWS_CMN_20061124_215701-S1
+chtb_4146 bc/p2.5_cmn/00/p2.5_cmn_0021 CCTVNEWS_PEOPLEINNEWS_CMN_20061127_215701-S1
+chtb_4147 bc/p2.5_cmn/00/p2.5_cmn_0022 CCTVNEWS_PEOPLEINNEWS_CMN_20061127_215701-S2
+chtb_4148 bc/p2.5_cmn/00/p2.5_cmn_0023 CCTVNEWS_PEOPLEINNEWS_CMN_20061127_215701-S3
+chtb_4149 bc/p2.5_cmn/00/p2.5_cmn_0025 CCTVNEWS_PEOPLEINNEWS_CMN_20061127_215701-S5
+chtb_4150 bc/p2.5_cmn/00/p2.5_cmn_0026 CCTVNEWS_PEOPLEINNEWS_CMN_20061127_215701-S6
+chtb_4151 bc/p2.5_cmn/00/p2.5_cmn_0027 CCTVNEWS_PEOPLEINNEWS_CMN_20061127_215701-S7
+chtb_4152 bc/p2.5_cmn/00/p2.5_cmn_0028 CCTVNEWS_PEOPLEINNEWS_CMN_20061127_215701-S8
+chtb_4153 bc/p2.5_cmn/00/p2.5_cmn_0029 CCTVNEWS_PEOPLEINNEWS_CMN_20061127_215701-S9
+chtb_4154 bc/p2.5_cmn/00/p2.5_cmn_0030 CCTVNEWS_PEOPLEINNEWS_CMN_20061129_215701-S1
+chtb_4155 bc/p2.5_cmn/00/p2.5_cmn_0031 CCTVNEWS_PEOPLEINNEWS_CMN_20061129_215701-S8
+chtb_4156 bc/p2.5_cmn/00/p2.5_cmn_0032 CCTVNEWS_PEOPLEINNEWS_CMN_20061129_215701-S9
+chtb_4157 bc/p2.5_cmn/00/p2.5_cmn_0033 CCTVNEWS_PEOPLEINNEWS_CMN_20061205_215701-S1
+chtb_4158 bc/p2.5_cmn/00/p2.5_cmn_0034 CCTVNEWS_PEOPLEINNEWS_CMN_20061205_215701-S2
+chtb_4159 bc/p2.5_cmn/00/p2.5_cmn_0035 CCTVNEWS_PEOPLEINNEWS_CMN_20061205_215701-S3
+chtb_4160 bc/p2.5_cmn/00/p2.5_cmn_0036 CCTVNEWS_PEOPLEINNEWS_CMN_20061205_215701-S8
+chtb_4161 bc/p2.5_cmn/00/p2.5_cmn_0037 CCTVNEWS_PEOPLEINNEWS_CMN_20061205_215701-S9
+chtb_4162 bc/p2.5_cmn/00/p2.5_cmn_0038 CCTVNEWS_PEOPLEINNEWS_CMN_20061207_215701-S1
+chtb_4163 bc/p2.5_cmn/00/p2.5_cmn_0039 CCTVNEWS_PEOPLEINNEWS_CMN_20061207_215701-S9
+chtb_4164 bc/p2.5_cmn/00/p2.5_cmn_0040 CCTVNEWS_PEOPLEINNEWS_CMN_20061212_215701-S1
+chtb_4165 bc/p2.5_cmn/00/p2.5_cmn_0041 CCTVNEWS_PEOPLEINNEWS_CMN_20061213_215701-S1
+chtb_4166 bc/p2.5_cmn/00/p2.5_cmn_0042 CCTVNEWS_PEOPLEINNEWS_CMN_20061215_215701-S1
+chtb_4167 bc/p2.5_cmn/00/p2.5_cmn_0043 CCTVNEWS_PEOPLEINNEWS_CMN_20061215_215701-S9
+chtb_4168 bc/p2.5_cmn/00/p2.5_cmn_0044 NTDTV_FOCUSINT_CMN_20061219_091300-S1
+chtb_4169 bc/p2.5_cmn/00/p2.5_cmn_0045 NTDTV_FOCUSINT_CMN_20061219_091300-S8
+chtb_4170 bc/p2.5_cmn/00/p2.5_cmn_0046 NTDTV_FOCUSINT_CMN_20061219_091300-S9
+chtb_4171 bc/p2.5_cmn/00/p2.5_cmn_0047 NTDTV_FOCUSINT_CMN_20061221_091300-S1
+chtb_4172 bc/p2.5_cmn/00/p2.5_cmn_0048 NTDTV_NTDNEWS12_CMN_20061201_115801-S1
+chtb_4173 bc/p2.5_cmn/00/p2.5_cmn_0049 PHOENIX_BEHINDHL_CMN_20061205_052800-S1
+chtb_4174 bc/p2.5_cmn/00/p2.5_cmn_0050 PHOENIX_BEHINDHL_CMN_20061205_052800-S2
+chtb_4175 bc/p2.5_cmn/00/p2.5_cmn_0051 PHOENIX_BEHINDHL_CMN_20061205_052800-S3
+chtb_4176 bc/p2.5_cmn/00/p2.5_cmn_0052 PHOENIX_BEHINDHL_CMN_20061209_052800-S1
+chtb_4177 bc/p2.5_cmn/00/p2.5_cmn_0053 PHOENIX_DATELUYU_CMN_20061213_142800-S1
+chtb_4178 bc/p2.5_cmn/00/p2.5_cmn_0054 PHOENIX_DATELUYU_CMN_20061213_142800-S2
+chtb_4179 bc/p2.5_cmn/00/p2.5_cmn_0055 PHOENIX_DATELUYU_CMN_20061213_142800-S3
+chtb_4180 bc/p2.5_cmn/00/p2.5_cmn_0056 PHOENIX_DATELUYU_CMN_20061213_142800-S4
+chtb_4181 bc/p2.5_cmn/00/p2.5_cmn_0057 PHOENIX_NEWSLINE_CMN_20061127_114800-S1
+chtb_4182 bc/p2.5_cmn/00/p2.5_cmn_0058 PHOENIX_NEWSLINE_CMN_20061127_114800-S9
+chtb_4183 bc/p2.5_cmn/00/p2.5_cmn_0059 PHOENIX_PHNXWRLD_CMN_20061127_111800-S1
+chtb_4184 bc/p2.5_cmn/00/p2.5_cmn_0060 PHOENIX_PHNXWRLD_CMN_20061127_111800-S9
+chtb_4185 bc/p2.5_cmn/00/p2.5_cmn_0061 PHOENIX_PHNXWRLD_CMN_20061205_111801-S1
+chtb_4186 bc/phoenix/00/phoenix_0000 PHOENIX_DATELUYU_CMN_20051022_013000
+chtb_4187 bc/phoenix/00/phoenix_0001 PHOENIX_DATELUYU_CMN_20060117_143800
+chtb_4188 bc/phoenix/00/phoenix_0002 PHOENIX_NEWSLINE_CMN_20051013_121500
+chtb_4189 bc/phoenix/00/phoenix_0003 PHOENIX_NEWSLINE_CMN_20051102_121300
+chtb_4190 bc/phoenix/00/phoenix_0004 PHOENIX_NEWSLINE_CMN_20051103_121401
+chtb_4191 bc/phoenix/00/phoenix_0005 PHOENIX_PASSIONCN_CMN_20051003_053000
+chtb_4192 bc/phoenix/00/phoenix_0006 PHOENIX_PASSIONCN_CMN_20051010_053000
+chtb_4193 bc/phoenix/00/phoenix_0007 PHOENIX_SOCWATCH_CMN_20050915_230001
+chtb_4194 bc/phoenix/00/phoenix_0008 PHOENIX_SOCWATCH_CMN_20050929_230000
+chtb_4195 bc/phoenix/00/phoenix_0009 PHOENIX_SOCWATCH_CMN_20051020_230000
+chtb_4196 bc/phoenix/00/phoenix_0010 PHOENIX_SOCWATCH_CMN_20051027_230001
+chtb_4197 bc/phoenix/00/phoenix_0011 PHOENIX_SOCWATCH_CMN_20051103_225900
+chtb_4198 wb/cmn/00/cmn_0001 cmn-NG-31-111117-3439501
+chtb_4199 wb/cmn/00/cmn_0002 cmn-NG-31-111117-3439502
+chtb_4200 wb/cmn/00/cmn_0003 cmn-NG-31-111212-3441677
+chtb_4201 wb/cmn/00/cmn_0005 cmn-NG-31-111335-3447376
+chtb_4202 wb/cmn/00/cmn_0006 cmn-NG-31-111576-3460895
+chtb_4203 wb/cmn/00/cmn_0007 cmn-NG-31-111752-3469650
+chtb_4204 wb/cmn/00/cmn_0008 cmn-NG-31-111868-3475346
+chtb_4205 wb/cmn/00/cmn_0009 cmn-NG-31-112346-3487170
+chtb_4206 wb/cmn/00/cmn_0010 cmn-NG-31-112533-3492233
+chtb_4207 wb/cmn/00/cmn_0011 cmn-NG-31-112533-3492235
+chtb_4208 wb/cmn/00/cmn_0012 cmn-NG-31-113045-3506647
+chtb_4209 wb/cmn/00/cmn_0013 cmn-NG-31-113149-5530497
+chtb_4210 wb/cmn/00/cmn_0014 cmn-NG-31-113149-5530513
+chtb_4211 wb/cmn/00/cmn_0015 cmn-NG-31-113149-5530519
+chtb_4212 wb/cmn/00/cmn_0016 cmn-NG-31-113149-5530522
+chtb_4213 wb/cmn/00/cmn_0018 cmn-NG-31-113149-5530784
+chtb_4214 wb/cmn/00/cmn_0021 cmn-NG-4-76540-5661612
+chtb_4215 wb/cmn/00/cmn_0022 cmn-NG-4-76540-5662145
+chtb_4216 wb/cmn/00/cmn_0025 cmn-NG-4-76541-5795878
+chtb_4217 wb/cmn/00/cmn_0027 cmn-NG-4-76541-5796099
+chtb_4218 wb/cmn/00/cmn_0028 cmn-NG-4-76560-5664178
+chtb_4219 wb/cmn/00/cmn_0029 cmn-NG-4-76564-5650592
+chtb_4220 wb/cmn/00/cmn_0030 cmn-NG-4-76564-5747910
+chtb_4221 wb/cmn/00/cmn_0031 cmn-NG-4-76565-5651075
+chtb_4222 wb/cmn/00/cmn_0032 cmn-NG-4-76585-5638704
+chtb_4223 wb/cmn/00/cmn_0033 cmn-NG-4-76585-5638919
+chtb_4224 wb/cmn/00/cmn_0034 cmn-NG-4-76585-5639067
+chtb_4225 wb/cmn/00/cmn_0035 cmn-NG-4-76585-5639068
+chtb_4226 wb/cmn/00/cmn_0036 cmn-NG-4-76616-5652334
+chtb_4227 wb/cmn/00/cmn_0037 cmn-NG-4-76668-5818252
+chtb_4228 wb/cmn/00/cmn_0038 cmn-NG-4-76746-5640604
+chtb_4229 wb/cmn/00/cmn_0039 cmn-NG-4-76746-5640704
+chtb_4230 wb/cmn/00/cmn_0040 cmn-NG-4-76746-5758862
+chtb_4231 wb/cmn/00/cmn_0041 cmn-NG-4-76785-5660940
+chtb_4232 wb/cmn/00/cmn_0042 cmn-NG-4-76814-5658027
+chtb_4233 wb/cmn/00/cmn_0043 cmn-NG-4-76817-5668879
+chtb_4234 wb/cmn/00/cmn_0044 cmn-WL-11-99195-5820482
+chtb_4235 wb/cmn/00/cmn_0045 cmn-WL-11-99195-5820491
+chtb_4236 wb/cmn/00/cmn_0046 cmn-WL-11-99195-5820496
+chtb_4237 wb/cmn/00/cmn_0047 cmn-WL-34-113109-5830040
+chtb_4238 wb/cmn/00/cmn_0048 cmn-WL-34-113109-5830048
+chtb_4239 wb/cmn/00/cmn_0050 cmn-WL-34-113113-5830126
+chtb_4240 wb/cmn/00/cmn_0051 cmn-WL-34-113113-5830128
+chtb_4241 wb/cmn/00/cmn_0052 cmn-NG-4-76541-5795965
+chtb_4242 wb/cmn/00/cmn_0054 cmn-NG-4-76541-5668047
+chtb_4243 wb/cmn/00/cmn_0055 cmn-NG-4-76541-5668249
+chtb_4244 wb/cmn/00/cmn_0056 cmn-NG-4-76564-5650254
+chtb_4245 wb/cmn/00/cmn_0057 cmn-NG-4-76567-5676786
+chtb_4246 wb/cmn/00/cmn_0058 cmn-NG-4-76568-5677399
+chtb_4247 wb/cmn/00/cmn_0059 cmn-NG-4-76568-5677542
+chtb_4248 wb/cmn/00/cmn_0060 cmn-NG-4-76568-5677632
+chtb_4249 wb/cmn/00/cmn_0061 cmn-NG-4-76585-5638269
+chtb_4250 wb/cmn/00/cmn_0062 cmn-NG-4-76596-5797145
+chtb_4251 wb/cmn/00/cmn_0063 cmn-NG-4-76668-5818135
+chtb_4252 wb/cmn/00/cmn_0064 cmn-NG-4-76746-5640449
+chtb_4253 wb/cmn/00/cmn_0065 cmn-NG-4-76802-5641677
+chtb_4254 wb/dev_09_cmn/00/dev_09_cmn_0000 cmn-NG-31-112643-10465477
+chtb_4255 wb/dev_09_cmn/00/dev_09_cmn_0001 cmn-NG-31-112643-10465492
+chtb_4256 wb/dev_09_cmn/00/dev_09_cmn_0002 cmn-NG-31-112643-10465496
+chtb_4257 wb/dev_09_cmn/00/dev_09_cmn_0003 cmn-NG-31-112643-10465555
+chtb_4258 wb/dev_09_cmn/00/dev_09_cmn_0004 cmn-NG-31-112643-10465559
+chtb_4259 wb/dev_09_cmn/00/dev_09_cmn_0005 cmn-NG-31-112643-10466070
+chtb_4260 wb/dev_09_cmn/00/dev_09_cmn_0006 cmn-NG-31-112643-10466105
+chtb_4261 wb/dev_09_cmn/00/dev_09_cmn_0007 cmn-NG-31-117643-10494359
+chtb_4262 wb/dev_09_cmn/00/dev_09_cmn_0008 cmn-NG-31-117643-10494434
+chtb_4263 wb/dev_09_cmn/00/dev_09_cmn_0009 cmn-NG-31-117643-10494443
+chtb_4264 wb/dev_09_cmn/00/dev_09_cmn_0010 cmn-NG-31-117643-10495149
+chtb_4265 wb/dev_09_cmn/00/dev_09_cmn_0013 cmn-NG-31-117643-10495619
+chtb_4266 wb/dev_09_cmn/00/dev_09_cmn_0014 cmn-NG-31-117651-10510884
+chtb_4267 wb/dev_09_cmn/00/dev_09_cmn_0015 cmn-NG-31-117651-10510930
+chtb_4268 wb/dev_09_cmn/00/dev_09_cmn_0016 cmn-NG-31-117651-10510956
+chtb_4269 wb/dev_09_cmn/00/dev_09_cmn_0017 cmn-NG-31-117651-10510958
+chtb_4270 wb/dev_09_cmn/00/dev_09_cmn_0018 cmn-NG-31-117651-10510959
+chtb_4271 wb/dev_09_cmn/00/dev_09_cmn_0019 cmn-NG-31-117651-10510962
+chtb_4272 wb/dev_09_cmn/00/dev_09_cmn_0020 cmn-NG-31-117651-10510963
+chtb_4273 wb/dev_09_cmn/00/dev_09_cmn_0021 cmn-NG-31-117651-10510979
+chtb_4274 wb/dev_09_cmn/00/dev_09_cmn_0022 cmn-NG-31-117651-10510992
+chtb_4275 wb/dev_09_cmn/00/dev_09_cmn_0023 cmn-NG-31-117651-10511282
+chtb_4276 wb/dev_09_cmn/00/dev_09_cmn_0024 cmn-NG-31-117651-10511284
+chtb_4277 wb/dev_09_cmn/00/dev_09_cmn_0025 cmn-NG-31-117651-10511296
+chtb_4278 wb/dev_09_cmn/00/dev_09_cmn_0027 cmn-NG-31-117651-10511314
+chtb_4279 wb/dev_09_cmn/00/dev_09_cmn_0030 cmn-NG-31-117651-10511319
+chtb_4280 wb/dev_09_cmn/00/dev_09_cmn_0031 cmn-NG-31-117651-10511646
+chtb_4281 wb/dev_09_cmn/00/dev_09_cmn_0032 cmn-NG-31-117651-10511678
+chtb_4282 wb/dev_09_cmn/00/dev_09_cmn_0033 cmn-NG-31-117651-10511730
+chtb_4283 wb/dev_09_cmn/00/dev_09_cmn_0034 cmn-NG-31-117651-10511739
+chtb_4284 wb/dev_09_cmn/00/dev_09_cmn_0035 cmn-NG-31-117651-10511743
+chtb_4285 wb/dev_09_cmn/00/dev_09_cmn_0036 cmn-NG-31-117651-10511747
+chtb_4286 wb/dev_09_cmn/00/dev_09_cmn_0037 cmn-NG-31-117651-10511762
+chtb_4287 wb/dev_09_cmn/00/dev_09_cmn_0038 cmn-NG-31-117658-10523107
+chtb_4288 wb/dev_09_cmn/00/dev_09_cmn_0039 cmn-NG-31-117684-10535065
+chtb_4289 wb/dev_09_cmn/00/dev_09_cmn_0040 cmn-NG-31-117684-10535080
+chtb_4290 wb/dev_09_cmn/00/dev_09_cmn_0041 cmn-NG-31-117684-10535273
+chtb_4291 wb/dev_09_cmn/00/dev_09_cmn_0042 cmn-NG-31-117684-10535826
+chtb_4292 wb/dev_09_cmn/00/dev_09_cmn_0043 cmn-NG-31-117684-10535854
+chtb_4293 wb/dev_09_cmn/00/dev_09_cmn_0044 cmn-NG-31-117684-10535917
+chtb_4294 wb/dev_09_cmn/00/dev_09_cmn_0045 cmn-NG-31-117685-10539077
+chtb_4295 wb/dev_09_cmn/00/dev_09_cmn_0046 cmn-NG-31-117685-10539117
+chtb_4296 wb/dev_09_cmn/00/dev_09_cmn_0047 cmn-NG-31-117685-10539191
+chtb_4297 wb/dev_09_cmn/00/dev_09_cmn_0048 cmn-NG-31-117685-10539208
+chtb_4298 wb/dev_09_cmn/00/dev_09_cmn_0049 cmn-NG-31-117685-10539537
+chtb_4299 wb/dev_09_cmn/00/dev_09_cmn_0050 cmn-NG-31-117685-10539623
+chtb_4300 wb/dev_09_cmn/00/dev_09_cmn_0051 cmn-NG-31-117685-10539628
+chtb_4301 wb/dev_09_cmn/00/dev_09_cmn_0052 cmn-NG-31-117685-10539651
+chtb_4302 wb/dev_09_cmn/00/dev_09_cmn_0053 cmn-NG-31-117685-10539659
+chtb_4303 wb/dev_09_cmn/00/dev_09_cmn_0054 cmn-NG-31-117685-10539665
+chtb_4304 wb/dev_09_cmn/00/dev_09_cmn_0055 cmn-NG-31-119551-10571234
+chtb_4305 wb/dev_09_cmn/00/dev_09_cmn_0056 cmn-NG-31-122519-10586283
+chtb_4306 wb/dev_09_cmn/00/dev_09_cmn_0057 cmn-NG-31-122749-10587088
+chtb_4307 wb/dev_09_cmn/00/dev_09_cmn_0058 cmn-NG-31-122833-10587148
+chtb_4308 wb/dev_09_cmn/00/dev_09_cmn_0059 cmn-NG-31-122833-10587176
+chtb_4309 wb/dev_09_cmn/00/dev_09_cmn_0060 cmn-NG-31-122891-10587519
+chtb_4310 wb/dev_09_cmn/00/dev_09_cmn_0062 cmn-NG-31-151311-10589587
+chtb_4311 wb/dev_09_cmn/00/dev_09_cmn_0063 cmn-WL-17-99366-10735077
+chtb_4312 wb/dev_09_cmn/00/dev_09_cmn_0064 cmn-WL-17-99366-10735078
+chtb_4313 wb/dev_09_cmn/00/dev_09_cmn_0066 cmn-WL-8-113209-10739519
+chtb_4314 wb/dev_09_cmn/00/dev_09_cmn_0067 cmn-WL-8-89269-10894289
+chtb_4315 wb/dev_09_cmn/00/dev_09_cmn_0068 cmn-WL-8-89269-10894295
+chtb_4316 wb/dev_09_cmn/00/dev_09_cmn_0069 cmn-WL-8-89278-10742074
+chtb_4317 wb/dev_09_cmn/00/dev_09_cmn_0070 cmn-WL-8-89325-10869436
+chtb_4318 wb/dev_09_cmn/00/dev_09_cmn_0071 cmn-WL-8-89492-10738970
+chtb_4319 wb/dev_09_cmn/00/dev_09_cmn_0072 cmn-WL-8-89609-10739484
+chtb_4320 wb/dev_09_cmn/00/dev_09_cmn_0073 cmn-WL-8-89642-10744150
+chtb_4321 wb/e2c/00/e2c_0001 blogspot.com_baconsrebellion_20060331111600_ENG_20060331_111600
+chtb_4322 wb/e2c/00/e2c_0002 blogspot.com_baconsrebellion_20060426091600_ENG_20060426_091600
+chtb_4323 wb/e2c/00/e2c_0003 blogspot.com_baconsrebellion_20060516120200_ENG_20060516_120200
+chtb_4324 wb/e2c/00/e2c_0004 blogspot.com_baconsrebellion_20060531095900_ENG_20060531_095900
+chtb_4325 wb/e2c/00/e2c_0005 blogspot.com_baconsrebellion_20060606091700_ENG_20060606_091700
+chtb_4326 wb/e2c/00/e2c_0006 blogspot.com_baconsrebellion_20060608083400_ENG_20060608_083400
+chtb_4327 wb/e2c/00/e2c_0007 blogspot.com_baconsrebellion_20060616100100_ENG_20060616_100100
+chtb_4328 wb/e2c/00/e2c_0008 blogspot.com_baconsrebellion_20060829090000_ENG_20060829_090000
+chtb_4329 wb/e2c/00/e2c_0009 blogspot.com_rigorousintuition_20060311042100_ENG_20060311_042100
+chtb_4330 wb/e2c/00/e2c_0010 blogspot.com_rigorousintuition_20060528100800_ENG_20060528_100800
+chtb_4331 wb/e2c/00/e2c_0011 eng-WL-11-99225-3378021
+chtb_4332 wb/e2c/00/e2c_0012 eng-WL-11-99225-3378122
+chtb_4333 wb/e2c/00/e2c_0013 eng-WL-11-99225-3378401
+chtb_4334 wb/e2c/00/e2c_0014 eng-WL-11-99225-3378772
+chtb_4335 wb/e2c/00/e2c_0015 eng-WL-11-99225-7482580
+chtb_4336 wb/e2c/00/e2c_0016 eng-NG-31-100717-5946776
+chtb_4337 wb/e2c/00/e2c_0017 eng-NG-31-107966-6291492
+chtb_4338 wb/p2.5_cmn/00/p2.5_cmn_0001 cmn-NG-31-111188-3441278-S1
+chtb_4339 wb/p2.5_cmn/00/p2.5_cmn_0002 cmn-NG-31-111188-3441278-S2
+chtb_4340 wb/p2.5_cmn/00/p2.5_cmn_0003 cmn-NG-31-111576-3460845-S1
+chtb_4341 wb/p2.5_cmn/00/p2.5_cmn_0004 cmn-NG-31-111576-3460873-S1
+chtb_4342 wb/p2.5_cmn/00/p2.5_cmn_0005 cmn-NG-31-111576-3460874-S1
+chtb_4343 wb/p2.5_cmn/00/p2.5_cmn_0006 cmn-NG-31-111576-3460878-S2
+chtb_4344 wb/p2.5_cmn/00/p2.5_cmn_0008 cmn-NG-31-111576-3460880-S2
+chtb_4345 wb/p2.5_cmn/00/p2.5_cmn_0009 cmn-NG-31-111868-3475012-S1
+chtb_4346 wb/p2.5_cmn/00/p2.5_cmn_0010 cmn-NG-31-111868-3475026-S1
+chtb_4347 wb/p2.5_cmn/00/p2.5_cmn_0011 cmn-NG-31-111868-3475281-S1
+chtb_4348 wb/p2.5_cmn/00/p2.5_cmn_0012 cmn-NG-31-112514-3491242-S1
+chtb_4349 wb/p2.5_cmn/00/p2.5_cmn_0013 cmn-NG-31-112533-3492257-S1
+chtb_4350 wb/p2.5_cmn/00/p2.5_cmn_0014 cmn-NG-31-112555-3492628-S1
+chtb_4351 wb/p2.5_cmn/00/p2.5_cmn_0015 cmn-NG-31-112570-3493480-S1
+chtb_4352 wb/p2.5_cmn/00/p2.5_cmn_0016 cmn-NG-31-112570-3493482-S1
+chtb_4353 wb/p2.5_cmn/00/p2.5_cmn_0017 cmn-NG-31-112570-3493507-S1
+chtb_4354 wb/p2.5_cmn/00/p2.5_cmn_0018 cmn-NG-31-112602-3493927-S1
+chtb_4355 wb/p2.5_cmn/00/p2.5_cmn_0019 cmn-NG-31-113149-5530931-S1
+chtb_4356 wb/p2.5_cmn/00/p2.5_cmn_0020 cmn-NG-31-113149-5530949-S1
+chtb_4357 wb/p2.5_cmn/00/p2.5_cmn_0023 cmn-NG-31-113149-5530950-S1
+chtb_4358 wb/p2.5_cmn/00/p2.5_cmn_0024 cmn-NG-31-113149-5530982-S1
+chtb_4359 wb/p2.5_cmn/00/p2.5_cmn_0026 cmn-NG-31-113149-5531075-S1
+chtb_4360 wb/p2.5_cmn/00/p2.5_cmn_0027 cmn-NG-31-113149-5531075-S2
+chtb_4361 wb/p2.5_cmn/00/p2.5_cmn_0028 cmn-NG-4-76540-5662567-S1
+chtb_4362 wb/p2.5_cmn/00/p2.5_cmn_0029 cmn-NG-4-76540-5662574-S1
+chtb_4363 wb/p2.5_cmn/00/p2.5_cmn_0030 cmn-NG-4-76541-5668275-S2
+chtb_4364 wb/p2.5_cmn/00/p2.5_cmn_0031 cmn-NG-4-76541-5668276-S1
+chtb_4365 wb/p2.5_cmn/00/p2.5_cmn_0032 cmn-NG-4-76541-5668280-S2
+chtb_4366 wb/p2.5_cmn/00/p2.5_cmn_0034 cmn-NG-4-76558-5646964-S1
+chtb_4367 wb/p2.5_cmn/00/p2.5_cmn_0035 cmn-NG-4-76558-5647040-S1
+chtb_4368 wb/p2.5_cmn/00/p2.5_cmn_0036 cmn-NG-4-76559-5649178-S1
+chtb_4369 wb/p2.5_cmn/00/p2.5_cmn_0037 cmn-NG-4-76559-5649230-S1
+chtb_4370 wb/p2.5_cmn/00/p2.5_cmn_0038 cmn-NG-4-76560-5664396-S1
+chtb_4371 wb/p2.5_cmn/00/p2.5_cmn_0039 cmn-NG-4-76560-5664416-S1
+chtb_4372 wb/p2.5_cmn/00/p2.5_cmn_0040 cmn-NG-4-76560-5664572-S1
+chtb_4373 wb/p2.5_cmn/00/p2.5_cmn_0041 cmn-NG-4-76564-5650720-S1
+chtb_4374 wb/p2.5_cmn/00/p2.5_cmn_0042 cmn-NG-4-76564-5650720-S2
+chtb_4375 wb/p2.5_cmn/00/p2.5_cmn_0043 cmn-NG-4-76616-5652704-S1
+chtb_4376 wb/p2.5_cmn/00/p2.5_cmn_0044 cmn-NG-4-76618-5656287-S3
+chtb_4377 wb/p2.5_cmn/00/p2.5_cmn_0045 cmn-NG-4-76645-5652956-S1
+chtb_4378 wb/p2.5_cmn/00/p2.5_cmn_0046 cmn-NG-4-76684-5657141-S1
+chtb_4379 wb/p2.5_cmn/00/p2.5_cmn_0048 cmn-NG-4-76685-5668531-S1
+chtb_4380 wb/p2.5_cmn/00/p2.5_cmn_0050 cmn-NG-4-76747-5665129-S1
+chtb_4381 wb/p2.5_cmn/00/p2.5_cmn_0051 cmn-NG-4-76747-5665130-S1
+chtb_4382 wb/p2.5_cmn/00/p2.5_cmn_0052 cmn-NG-4-76747-5665156-S1
+chtb_4383 wb/p2.5_cmn/00/p2.5_cmn_0053 cmn-WL-13-99245-3412266-S1
+chtb_4384 wb/p2.5_cmn/00/p2.5_cmn_0054 cmn-WL-13-99245-3412339-S1
+chtb_4385 wb/p2.5_cmn/00/p2.5_cmn_0055 cmn-WL-13-99245-3412351-S1
+chtb_4386 wb/p2.5_cmn/00/p2.5_cmn_0056 cmn-WL-13-99245-3412461-S1
+chtb_4387 wb/p2.5_cmn/00/p2.5_cmn_0057 cmn-WL-13-99245-3412552-S1
+chtb_4388 wb/p2.5_cmn/00/p2.5_cmn_0058 cmn-WL-13-99255-3411212-S1
+chtb_4389 wb/p2.5_cmn/00/p2.5_cmn_0059 cmn-WL-13-99255-3411217-S1
+chtb_4390 wb/p2.5_cmn/00/p2.5_cmn_0060 cmn-WL-13-99256-3410047-S1
+chtb_4391 wb/p2.5_cmn/00/p2.5_cmn_0061 cmn-WL-16-99332-3417328-S1
+chtb_4392 wb/p2.5_cmn/00/p2.5_cmn_0062 cmn-WL-16-99347-3417347-S1
+chtb_4393 wb/p2.5_cmn/00/p2.5_cmn_0063 cmn-WL-16-99347-3417347-S2
+chtb_4394 wb/p2.5_cmn/00/p2.5_cmn_0064 cmn-WL-16-99347-3417347-S3
+chtb_4395 wb/p2.5_cmn/00/p2.5_cmn_0065 cmn-WL-17-99376-3417371-S1
+chtb_4396 wb/p2.5_cmn/00/p2.5_cmn_0066 cmn-WL-17-99379-3417413-S1
+chtb_4397 wb/p2.5_cmn/00/p2.5_cmn_0067 cmn-WL-17-99385-3417417-S1
+chtb_4398 wb/p2.5_cmn/00/p2.5_cmn_0068 cmn-WL-17-99442-3417493-S1
+chtb_4399 wb/p2.5_cmn/00/p2.5_cmn_0069 cmn-WL-17-99443-3417392-S1
+chtb_4400 wb/p2.5_cmn/00/p2.5_cmn_0070 cmn-WL-17-99459-3417478-S1
+chtb_4401 wb/p2.5_cmn/00/p2.5_cmn_0071 cmn-WL-17-99471-3417414-S1
+chtb_4402 wb/p2.5_cmn/00/p2.5_cmn_0072 cmn-WL-17-99472-3417415-S1
+chtb_4403 wb/p2.5_cmn/00/p2.5_cmn_0073 cmn-WL-13-99245-3411519-S1
+chtb_4404 wb/p2.5_cmn/00/p2.5_cmn_0074 cmn-WL-13-99245-3411873-S1
+chtb_4405 wb/p2.5_cmn/00/p2.5_cmn_0075 cmn-WL-13-99245-3411903-S1
+chtb_4406 wb/p2.5_cmn/00/p2.5_cmn_0076 cmn-WL-13-99245-3411956-S1
+chtb_4407 wb/p2.5_cmn/00/p2.5_cmn_0077 cmn-WL-13-99245-3411956-S3
+chtb_4408 wb/p2.5_cmn/00/p2.5_cmn_0078 cmn-WL-13-99245-3411956-S5
+chtb_4409 wb/p2.5_cmn/00/p2.5_cmn_0079 cmn-WL-13-99245-3411976-S1
+chtb_4410 wb/p2.5_cmn/00/p2.5_cmn_0080 cmn-WL-13-99245-3412125-S1
+chtb_4411 wb/p2.5_cmn/00/p2.5_cmn_0081 cmn-WL-13-99245-3412130-S1
+chtb_5000 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6410177.cmn.su
+chtb_5001 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6411018.cmn.su
+chtb_5002 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6411216.cmn.su
+chtb_5003 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6411217.cmn.su
+chtb_5004 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6412736.cmn.su
+chtb_5005 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6418019.cmn.su
+chtb_5006 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6422678.cmn.su
+chtb_5007 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6426858.cmn.su
+chtb_5008 ---ontonote-file-name--- bolt-cmn-DF-182-192249-6427431.cmn.su
+chtb_5009 ---ontonote-file-name--- bolt-cmn-DF-182-192250-6403455.cmn.su
+chtb_5010 ---ontonote-file-name--- bolt-cmn-DF-182-192250-6403961.cmn.su
+chtb_5011 ---ontonote-file-name--- bolt-cmn-DF-182-192250-6404797.cmn.su
+chtb_5012 ---ontonote-file-name--- bolt-cmn-DF-182-192251-6379450.cmn.su
+chtb_5013 ---ontonote-file-name--- bolt-cmn-DF-182-192251-6380053.cmn.su
+chtb_5014 ---ontonote-file-name--- bolt-cmn-DF-182-192251-6380128.cmn.su
+chtb_5015 ---ontonote-file-name--- bolt-cmn-DF-182-192251-6381475.cmn.su
+chtb_5016 ---ontonote-file-name--- bolt-cmn-DF-182-192251-6381748.cmn.su
+chtb_5017 ---ontonote-file-name--- bolt-cmn-DF-182-192251-6382743.cmn.su
+chtb_5018 ---ontonote-file-name--- bolt-cmn-DF-182-192251-6383221.cmn.su
+chtb_5019 ---ontonote-file-name--- bolt-cmn-DF-182-192255-6448999.cmn.su
+chtb_5020 ---ontonote-file-name--- bolt-cmn-DF-196-185661-14824299.cmn.su
+chtb_5021 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3107568.cmn.su
+chtb_5022 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3107822.cmn.su
+chtb_5023 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3108009.cmn.su
+chtb_5024 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3108051.cmn.su
+chtb_5025 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3108330.cmn.su
+chtb_5026 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3108745.cmn.su
+chtb_5027 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109042.cmn.su
+chtb_5028 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109098.cmn.su
+chtb_5029 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109302.cmn.su
+chtb_5030 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109546.cmn.su
+chtb_5031 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109568.cmn.su
+chtb_5032 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109619.cmn.su
+chtb_5033 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109783.cmn.su
+chtb_5034 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109942.cmn.su
+chtb_5035 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3109981.cmn.su
+chtb_5036 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3110766.cmn.su
+chtb_5037 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3110796.cmn.su
+chtb_5038 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3111847.cmn.su
+chtb_5039 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3112059.cmn.su
+chtb_5040 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3112062.cmn.su
+chtb_5041 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3112078.cmn.su
+chtb_5042 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3113012.cmn.su
+chtb_5043 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3113798.cmn.su
+chtb_5044 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3113849.cmn.su
+chtb_5045 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3114609.cmn.su
+chtb_5046 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3114623.cmn.su
+chtb_5047 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3114923.cmn.su
+chtb_5048 ---ontonote-file-name--- bolt-cmn-DF-196-185661-3114978.cmn.su
+chtb_5049 ---ontonote-file-name--- bolt-cmn-DF-196-185664-2842833.cmn.su
+chtb_5050 ---ontonote-file-name--- bolt-cmn-DF-196-185664-2845526.cmn.su
+chtb_5051 ---ontonote-file-name--- bolt-cmn-DF-196-185664-2846009.cmn.su
+chtb_5052 ---ontonote-file-name--- bolt-cmn-DF-196-185664-2846515.cmn.su
+chtb_5053 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2981187.cmn.su
+chtb_5054 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2981471.cmn.su
+chtb_5055 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2982037.cmn.su
+chtb_5056 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2982042.cmn.su
+chtb_5057 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2984128.cmn.su
+chtb_5058 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2984134.cmn.su
+chtb_5059 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2984921.cmn.su
+chtb_5060 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2985280.cmn.su
+chtb_5061 ---ontonote-file-name--- bolt-cmn-DF-196-185667-2985697.cmn.su
+chtb_5062 ---ontonote-file-name--- bolt-cmn-DF-20-191610-10951691.cmn.su
+chtb_5063 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2207114.cmn.su
+chtb_5064 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2207136.cmn.su
+chtb_5065 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2207211.cmn.su
+chtb_5066 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2207218.cmn.su
+chtb_5067 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2207225.cmn.su
+chtb_5068 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2208381.cmn.su
+chtb_5069 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2208625.cmn.su
+chtb_5070 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2209039.cmn.su
+chtb_5071 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2209376.cmn.su
+chtb_5072 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2209741.cmn.su
+chtb_5073 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2210392.cmn.su
+chtb_5074 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2211864.cmn.su
+chtb_5075 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2211898.cmn.su
+chtb_5076 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2211908.cmn.su
+chtb_5077 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2212203.cmn.su
+chtb_5078 ---ontonote-file-name--- bolt-cmn-DF-20-191610-2213264.cmn.su
+chtb_5079 ---ontonote-file-name--- bolt-cmn-DF-20-191611-10951687.cmn.su
+chtb_5080 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3856279.cmn.su
+chtb_5081 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3856293.cmn.su
+chtb_5082 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3856318.cmn.su
+chtb_5083 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3857953.cmn.su
+chtb_5084 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3858273.cmn.su
+chtb_5085 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3858749.cmn.su
+chtb_5086 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3858945.cmn.su
+chtb_5087 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3858973.cmn.su
+chtb_5088 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3858981.cmn.su
+chtb_5089 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3858987.cmn.su
+chtb_5090 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3859898.cmn.su
+chtb_5091 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3861755.cmn.su
+chtb_5092 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3862755.cmn.su
+chtb_5093 ---ontonote-file-name--- bolt-cmn-DF-20-191611-3863324.cmn.su
+chtb_5094 ---ontonote-file-name--- bolt-cmn-DF-20-191612-3818452.cmn.su
+chtb_5095 ---ontonote-file-name--- bolt-cmn-DF-20-191612-3819789.cmn.su
+chtb_5096 ---ontonote-file-name--- bolt-cmn-DF-20-191622-4018393.cmn.su
+chtb_5097 ---ontonote-file-name--- bolt-cmn-DF-20-191626-4093458.cmn.su
+chtb_5098 ---ontonote-file-name--- bolt-cmn-DF-20-191626-4094981.cmn.su
+chtb_5099 ---ontonote-file-name--- bolt-cmn-DF-20-191626-4096013.cmn.su
+chtb_5100 ---ontonote-file-name--- bolt-cmn-DF-20-191626-4096677.cmn.su
+chtb_5101 ---ontonote-file-name--- bolt-cmn-DF-20-191626-4097324.cmn.su
+chtb_5102 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1355513.cmn.su
+chtb_5103 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1356023.cmn.su
+chtb_5104 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1356024.cmn.su
+chtb_5105 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1357883.cmn.su
+chtb_5106 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1357911.cmn.su
+chtb_5107 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1358697.cmn.su
+chtb_5108 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1363063.cmn.su
+chtb_5109 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1380188.cmn.su
+chtb_5110 ---ontonote-file-name--- bolt-cmn-DF-205-185858-1394885.cmn.su
+chtb_5111 ---ontonote-file-name--- bolt-cmn-DF-205-185859-135016.cmn.su
+chtb_5112 ---ontonote-file-name--- bolt-cmn-DF-205-185859-139664.cmn.su
+chtb_5113 ---ontonote-file-name--- bolt-cmn-DF-205-185859-144921.cmn.su
+chtb_5114 ---ontonote-file-name--- bolt-cmn-DF-205-185859-146042.cmn.su
+chtb_5115 ---ontonote-file-name--- bolt-cmn-DF-205-185863-147946.cmn.su
+chtb_5116 ---ontonote-file-name--- bolt-cmn-DF-205-185863-148504.cmn.su
+chtb_5117 ---ontonote-file-name--- bolt-cmn-DF-205-185863-148570.cmn.su
+chtb_5118 ---ontonote-file-name--- bolt-cmn-DF-205-185863-149083.cmn.su
+chtb_5119 ---ontonote-file-name--- bolt-cmn-DF-205-185863-149226.cmn.su
+chtb_5120 ---ontonote-file-name--- bolt-cmn-DF-205-185863-151099.cmn.su
+chtb_5121 ---ontonote-file-name--- bolt-cmn-DF-205-185863-151137.cmn.su
+chtb_5122 ---ontonote-file-name--- bolt-cmn-DF-205-185863-151753.cmn.su
+chtb_5123 ---ontonote-file-name--- bolt-cmn-DF-205-185863-154925.cmn.su
+chtb_5124 ---ontonote-file-name--- bolt-cmn-DF-205-185863-567726.cmn.su
+chtb_5125 ---ontonote-file-name--- bolt-cmn-DF-205-185863-576140.cmn.su
+chtb_5126 ---ontonote-file-name--- bolt-cmn-DF-205-185864-218277.cmn.su
+chtb_5127 ---ontonote-file-name--- bolt-cmn-DF-205-185864-219074.cmn.su
+chtb_5128 ---ontonote-file-name--- bolt-cmn-DF-205-185864-220941.cmn.su
+chtb_5129 ---ontonote-file-name--- bolt-cmn-DF-205-185864-221575.cmn.su
+chtb_5130 ---ontonote-file-name--- bolt-cmn-DF-205-185864-221916.cmn.su
+chtb_5131 ---ontonote-file-name--- bolt-cmn-DF-205-185864-222135.cmn.su
+chtb_5132 ---ontonote-file-name--- bolt-cmn-DF-205-185864-222292.cmn.su
+chtb_5133 ---ontonote-file-name--- bolt-cmn-DF-205-185864-222640.cmn.su
+chtb_5134 ---ontonote-file-name--- bolt-cmn-DF-205-185864-222820.cmn.su
+chtb_5135 ---ontonote-file-name--- bolt-cmn-DF-205-185864-222960.cmn.su
+chtb_5136 ---ontonote-file-name--- bolt-cmn-DF-205-185864-223282.cmn.su
+chtb_5137 ---ontonote-file-name--- bolt-cmn-DF-205-185864-223558.cmn.su
+chtb_5138 ---ontonote-file-name--- bolt-cmn-DF-205-185864-223923.cmn.su
+chtb_5139 ---ontonote-file-name--- bolt-cmn-DF-205-185864-224009.cmn.su
+chtb_5140 ---ontonote-file-name--- bolt-cmn-DF-205-185864-711418.cmn.su
+chtb_5141 ---ontonote-file-name--- bolt-cmn-DF-205-185864-711421.cmn.su
+chtb_5142 ---ontonote-file-name--- bolt-cmn-DF-208-189141-666865.cmn.su
+chtb_5143 ---ontonote-file-name--- bolt-cmn-DF-208-189141-666868.cmn.su
+chtb_5144 ---ontonote-file-name--- bolt-cmn-DF-211-187111-4472999.cmn.su
+chtb_5145 ---ontonote-file-name--- bolt-cmn-DF-211-187111-4473446.cmn.su
+chtb_5146 ---ontonote-file-name--- bolt-cmn-DF-211-187111-4474453.cmn.su
+chtb_5147 ---ontonote-file-name--- bolt-cmn-DF-211-187111-4475559.cmn.su
+chtb_5148 ---ontonote-file-name--- bolt-cmn-DF-211-187111-4475604.cmn.su
+chtb_5149 ---ontonote-file-name--- bolt-cmn-DF-211-187112-3367365.cmn.su
+chtb_5150 ---ontonote-file-name--- bolt-cmn-DF-211-187112-3367366.cmn.su
+chtb_5151 ---ontonote-file-name--- bolt-cmn-DF-211-187112-3371054.cmn.su
+chtb_5152 ---ontonote-file-name--- bolt-cmn-DF-21-181072-8531668.cmn.su
+chtb_5153 ---ontonote-file-name--- bolt-cmn-DF-21-181072-8533406.cmn.su
+chtb_5154 ---ontonote-file-name--- bolt-cmn-DF-21-181072-8533715.cmn.su
+chtb_5155 ---ontonote-file-name--- bolt-cmn-DF-21-181152-8336474.cmn.su
+chtb_5156 ---ontonote-file-name--- bolt-cmn-DF-21-181152-8337745.cmn.su
+chtb_5157 ---ontonote-file-name--- bolt-cmn-DF-21-181155-8403058.cmn.su
+chtb_5158 ---ontonote-file-name--- bolt-cmn-DF-21-181155-8403460.cmn.su
+chtb_5159 ---ontonote-file-name--- bolt-cmn-DF-21-181155-8405297.cmn.su
+chtb_5160 ---ontonote-file-name--- bolt-cmn-DF-213-191701-5122459.cmn.su
+chtb_5161 ---ontonote-file-name--- bolt-cmn-DF-213-191701-5126694.cmn.su
+chtb_5162 ---ontonote-file-name--- bolt-cmn-DF-213-191701-5134554.cmn.su
+chtb_5163 ---ontonote-file-name--- bolt-cmn-DF-213-191701-5138334.cmn.su
+chtb_5164 ---ontonote-file-name--- bolt-cmn-DF-219-187093-3723996.cmn.su
+chtb_5165 ---ontonote-file-name--- bolt-cmn-DF-219-187093-3724759.cmn.su
+chtb_5166 ---ontonote-file-name--- bolt-cmn-DF-219-187093-3724795.cmn.su
+chtb_5167 ---ontonote-file-name--- bolt-cmn-DF-219-187093-3725810.cmn.su
+chtb_5168 ---ontonote-file-name--- bolt-cmn-DF-219-187095-3683692.cmn.su
+chtb_5169 ---ontonote-file-name--- bolt-cmn-DF-219-187100-3711876.cmn.su
+chtb_5170 ---ontonote-file-name--- bolt-cmn-DF-224-196260-9144758.cmn.su
+chtb_5171 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9191408.cmn.su
+chtb_5172 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9191569.cmn.su
+chtb_5173 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9194248.cmn.su
+chtb_5174 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9194654.cmn.su
+chtb_5175 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9194852.cmn.su
+chtb_5176 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9195473.cmn.su
+chtb_5177 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9195930.cmn.su
+chtb_5178 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9197360.cmn.su
+chtb_5179 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9197648.cmn.su
+chtb_5180 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9209341.cmn.su
+chtb_5181 ---ontonote-file-name--- bolt-cmn-DF-224-196261-9209749.cmn.su
+chtb_5182 ---ontonote-file-name--- bolt-cmn-DF-224-196264-9176822.cmn.su
+chtb_5183 ---ontonote-file-name--- bolt-cmn-DF-224-196264-9176890.cmn.su
+chtb_5184 ---ontonote-file-name--- bolt-cmn-DF-224-196264-9177476.cmn.su
+chtb_5185 ---ontonote-file-name--- bolt-cmn-DF-224-196264-9178089.cmn.su
+chtb_5186 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8047539.cmn.su
+chtb_5187 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8048696.cmn.su
+chtb_5188 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8048744.cmn.su
+chtb_5189 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8048863.cmn.su
+chtb_5190 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8048872.cmn.su
+chtb_5191 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8050690.cmn.su
+chtb_5192 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8050697.cmn.su
+chtb_5193 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8050850.cmn.su
+chtb_5194 ---ontonote-file-name--- bolt-cmn-DF-235-196469-8050942.cmn.su
+chtb_5195 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10215943.cmn.su
+chtb_5196 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10216171.cmn.su
+chtb_5197 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10216186.cmn.su
+chtb_5198 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10216308.cmn.su
+chtb_5199 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10216463.cmn.su
+chtb_5200 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10216503.cmn.su
+chtb_5201 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10216675.cmn.su
+chtb_5202 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10217119.cmn.su
+chtb_5203 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10218055.cmn.su
+chtb_5204 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10218424.cmn.su
+chtb_5205 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10218482.cmn.su
+chtb_5206 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10218518.cmn.su
+chtb_5207 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10219326.cmn.su
+chtb_5208 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10219429.cmn.su
+chtb_5209 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10219970.cmn.su
+chtb_5210 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10219998.cmn.su
+chtb_5211 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220024.cmn.su
+chtb_5212 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220207.cmn.su
+chtb_5213 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220230.cmn.su
+chtb_5214 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220231.cmn.su
+chtb_5215 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220249.cmn.su
+chtb_5216 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220602.cmn.su
+chtb_5217 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220823.cmn.su
+chtb_5218 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220860.cmn.su
+chtb_5219 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10220941.cmn.su
+chtb_5220 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221051.cmn.su
+chtb_5221 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221169.cmn.su
+chtb_5222 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221188.cmn.su
+chtb_5223 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221294.cmn.su
+chtb_5224 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221307.cmn.su
+chtb_5225 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221500.cmn.su
+chtb_5226 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221509.cmn.su
+chtb_5227 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221569.cmn.su
+chtb_5228 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221571.cmn.su
+chtb_5229 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221608.cmn.su
+chtb_5230 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221802.cmn.su
+chtb_5231 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221816.cmn.su
+chtb_5232 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221847.cmn.su
+chtb_5233 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221920.cmn.su
+chtb_5234 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10221979.cmn.su
+chtb_5235 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10222061.cmn.su
+chtb_5236 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10222067.cmn.su
+chtb_5237 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10222180.cmn.su
+chtb_5238 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10222536.cmn.su
+chtb_5239 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10222575.cmn.su
+chtb_5240 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223109.cmn.su
+chtb_5241 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223420.cmn.su
+chtb_5242 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223500.cmn.su
+chtb_5243 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223634.cmn.su
+chtb_5244 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223734.cmn.su
+chtb_5245 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223836.cmn.su
+chtb_5246 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223845.cmn.su
+chtb_5247 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223858.cmn.su
+chtb_5248 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223867.cmn.su
+chtb_5249 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10223969.cmn.su
+chtb_5250 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10224072.cmn.su
+chtb_5251 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10224185.cmn.su
+chtb_5252 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10224350.cmn.su
+chtb_5253 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10224404.cmn.su
+chtb_5254 ---ontonote-file-name--- bolt-cmn-DF-236-196626-10224413.cmn.su
+chtb_5255 ---ontonote-file-name--- bolt-cmn-DF-236-196626-8665020.cmn.su
+chtb_5256 ---ontonote-file-name--- bolt-cmn-DF-236-196626-8665058.cmn.su
+chtb_5257 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10452669.cmn.su
+chtb_5258 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10452738.cmn.su
+chtb_5259 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10452820.cmn.su
+chtb_5260 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454538.cmn.su
+chtb_5261 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454544.cmn.su
+chtb_5262 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454634.cmn.su
+chtb_5263 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454667.cmn.su
+chtb_5264 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454691.cmn.su
+chtb_5265 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454728.cmn.su
+chtb_5266 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454746.cmn.su
+chtb_5267 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454747.cmn.su
+chtb_5268 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454838.cmn.su
+chtb_5269 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454852.cmn.su
+chtb_5270 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10454885.cmn.su
+chtb_5271 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10455080.cmn.su
+chtb_5272 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10455132.cmn.su
+chtb_5273 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10455460.cmn.su
+chtb_5274 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10455555.cmn.su
+chtb_5275 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10455952.cmn.su
+chtb_5276 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456022.cmn.su
+chtb_5277 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456162.cmn.su
+chtb_5278 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456173.cmn.su
+chtb_5279 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456256.cmn.su
+chtb_5280 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456357.cmn.su
+chtb_5281 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456407.cmn.su
+chtb_5282 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456437.cmn.su
+chtb_5283 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456592.cmn.su
+chtb_5284 ---ontonote-file-name--- bolt-cmn-DF-236-196627-10456817.cmn.su
+chtb_5285 ---ontonote-file-name--- bolt-cmn-DF-236-196627-16801656.cmn.su
+chtb_5286 ---ontonote-file-name--- bolt-cmn-DF-236-196627-16802527.cmn.su
+chtb_5287 ---ontonote-file-name--- bolt-cmn-DF-236-196661-10464259.cmn.su
+chtb_5288 ---ontonote-file-name--- bolt-cmn-DF-247-199821-13384571.cmn.su
+chtb_5289 ---ontonote-file-name--- bolt-cmn-DF-247-199821-13397408.cmn.su
+chtb_5290 ---ontonote-file-name--- bolt-cmn-DF-247-199821-13400288.cmn.su
+chtb_5291 ---ontonote-file-name--- bolt-cmn-DF-247-199821-13401301.cmn.su
+chtb_5292 ---ontonote-file-name--- bolt-cmn-DF-247-199821-13401308.cmn.su
+chtb_5293 ---ontonote-file-name--- bolt-cmn-DF-247-199821-13415571.cmn.su
+chtb_5294 ---ontonote-file-name--- bolt-cmn-DF-247-199821-13417829.cmn.su
+chtb_5295 ---ontonote-file-name--- bolt-cmn-DF-247-199821-13424221.cmn.su
+chtb_5296 ---ontonote-file-name--- bolt-cmn-DF-247-199825-14650375.cmn.su
+chtb_5297 ---ontonote-file-name--- bolt-cmn-DF-247-199825-14650591.cmn.su
+chtb_5298 ---ontonote-file-name--- bolt-cmn-DF-247-199853-14903869.cmn.su
+chtb_5299 ---ontonote-file-name--- bolt-cmn-DF-255-200270-11685767.cmn.su
+chtb_5300 ---ontonote-file-name--- bolt-cmn-DF-255-200270-11689352.cmn.su
+chtb_5301 ---ontonote-file-name--- bolt-cmn-DF-255-200270-11689671.cmn.su
+chtb_5302 ---ontonote-file-name--- bolt-cmn-DF-255-200270-11703795.cmn.su
+chtb_5303 ---ontonote-file-name--- bolt-cmn-DF-255-200270-11720384.cmn.su
+chtb_5304 ---ontonote-file-name--- bolt-cmn-DF-255-200277-13344713.cmn.su
+chtb_5305 ---ontonote-file-name--- bolt-cmn-DF-255-200307-12877183.cmn.su
+chtb_5306 ---ontonote-file-name--- bolt-cmn-DF-255-200347-12996983.cmn.su
+chtb_5307 ---ontonote-file-name--- bolt-cmn-DF-255-200347-12998240.cmn.su
+chtb_5308 ---ontonote-file-name--- bolt-cmn-DF-272-201267-14926017.cmn.su
+chtb_5309 ---ontonote-file-name--- bolt-cmn-NG-21-181071-105913.cmn.su
+chtb_5310 ---ontonote-file-name--- bolt-cmn-NG-21-181071-105924.cmn.su
+chtb_5311 ---ontonote-file-name--- bolt-cmn-NG-21-181071-105938.cmn.su
+chtb_5312 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106042.cmn.su
+chtb_5313 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106050.cmn.su
+chtb_5314 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106055.cmn.su
+chtb_5315 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106056.cmn.su
+chtb_5316 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106255.cmn.su
+chtb_5317 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106256.cmn.su
+chtb_5318 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106317.cmn.su
+chtb_5319 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106497.cmn.su
+chtb_5320 ---ontonote-file-name--- bolt-cmn-NG-21-181071-106510.cmn.su
+chtb_5321 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95210.cmn.su
+chtb_5322 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95305.cmn.su
+chtb_5323 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95309.cmn.su
+chtb_5324 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95341.cmn.su
+chtb_5325 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95371.cmn.su
+chtb_5326 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95373.cmn.su
+chtb_5327 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95385.cmn.su
+chtb_5328 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95389.cmn.su
+chtb_5329 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95413.cmn.su
+chtb_5330 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95462.cmn.su
+chtb_5331 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95473.cmn.su
+chtb_5332 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95508.cmn.su
+chtb_5333 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95533.cmn.su
+chtb_5334 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95568.cmn.su
+chtb_5335 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95571.cmn.su
+chtb_5336 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95788.cmn.su
+chtb_5337 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95817.cmn.su
+chtb_5338 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95864.cmn.su
+chtb_5339 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95883.cmn.su
+chtb_5340 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95894.cmn.su
+chtb_5341 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95903.cmn.su
+chtb_5342 ---ontonote-file-name--- bolt-cmn-NG-21-181071-95952.cmn.su
+chtb_5343 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96009.cmn.su
+chtb_5344 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96072.cmn.su
+chtb_5345 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96233.cmn.su
+chtb_5346 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96236.cmn.su
+chtb_5347 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96245.cmn.su
+chtb_5348 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96338.cmn.su
+chtb_5349 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96353.cmn.su
+chtb_5350 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96427.cmn.su
+chtb_5351 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96472.cmn.su
+chtb_5352 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96611.cmn.su
+chtb_5353 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96613.cmn.su
+chtb_5354 ---ontonote-file-name--- bolt-cmn-NG-21-181071-96649.cmn.su
+chtb_5355 ---ontonote-file-name--- bolt-cmn-NG-21-181074-10138.cmn.su
+chtb_5356 ---ontonote-file-name--- bolt-cmn-NG-21-181074-10179.cmn.su
+chtb_5357 ---ontonote-file-name--- bolt-cmn-NG-21-181074-10363.cmn.su
+chtb_5358 ---ontonote-file-name--- bolt-cmn-NG-21-181074-10864.cmn.su
+chtb_5359 ---ontonote-file-name--- bolt-cmn-NG-21-181074-10995.cmn.su
+chtb_5360 ---ontonote-file-name--- bolt-cmn-NG-21-181074-11296.cmn.su
+chtb_5361 ---ontonote-file-name--- bolt-cmn-NG-21-181074-11421.cmn.su
+chtb_5362 ---ontonote-file-name--- bolt-cmn-NG-21-181074-11478.cmn.su
+chtb_5363 ---ontonote-file-name--- bolt-cmn-NG-21-181074-11483.cmn.su
+chtb_5364 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2105.cmn.su
+chtb_5365 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2231.cmn.su
+chtb_5366 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2252.cmn.su
+chtb_5367 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2281.cmn.su
+chtb_5368 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2286.cmn.su
+chtb_5369 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2304.cmn.su
+chtb_5370 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2339.cmn.su
+chtb_5371 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2345.cmn.su
+chtb_5372 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2697.cmn.su
+chtb_5373 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2760.cmn.su
+chtb_5374 ---ontonote-file-name--- bolt-cmn-NG-21-181074-2995.cmn.su
+chtb_5375 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9021.cmn.su
+chtb_5376 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9131.cmn.su
+chtb_5377 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9163.cmn.su
+chtb_5378 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9233.cmn.su
+chtb_5379 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9334.cmn.su
+chtb_5380 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9431.cmn.su
+chtb_5381 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9438.cmn.su
+chtb_5382 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9486.cmn.su
+chtb_5383 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9488.cmn.su
+chtb_5384 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9568.cmn.su
+chtb_5385 ---ontonote-file-name--- bolt-cmn-NG-21-181074-9740.cmn.su
+chtb_5386 ---ontonote-file-name--- bolt-cmn-NG-21-181075-6634.cmn.su
+chtb_5387 ---ontonote-file-name--- bolt-cmn-NG-21-181075-6683.cmn.su
+chtb_5388 ---ontonote-file-name--- bolt-cmn-NG-21-181075-6688.cmn.su
+chtb_5389 ---ontonote-file-name--- bolt-cmn-NG-21-181075-6722.cmn.su
+chtb_5390 ---ontonote-file-name--- bolt-cmn-NG-21-181075-6727.cmn.su
+chtb_5391 ---ontonote-file-name--- bolt-cmn-NG-21-181075-6856.cmn.su
+chtb_5392 ---ontonote-file-name--- bolt-cmn-NG-21-181075-6859.cmn.su
+chtb_5393 ---ontonote-file-name--- bolt-cmn-NG-21-181075-6951.cmn.su
+chtb_5394 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102356.cmn.su
+chtb_5395 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102438.cmn.su
+chtb_5396 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102508.cmn.su
+chtb_5397 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102548.cmn.su
+chtb_5398 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102564.cmn.su
+chtb_5399 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102622.cmn.su
+chtb_5400 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102674.cmn.su
+chtb_5401 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102833.cmn.su
+chtb_5402 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102845.cmn.su
+chtb_5403 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102853.cmn.su
+chtb_5404 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102872.cmn.su
+chtb_5405 ---ontonote-file-name--- bolt-cmn-NG-21-181152-102880.cmn.su
+chtb_5406 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103211.cmn.su
+chtb_5407 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103269.cmn.su
+chtb_5408 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103298.cmn.su
+chtb_5409 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103497.cmn.su
+chtb_5410 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103601.cmn.su
+chtb_5411 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103667.cmn.su
+chtb_5412 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103770.cmn.su
+chtb_5413 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103786.cmn.su
+chtb_5414 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103961.cmn.su
+chtb_5415 ---ontonote-file-name--- bolt-cmn-NG-21-181152-103972.cmn.su
+chtb_5416 ---ontonote-file-name--- bolt-cmn-NG-21-181152-104394.cmn.su
+chtb_5417 ---ontonote-file-name--- bolt-cmn-NG-21-181152-104441.cmn.su
+chtb_5418 ---ontonote-file-name--- bolt-cmn-NG-21-181152-104601.cmn.su
+chtb_5419 ---ontonote-file-name--- bolt-cmn-NG-21-181152-104611.cmn.su
+chtb_5420 ---ontonote-file-name--- bolt-cmn-NG-21-181152-104634.cmn.su
+chtb_5421 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105026.cmn.su
+chtb_5422 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105048.cmn.su
+chtb_5423 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105148.cmn.su
+chtb_5424 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105163.cmn.su
+chtb_5425 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105247.cmn.su
+chtb_5426 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105393.cmn.su
+chtb_5427 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105467.cmn.su
+chtb_5428 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105489.cmn.su
+chtb_5429 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105512.cmn.su
+chtb_5430 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105514.cmn.su
+chtb_5431 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105548.cmn.su
+chtb_5432 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105645.cmn.su
+chtb_5433 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105666.cmn.su
+chtb_5434 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105772.cmn.su
+chtb_5435 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105775.cmn.su
+chtb_5436 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105875.cmn.su
+chtb_5437 ---ontonote-file-name--- bolt-cmn-NG-21-181152-105925.cmn.su
+chtb_5438 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106129.cmn.su
+chtb_5439 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106201.cmn.su
+chtb_5440 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106308.cmn.su
+chtb_5441 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106321.cmn.su
+chtb_5442 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106401.cmn.su
+chtb_5443 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106416.cmn.su
+chtb_5444 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106480.cmn.su
+chtb_5445 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106483.cmn.su
+chtb_5446 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106627.cmn.su
+chtb_5447 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106754.cmn.su
+chtb_5448 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106767.cmn.su
+chtb_5449 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106787.cmn.su
+chtb_5450 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106794.cmn.su
+chtb_5451 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106860.cmn.su
+chtb_5452 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106871.cmn.su
+chtb_5453 ---ontonote-file-name--- bolt-cmn-NG-21-181152-106980.cmn.su
+chtb_5454 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107053.cmn.su
+chtb_5455 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107058.cmn.su
+chtb_5456 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107128.cmn.su
+chtb_5457 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107291.cmn.su
+chtb_5458 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107362.cmn.su
+chtb_5459 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107400.cmn.su
+chtb_5460 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107461.cmn.su
+chtb_5461 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107472.cmn.su
+chtb_5462 ---ontonote-file-name--- bolt-cmn-NG-21-181152-107475.cmn.su
+chtb_5463 ---ontonote-file-name--- bolt-cmn-NG-21-181169-56592.cmn.su
+chtb_5464 ---ontonote-file-name--- bolt-cmn-NG-21-181169-57749.cmn.su
+chtb_5465 ---ontonote-file-name--- bolt-cmn-NG-21-181169-58623.cmn.su
+chtb_5466 ---ontonote-file-name--- bolt-cmn-NG-21-181169-58625.cmn.su
+chtb_5467 ---ontonote-file-name--- bolt-cmn-NG-21-181169-58645.cmn.su
+chtb_5468 ---ontonote-file-name--- bolt-cmn-NG-21-181169-78821.cmn.su
+chtb_5469 ---ontonote-file-name--- bolt-cmn-NG-21-181169-79231.cmn.su
+chtb_5470 ---ontonote-file-name--- bolt-cmn-NG-21-181169-79754.cmn.su
+chtb_5471 ---ontonote-file-name--- bolt-cmn-NG-21-181206-95480.cmn.su
+chtb_5472 ---ontonote-file-name--- bolt-cmn-NG-21-181206-95503.cmn.su
+chtb_5473 ---ontonote-file-name--- bolt-cmn-NG-21-181206-95795.cmn.su
+chtb_5474 ---ontonote-file-name--- bolt-cmn-NG-21-181206-95890.cmn.su
+chtb_5475 ---ontonote-file-name--- bolt-cmn-NG-21-181206-95927.cmn.su
+chtb_5476 ---ontonote-file-name--- bolt-cmn-NG-21-181206-95987.cmn.su
+chtb_5477 ---ontonote-file-name--- bolt-cmn-NG-21-181206-95992.cmn.su
+chtb_5478 ---ontonote-file-name--- bolt-cmn-NG-21-181206-96209.cmn.su
+chtb_5479 ---ontonote-file-name--- bolt-cmn-NG-21-181206-96881.cmn.su
+chtb_5480 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97319.cmn.su
+chtb_5481 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97349.cmn.su
+chtb_5482 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97428.cmn.su
+chtb_5483 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97429.cmn.su
+chtb_5484 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97462.cmn.su
+chtb_5485 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97613.cmn.su
+chtb_5486 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97761.cmn.su
+chtb_5487 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97858.cmn.su
+chtb_5488 ---ontonote-file-name--- bolt-cmn-NG-21-181206-97951.cmn.su
+chtb_5489 ---ontonote-file-name--- bolt-cmn-NG-21-181206-98238.cmn.su
+chtb_5490 ---ontonote-file-name--- bolt-cmn-NG-21-181206-98300.cmn.su
+chtb_5491 ---ontonote-file-name--- bolt-cmn-NG-21-181206-98675.cmn.su
+chtb_5492 ---ontonote-file-name--- bolt-cmn-NG-21-181206-98847.cmn.su
+chtb_5493 ---ontonote-file-name--- bolt-cmn-NG-21-181206-98936.cmn.su
+chtb_5494 ---ontonote-file-name--- bolt-cmn-NG-21-181206-99206.cmn.su
+chtb_5495 ---ontonote-file-name--- bolt-cmn-NG-21-181218-53069.cmn.su
+chtb_5496 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100066.cmn.su
+chtb_5497 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100123.cmn.su
+chtb_5498 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100162.cmn.su
+chtb_5499 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100175.cmn.su
+chtb_5500 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100280.cmn.su
+chtb_5501 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100290.cmn.su
+chtb_5502 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100315.cmn.su
+chtb_5503 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100328.cmn.su
+chtb_5504 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100370.cmn.su
+chtb_5505 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100371.cmn.su
+chtb_5506 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100399.cmn.su
+chtb_5507 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100400.cmn.su
+chtb_5508 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100411.cmn.su
+chtb_5509 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100419.cmn.su
+chtb_5510 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100438.cmn.su
+chtb_5511 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100472.cmn.su
+chtb_5512 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100515.cmn.su
+chtb_5513 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100518.cmn.su
+chtb_5514 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100560.cmn.su
+chtb_5515 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100571.cmn.su
+chtb_5516 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100646.cmn.su
+chtb_5517 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100708.cmn.su
+chtb_5518 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100722.cmn.su
+chtb_5519 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100735.cmn.su
+chtb_5520 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100764.cmn.su
+chtb_5521 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100834.cmn.su
+chtb_5522 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100842.cmn.su
+chtb_5523 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100874.cmn.su
+chtb_5524 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100936.cmn.su
+chtb_5525 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100938.cmn.su
+chtb_5526 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100942.cmn.su
+chtb_5527 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100963.cmn.su
+chtb_5528 ---ontonote-file-name--- bolt-cmn-NG-21-181220-100997.cmn.su
+chtb_5529 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101074.cmn.su
+chtb_5530 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101085.cmn.su
+chtb_5531 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101154.cmn.su
+chtb_5532 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101180.cmn.su
+chtb_5533 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101184.cmn.su
+chtb_5534 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101187.cmn.su
+chtb_5535 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101212.cmn.su
+chtb_5536 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101232.cmn.su
+chtb_5537 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101238.cmn.su
+chtb_5538 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101264.cmn.su
+chtb_5539 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101303.cmn.su
+chtb_5540 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101310.cmn.su
+chtb_5541 ---ontonote-file-name--- bolt-cmn-NG-21-181220-101332.cmn.su
+chtb_5542 ---ontonote-file-name--- bolt-cmn-NG-21-181220-99872.cmn.su
+chtb_5543 ---ontonote-file-name--- bolt-cmn-NG-21-181220-99902.cmn.su
+chtb_5544 ---ontonote-file-name--- bolt-cmn-NG-21-181220-99981.cmn.su
+chtb_5545 ---ontonote-file-name--- bolt-cmn-NG-21-181258-86659.cmn.su
+chtb_5546 ---ontonote-file-name--- bolt-cmn-NG-21-181272-52035.cmn.su
+chtb_5547 ---ontonote-file-name--- bolt-cmn-NG-21-181272-52243.cmn.su
+chtb_5548 ---ontonote-file-name--- bolt-cmn-NG-21-181272-53135.cmn.su
+chtb_5549 ---ontonote-file-name--- bolt-cmn-NG-21-181272-55246.cmn.su
+chtb_5550 ---ontonote-file-name--- bolt-cmn-NG-21-181272-57218.cmn.su
+chtb_5551 ---ontonote-file-name--- bolt-cmn-NG-21-181272-57253.cmn.su
+chtb_5552 ---ontonote-file-name--- bolt-cmn-NG-21-181272-58740.cmn.su
+chtb_5553 ---ontonote-file-name--- bolt-cmn-NG-21-181272-59152.cmn.su
+chtb_5554 ---ontonote-file-name--- bolt-cmn-NG-21-181272-59514.cmn.su
+chtb_5555 ---ontonote-file-name--- bolt-cmn-NG-21-181272-63866.cmn.su
+chtb_5556 ---ontonote-file-name--- bolt-cmn-NG-21-181272-64786.cmn.su
+chtb_5557 ---ontonote-file-name--- bolt-cmn-NG-21-181272-66043.cmn.su
+chtb_5558 ---ontonote-file-name--- bolt-cmn-NG-21-181272-66623.cmn.su

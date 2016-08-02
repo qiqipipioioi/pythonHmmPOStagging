@@ -1,0 +1,73 @@
+1. Publication title: Chinese Treebank 8.0 (CTB8.0)
+
+2. Authors: 
+   Nianwen Xue, Xiuhong Zhang, Zixin Jiang, Martha Palmer, 
+   Fei Xia, Fu-Dong Chiou, Meiyu Chang 
+
+   Contact: Nianwen Xue <xuen@brandeis.edu>
+
+3. Data type: text
+
+4. Genres:
+   Newswire: [0001-0325, 0400-0454, 0500-0540, 0600-0885, 0900-0931, 4000-4050]
+   Magazine articles: [0590-0596, 1001-1151]
+   Broadcast news:[2000-3145, 4051-4111]
+   Broadcast conversations: [4112-4197]
+   Weblogs: [4198-4411]
+   Discussion forums: [5000-5558]   
+
+5. Project: the Chinese Treebank Project (http://www.cs.brandeis.edu/~clp/ctb)
+
+6. Applications: natural language processing, syntactic parsing,
+information extraction, machine translation, linguistic analysis
+
+7. Language: Chinese
+
+8. Special license: None
+  
+9. Grant numbers and funding agencies:
+   This research was funded by DOD MDA902-97-C-0307, DARPA TIDES
+   N66001-00-1-8915, DARPA GALE HR0011-06-0022, and DARPA BOLT HR0011-11-C-0145. 
+
+
+10. Copyright.
+    Portions Copyright 1994-1998, Xinhua News Agency
+    Portions Copyright 1997, Department of Information Services, Hong
+Kong Special Administrative Region
+    Portions Copyright 1996-1998 & 2000-2001, Sinorama Magazine
+
+11. Description of the corpus structure and data attributes:
+    There are 3,007 text files in this release, containing 71,369 sentences,
+    1,620,561 words, 2,589,848 characters (hanzi or foreign). The data is provided
+    in the UTF-8 encoding, and the annotation has Penn Treebank-style
+    labeled brackets. Details of the annotation standard can be found in the
+    enclosed segmentation, POS-tagging and bracketing guidelines. The data is
+    provided in four different formats: raw text, word
+    segmented, POS-tagged, and syntactically bracketed formats.
+
+12. Quality control: 
+    The data is partially double-annotated and adjudicated. The list of
+    double-annotated and adjudicated files are listed in
+    'gold-standard-files.txt' and they are the recommended test files for tool
+    evaluation (e.g., automatic word segmentation, POS-tagging and parsing).All
+    files have been automatically verified and manually checked.  
+
+13. References:  
+
+    Nianwen Xue, Fei Xia, Fu-Dong Chiou, and Martha Palmer. 2005: 
+    The Penn Chinese TreeBank: Phrase Structure Annotation of a Large Corpus.
+    Natural Language Engineering, 11(2)207-238.
+
+    Xiuhong Zhang and Nianwen Xue. 2012. Extending and Scaling up the Chinese 
+    Treebank Annotation. Proceedings of the 2nd CIPS-SIGHAN Joint Conference 
+    on Chinese Language Processing (CLP-2012). Tianjin China.
+
+    Nianwen Xue, Fu-Dong Chiou, and Martha Palmer. 2002. Building a Large-Scale
+    Annotated Chinese Corpus. In Proceedings of the 19th. International 
+    Conference on Computational Linguistics (COLING 2002), Taipei, Taiwan, 2002.
+ 
+    Fei Xia, Martha Palmer, Nianwen Xue, Mary Ellen Okurowski, John Kovarik,
+    Fu-Dong Chiou, Shizhe Huang, Tony Kroch, and Mitch Marcus. 2000. 
+    Developing Guidelines and Ensuring Consistency for Chinese Text Annotation,
+    In Proceedings of the second International Conference on Language 
+    Resources and Evaluation (LREC 2000), Athens, Greece, 2000. 

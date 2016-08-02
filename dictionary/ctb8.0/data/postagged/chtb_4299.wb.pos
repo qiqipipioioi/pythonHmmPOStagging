@@ -1,0 +1,69 @@
+网上_NN 银行_NN 身份_NN 认证_NN 与_CC 交易_NN 安全_NN 防范_NN 
+与_P 其他_DT 新生事物_NN 一样_VA ，_PU 网上_NN 银行_NN 在_P 其_PN 发展_NN 道路_NN 上_LC 也_AD 不_AD 是_VC 一帆风顺_VV 的_SP ，_PU 也就是说_AD 各_DT 家_M 商业_NN 银行_NN 的_DEG 网上_NN 银行_NN 都_AD 出现_VV 过_AS 不同_JJ 程度_NN 的_DEG 案件_NN 。_PU 
+这些_DT 案件_NN 按_P 其_PN 性质_NN ，_PU 归纳_VV 起来_VV 有_VE ＩＴ_NN 技术_NN 问题_NN 、_PU 银行_NN 管理_NN 问题_NN 以及_CC 网银_NN 客户_NN 的_DEG 安全_NN 意识_NN 薄弱_VA 和_CC 操作_NN 不当_VA 等_ETC 引起_VV 黑客_NN 的_DEG 攻击_NN ，_PU 造成_VV 欺诈_NN 案件_NN 的_DEG 发生_NN 等_ETC 问题_NN 。_PU 
+那么_AD ，_PU 对_P 网上_NN 银行_NN 目前_NT 出现_VV 的_DEC 这些_DT 安全_NN 问题_NN ，_PU 将_AD 如何_AD 防范_VV 呢_SP ？_PU 
+防范_VV 网上_NN 银行_NN 支付_NN 安全_NN 应_VV 有_VE 两_CD 大_JJ 保障_NN ：_PU 一_CD 是_VC 法律_NN 保障_NN ；_PU 二_CD 是_VC 技术_NN 安全_NN 保障_NN 。_PU 
+目前_NT ，_PU 我国_NN 的_DEG 法律_NN 包括_VV 了_AS 国家_NN 有关_JJ 主管_NN 部门_NN 对_P 网上_NN 银行_NN 、_PU 网上_NN 电子_NN 支付_NN 所_MSP 做_VV 的_DEC 法律_NN 与_CC 规范_NN 。_PU 
+已_AD 颁布_VV 的_DEC 《_PU 中国_NR 电子_NN 签名法_NN 》_PU 于_P ２００５年_NT ４月_NT １日_NT 开始_VV 执行_VV ，_PU 它_PN 确定_VV 电子_NN 签名_NN 与_CC 手工_NN 签名_NN 和_CC 印章_NN 具有_VV 同等_JJ 法律_NN 效力_NN ；_PU 
+人民_NN 银行_NN 发布_VV 的_DEC ＆ｑｕｏｔ；_PU 电子_NN 支付_NN 指引_NN （_PU 一_CD ）_PU ＆ｑｕｏｔ；_PU 指明_VV ，_PU 在_P 网上_NN 银行_NN 的_DEG 支付_NN 中_LC 不_AD 使用_VV 数字_NN 证书_NN 的_DEC 客户_NN 每次_AD 一_CD 笔_M 交易_NN 只_AD 限_VV １０００_CD 元_M ；_PU 而_AD 银监会_NN 发布_VV 的_DEC ＆ｑｕｏｔ；_PU 网上_NN 银行_NN 管理_NN 办法_NN ＆ｑｕｏｔ；_PU 规定_VV 了_AS 开通_VV 网上_NN 银行_NN 必须_VV 经过_VV 有效_JJ 的_DEG 评估_NN 和_CC 银监会_NN 的_DEG 批准_NN ；_PU 
+此外_AD ，_PU ＆ｑｕｏｔ；_PU 证书_NN 认证_NN 管理_NN 规范_NN ＆ｑｕｏｔ；_PU （_PU ＣＳＰ_NR ）_PU 规定_VV 了_AS 认证_NN 机构_NN ＣＡ_NR 与_CC 其_PN 证书_NN 用户_NN 之间_LC 的_DEG 责任_NN 和_CC 义务_NN ，_PU 是_VC 法律_NN 的_DEG 补充_NN 、_PU 是_VC ＣＡ_NR 管理_VV 运行_VV 的_DEC 规范_NN 。_PU 
+但是_AD ，_PU 在_P 数字化_JJ 经济_NN 大_AD 发展_VV 、_PU 网上_NN 在线_JJ 支付_NN 已_AD 成为_VV 电子_NN 商务_NN 发展_NN 瓶颈_NN 的_DEC 今天_NT ，_PU 上述_JJ 这些_DT 法律_NN 法规_NN 还_AD 远远_AD 不_AD 能_VV 满足_VV 客观_JJ 的_DEG 需求_NN 。_PU 
+如_AD 电子_NN 交易法_NN 的_DEG 制定_NN 、_PU 会计法_NN 的_DEG 修改_NN 、_PU 票据法_NN 的_DEG 修改_NN 以及_CC 合同法_NN 的_DEG 修改_NN 等等_ETC 。_PU 
+在_P 技术_NN 保障_NN 方面_NN ，_PU 网络层_NN 安全_NN 防范_NN 具体_JJ 措施_NN 规定_VV 了_AS 在_P 网银_NN 的_DEG 网络_NN 组成_NN 中_LC ，_PU 应_VV 在_P 有关_JJ 网段_NN 设置_VV 异构_JJ 的_DEG 多_CD 道_M 防火墙_NN ，_PU 以_MSP 防止_VV 外部_NN 的_DEG 黑客_NN 攻击_NN 。_PU 
+不同_JJ 的_DEG 防火墙_NN ，_PU 具有_VV 不同_JJ 安全_AD 阻断_VV 、_PU 过滤_VV 非授权_JJ 攻击_NN 的_DEC 防范_NN 机制_NN ，_PU 黑客_NN 即使_CS 攻破_VV 第一_OD 道_M 防火墙_NN ，_PU 不_AD 一定_AD 能_VV 攻破_VV 第二_OD 道_M ，_PU 不同_JJ 的_DEG 防火墙_NN 要_VV 合理_VA 地_DEV 开放_VV 不同_JJ 的_DEG 接口_NN ，_PU 能_VV 有效_VA 地_DEV 防止_VV 黑客_NN 程序_NN 的_DEG 攻击_NN ；_PU 在_AD 设置_VV 安全_NN 路由器_NN ，_PU 以_MSP 过滤_VV 辅助_JJ 防火墙_NN 防止_VV 外部_NN 黑客_NN 程序_NN 的_DEG 攻击_NN ；_PU 设置_VV 入侵_NN 检测_NN 装置_NN ＩＤＳ_NN 。_PU 
+ＩＤＳ_NN 可以_VV 自动_AD 扫描_VV 系统_NN 的_DEG 漏洞_NN ，_PU 扫描_VV 来自_VV 网络_NN 外部_NN 的_DEC 攻击_NN ，_PU 并_AD 能_VV 自动_AD 杀毒_VV 或_CC 阻断_VV 某些_DT 攻击_NN ，_PU 它_PN 还_AD 可以_VV 对于_P 某些_DT 黑客_NN 攻击_NN 程序_NN 提出_VV 报警_NN ，_PU 用户_NN 可以_VV 及时_AD 断开_VV 系统_NN 或_CC 启动_VV 杀毒_NN 程序_NN ；_PU 设置_VV 防黑客_JJ 软件_NN 系统_NN 。_PU 
+现在_NT ，_PU 防止_VV 黑客_NN 攻击_VV 网站_NN 的_DEC 程序_NN 已_AD 有_VE 很_AD 多_CD ，_PU 需要_VV 选择_VV 功能_NN 较_AD 强_VA 的_DEC 产品_NN ，_PU 安置于_VV 网站_NN 服务器_NN 。_PU 
+它_PN 在_P 一定_JJ 程度_NN 上_LC 阻止_VV 了_AS 某些_DT 黑客_NN 程序_NN 的_DEG 攻击_NN 和_CC 侵入_NN 。_PU 
+在_P 网络层_NN 实施_VV 安全_NN 机制_NN 是_VC 网上_NN 银行_NN 安全_NN 防范_NN 的_DEG 重点_NN 之一_NN 。_PU 
+在_P 网上_NN 银行_NN 的_DEG 开办_NN 初期_NN 面向_VV 普通_JJ 大众_NN 方便_AD 上网_VV 之_DEC 时_NN ，_PU 这_DT 种_M 简单_JJ 的_DEG 登录_NN 方式_NN 是_VC 一_CD 种_M 较_AD 好_JJ 的_DEG 方式_NN 。_PU 
+但是_AD ，_PU 黑客们_NN 很_AD 快_AD 就_AD 摸清_VV 了_AS 银行_NN 的_DEG 这_DT 种_M 简单_JJ 认证_NN 机制_NN ，_PU 黑客_NN 的_DEG ＆_PU ｑｕｏｔ_NN ；_PU 假冒_JJ 通知_NN ＆_PU ｑｕｏｔ_NN ；_PU 、＆_PU ｑｕｏｔ_PU ；_PU 网上_NN 钓鱼_NN ＆_PU ｑｕｏｔ_NN ；_PU 、_PU ＆_PU ｑｕｏｔ_NN ；_PU 木马_NN 程序_NN ＆_PU ｑｕｏｔ_NN ；_PU 、＆_PU ｑｕｏｔ_NN ；_PU 快乐_JJ 的_DEG 耳朵_NN ＆_PU ｑｕｏｔ_NN ；_PU 等等_ETC ，_PU 其_PN 目标_NN 只_AD 有_VE 一_CD 个_M ，_PU 即_VC 在_P 网上_NN 窃取_VV 用户_NN 的_DEG 口令_NN ，_PU 而且_AD 制造_VV 起来_VV 极为_AD 方便_VA 。_PU 
+为此_AD ，_PU 《_PU 金融_NN 时报_NN 》_PU 在_P ２００５年_NT ４月_NT 发表_VV 了_AS 题_NN 为_VC 《_PU 网上_NN 银行_NN 应_VV 取蒂_VV 大众版_NN 》_PU 、_PU 国家_NN 信息_NN 安全_NN 测评_NN 认证_NN 杂志_NN ２００５年_NT ５月_NT 号_NN 发表_VV 了_AS 《_PU 加强_VV 网上_NN 银行_NN 的_DEG 安全_NN 防范_NN 》_PU ——_PU 《_PU 向_P ＆_PU ｑｕｏｔ_NN ；_PU 大众版_NN ＆_PU ｑｕｏｔ_NN ；_PU 说_VV 不_AD 》_PU 的_DEC 文章_NN 。_PU 
+其_PN 目的_NN 就_AD 是_VC 要_VV 提醒_VV 银行_NN 和_CC 客户_NN ，_PU 不要_AD 再_AD 推出_VV 和_CC 使用_VV 不_AD 安全_JJ 的_DEG ＆_PU ｑｕｏｔ_NN ；_PU 大众版_NN ＆_PU ｑｕｏｔ_NN ；_PU 和_CC ＆_PU ｑｕｏｔ_NN ；_PU 普通版_NN ＆_PU ｑｕｏｔ_NN ；_PU 。_PU 
+基于_P 安全_NN 考虑_NN ，_PU 多_CD 家_M 银行_NN 都_AD 采取_VV 了_AS 动态_JJ 口令_NN ，_PU 以_MSP 保证_VV 网上_NN 银行_NN 的_DEG 交易_NN 安全_NN 。_PU 
+动态_JJ 口令_NN 与_P 传统_JJ 的_DEG 静态_JJ 口令_NN 相比_VV 具有_VV 以下_DT 优势_NN ：_PU 一_CD 是_VC 动态性_NN 。_PU 
+用户_NN 的_DEG 动态_JJ 口令_NN 随_P 设定_VV 的_DEC 时间_NN 或_CC 事件_NN 等_ETC 变量_NN 自动_AD 变化_VV ，_PU 无须_AD 人工_AD 干预_VV ，_PU 某_DT 一_CD 时刻_NN 产生_VV 的_DEC 动态_JJ 口令_NN 不_AD 能_VV 在_P 其他_DT 时刻_NN 使用_VV 。_PU 
+二_CD 是_VC 一次性_NN 。_PU 
+任一_DT 时刻_NN 产生_VV 的_DEC 动态_JJ 口令_NN 在_P 其_PN 失效_VV 前_LC 只_AD 能_VV 被_SB 用户_NN 使用_VV 一_CD 次_M ，_PU 否则_AD ，_PU 系统_NN 将_AD 视_VV 其_PN 为_VC 非法_JJ 行为_NN 而_MSP 报警_VV 。_PU 
+三_CD 是_VC 随机性_NN 。_PU 
+动态_JJ 口令_NN 是_VC 随机_AD 生成_VV 、_PU 无_VE 规律_NN 的_SP 。_PU 
+即使_CS 本_DT 次_M 口令_NN 被_SB 窃听_VV 成功_VA ，_PU 也_AD 难以_AD 由此_AD 猜出_VV 下_DT 次_M 的_DEG 口令_NN 。_PU 
+四_CD 是_VC 多重_JJ 安全性_NN 。_PU 
+用户_NN 的_DEG 动态_JJ 口令_NN 令牌_NN 产生_VV 的_DEC 动态_JJ 口令_NN 与_P 用户_NN 名_NN 、_PU 静态_JJ 口令_NN 等_ETC 多_CD 因素_NN 结合_VV 实现_VV 多重_JJ 认证_NN 。_PU 
+即使_CS 电子_NN 令牌_NN 丢失_VV ，_PU 用户_NN 仍_AD 可_VV 在_P 应急_JJ 状态_NN 下_LC 利用_VV 用户_NN 名_NN 和_CC 静态_JJ 口令_NN 进行_VV 用户_NN 身份_NN 认证_NN 。_PU 
+而_AD 其他_DT 非法_JJ 持有者_NN ，_PU 单_AD 靠_P 令牌_NN 无法_AD 实现_VV 登录_NN 及_CC 认证_NN 。_PU 
+五_CD 是_VC 通用性_NN 。_PU 
+用户_NN 操作_VV 的_DEC 客户端_NN 无需_AD 增加_VV 任何_DT 软件_NN ，_PU 只_AD 需_VV 在_P 提示_VV 输入_VV 动态_JJ 口令_NN 时_LC 键入_VV 当时_NT 令牌_NN 上_LC 显示_VV 的_DEC 口令_NN 。_PU 
+在_P 认证_NN 服务器端_NN ，_PU 采用_VV ＰＰＰ_NR 、_PU ＲＡＤＩＵＳ_NR 等_ETC 标准_JJ 协议_NN 实现_VV 被_SB 访问_VV 对象_NN 与_CC 认证_NN 服务器_NN 之间_LC 信息_NN 交换_NN ，_PU 可_VV 方便_VA 地_DEV 在_P 网络_NN 环境_NN 下_LC 实现_VV 身份_NN 认证_NN 。_PU 
+六_CD 是_VC 可管理性_NN 。_PU 
+（_PU 刮刮卡_NN 除外_LC ）_PU 统一_JJ 的_DEG 身份_NN 认证_NN 方式_NN 和_CC 动态_JJ 口令_NN 生成_NN 方式_NN ，_PU 能_VV 大大_AD 减小_VV 在_P 分发_VV 密码_NN 、_PU 支持_VV 服务_NN 、_PU 密码_NN 丢失_VV 、_PU 密码_NN 更改_VV 及_CC 身份_NN 管理_VV 等_ETC 各个_DT 方面_NN 的_DEG 开销_NN 和_CC 成本_NN 。_PU 
+基于_P 以上_DT 静态_JJ 密码_NN 的_DEG 缺陷_NN 和_CC 动态_JJ 口令_NN 的_DEG 优势_NN ，_PU 银行_NN 在_P 重要_JJ 的_DEG 网上_NN 银行_NN 系统_NN 的_DEG ＆_PU ｑｕｏｔ_NN ；_PU 大众版_NN ＆_PU ｑｕｏｔ_NN ；_PU 应_VV 取消_VV 静态_JJ 口令_NN 。_PU 
+ＵＳＢＫｅｙ_NN 近几年_AD 有_VE 很_AD 大_JJ 的_DEG 进步_NN 和_CC 发展_NN ，_PU 有_VE 人_NN 称_VV ＵＳＢＫｅｙ_NN 是_VC 对_P ＰＫＩ_NN 的_DEG 有力_JJ 发展_NN ，_PU 它_PN 已_AD 基本_AD 做到_VV 了_AS ＆_PU ｑｕｏｔ_NN ；_PU 傻瓜型_NN ＆_PU ｑｕｏｔ_NN ；_PU 。_PU 
+如果_CS 想_VV 成为_VV 某_DT 商业_NN 银行_NN 的_DEG 客户_NN ，_PU 只要_CS 登录_VV 银行_NN 网站_NN ，_PU 就_AD 会_VV 自动_VA 地_DEV 将_BA 数字_NN 证书_NN 下载_VV 到_VV 客户_NN 的_DEG ＵＳＢＫｅｙ_NN 中_LC 。_PU 
+当_P 客户_NN 进行_VV 网上_NN 银行_NN 时_LC ，_PU 只_AD 要_VV 将_BA 其_PN 插入_VV ＵＳＢ_NN 口_NN ，_PU 输入_VV ＰＩＮ_NN 码_NN ，_PU 通过_VV 操作_NN 证书_NN 后_LC 进行_VV 网上_NN 认证_NN 和_CC 签名_NN 。_PU 
+其_PN 优点_NN 在于_VV ：_PU 一_CD 是_VC 安全_VA 可靠_VA 。_PU 
+证书_NN 和_CC 私钥_NN 不_AD 可_VV 被_SB 拷贝_VV ，_PU 加密_JJ 签名_NN 在_P Ｋｅｙ_NN 中_LC 进行_VV ，_PU 不_AD 暴露_VV 在_P 内存_NN 中_LC ，_PU 黑客_NN 无法_AD 窃取_VV 客户_NN 私钥_NN 。_PU 
+二_CD 是_VC 签名_NN 。_PU 
+《_PU 电子_NN 签名法_NN 》_PU 规定_VV ，_PU 特别是_AD 对_P 那些_DT Ｂ２Ｂ_NN 大型_JJ 企业_NN 的_DEG 大额_JJ 交易_NN ，_PU 必须_VV 使用_VV ＵＳＢＫｅｙ_NN 证书_NN 的_DEG 介质_NN ，_PU 以_MSP 确保_VV 网上_NN 交易_NN 的_DEG 安全_NN 。_PU 
+三_CD 是_VC ＵＳＢＫｅｙ_NN 的_DEG 价格_NN 与_P Ｔｏｋｅｎ_NN 令牌_NN 相比_VV 稍_AD 贵_VA ，_PU 但_AD 寿命_NN 周期_NN 长_VA ，_PU 物理_NN 电气_NN 性能_NN 稳定_VA 。_PU 
+四_CD 是_VC 可_VV 实现_VV 交易_NN 的_DEC 数字_NN 签名_NN ，_PU 具_VV 抵否认性_NN 和_CC 数据_NN 保密_NN 。_PU 
+虽然_CS 数字_NN 证书_NN 是_VC 网上_NN 身份_NN 的_DEG 证明_NN ，_PU 但_AD 并不_AD 能_VV 作为_P ＆_PU ｑｕｏｔ_NN ；_PU 文件_NN 证书_NN ＆_PU ｑｕｏｔ_NN ；_PU 存放_VV 在_VV ＰＣ机_NN 的_DEG 硬盘_NN 中_LC ，_PU 由此_AD 避免_VV 被_LB 黑客_NN 用_P 木马_NN 程序_NN 窃取_VV ，_PU 即用即插_VV ，_PU 用_VV 完_VV 收存_VV 。_PU 
+ＰＫＩ_NN 是_VC 在_P 网上_NN 银行_NN 系统_NN 的_DEG 应用层_NN 进行_VV 的_DEC 安全_NN 防范_NN ，_PU 是_VC 目前_NT 网上_NN 银行_NN 交易_NN 安全_NN 防范_NN 最_AD 有力_JJ 的_DEG 措施_NN 保证_NN 。_PU 
+ＰＫＩ_NN 的_DEG 核心_JJ 执行_NN 机构_NN 是_VC 认证_NN 中心_NN ＣＡ_NN ，_PU 核心_JJ 元素_NN 是_VC 数字_NN 证书_NN 。_PU 
+它_PN 由_P 第三_OD 方_NN ＣＡ_NN 所_MSP 签发_VV ，_PU 其_PN 作用_NN 是_VC 实现_VV 网络_NN 中_LC 数据_NN 加密_JJ 的_DEG 传输_NN ，_PU 负责_VV 交易_NN 数据_NN 的_DEG 数字_NN 签名_NN 以及_CC 网上_NN 身份_NN 的_DEG 证明_NN ，_PU 是_VC 虚拟_JJ 世界_NN 的_DEG 身份证_NN 。_PU 
+证书_NN 的_DEG 存放_NN 介质_NN 在_P 国家_NN ＧＢ／Ｔ_NN 《_PU 信息_NN 安全_NN 技术_NN 公钥_NN 基础_NN 设施_NN 签名_NN 生成_NN 应用_NN 程序_NN 的_DEG 安全_NN 要求_NN 》_PU 中_LC 明确_AD 规定_VV ：_PU 证书_NN 只_AD 能_VV 存放_VV 在_VV ＵＳＢ_NN 
+Ｋｅｙ_NN 、_PU ＩＣ_NN 卡_NN 以及_CC ＰＣＭＣＩＡ_NN 令牌_NN 中_LC ，_PU 否则_AD 以_P 文件_NN 证书_NN 形式_NN 存放_VV 是_VC 不_AD 安全_VA 的_SP ，_PU 更_AD 不_AD 能_VV 存放_VV 在_VV 硬_JJ 、_PU 软_JJ 盘_NN 中_LC 。_PU 
+这_DT 种_M 证书_NN 的_DEG 存放_NN 方式_NN ，_PU 已_AD 引起_VV 多_CD 起_M 交易_NN 安全_NN 的_DEG 欺诈_NN 事件_NN 。_PU 
+银行_NN 在_P 推荐_VV 证书_NN 介质_NN 时_LC ，_PU 特别是_AD 对_P 那些_DT 企业_NN 大客户_NN 和_CC ＶＩＰ_NN 客户_NN ，_PU 一定_AD 要_VV 推荐_VV ＵＳＢＫＥＹ_NN 或_CC ＩＣ_NN 卡_NN ，_PU 只有_CS 这样_VA 才_AD 能_VV 确保_VV 证书_NN 使用_NN 安全_NN ，_PU 才_AD 能_VV 符合_VV 《_PU 电子_NN 签名法_NN 》_PU 规定_NN 。_PU 
+那些_DT 交易量_NN 小_VA 的_DEC 、_PU 按_P 银监会_NN 和_CC 人民_NN 银行_NN 规定_VV 的_DEC 小_JJ 额_NN （_PU 每次_AD 不_AD 超过_VV １０００_CD 元_M ）_PU 的_DEG 用户_NN ，_PU 可以_VV 考虑_VV 使用_VV 或_CC 不_AD 使用_VV 文件_NN 证书_NN ，_PU 也_AD 可以_VV 使用_VV 如_AD ＯＴＰ_NN 令牌_NN 等_ETC 一次性_JJ 口令_NN 。_PU 
+正确_AD 使用_VV 数字_NN 签名_NN ，_PU 确实_AD 能_VV 保障_VV 网上_NN 银行_NN 交易_NN 双方_PN 的_DEG 安全_NN ，_PU 特别是_AD 对_P 客户方_NN 的_DEG 安全_NN 有_VE 较_AD 高_JJ 的_DEG 保证_NN 。_PU 
+数字_NN 签名_NN 的_DEG 作用_NN 主要_AD 是_VC 提供_VV 在_P 网络_NN 上_LC 传输_VV 、_PU 处理_VV 、_PU 交易_VV 实体_NN 的_DEG 身份_NN ，_PU 保障_VV 数据_NN 的_DEG 完整性_NN 、_PU 保密性_NN 和_CC 不可抵赖性_NN 。_PU 
+如果_CS 接收方_NN 数字_NN 签名_NN 验证_NN 成功_VA ，_PU 就_AD 符合_VV 国家_NN 《_PU 电子_NN 签名法_NN 》_PU 中_LC 第十三_OD 条_M 可靠_JJ 电子_NN 签名_NN 的_DEG 条件_NN 。_PU 
+规定_NN 中_LC 要求_VV ，_PU 制作_VV 电子_NN 签名_NN 时_LC ，_PU 签名_NN 私钥_NN 必须_VV 由_P 电子_NN 签名人_NN 自己_PN 控制_VV ，_PU 不_AD 能_VV 被_LB 他人_PN 窃取_VV 并_AD 利用_VV ；_PU 签署_VV 后_LC 对_P 电子_NN 签名_NN 的_DEG 任何_DT 改动_NN 能够_VV 被_SB 发现_VV 。_PU 
+也就是说_AD ，_PU 原文_NN 一旦_CS 做_VV 了_AS 签名_NN ，_PU 是_VC 不_AD 能_VV 做_VV 任何_DT 改动_NN 的_SP 。_PU 
+在_P 网上_NN 银行_NN 的_DEG 交易_NN 中_LC ，_PU 接收方_NN 一旦_CS 对_P 交易_NN 数据_NN 和_CC 信息_NN 进行_VV 了_AS 签名_NN ，_PU 如果_CS 改动_VV 是_VC 会_VV 被_SB 发现_VV 的_SP 。_PU 
+特别是_AD 针对_P Ｂ２Ｂ_NN 或_CC ＶＩＰ_NN 客户_NN 的_DEG 大额_JJ 交易_NN ，_PU 必须_VV 采用_VV 数字_NN 证书_NN ，_PU 以_MSP 确保_VV 交易_NN 安全_NN 可靠性_NN 。_PU 
+当然_AD ，_PU 此时_NT 的_DEG 证书_NN 介质_NN 一定_AD 要_VV 安装_VV 在_VV ＵＳＢＫＥＹ_NN 中_LC 。_PU 
+即插即用_VV ，_PU 以_MSP 防_VV ＆_PU ｑｕｏｔ_NN ；_PU 伪造_VV ＆_PU ｑｕｏｔ_NN ；_PU 和_CC ＆_PU ｑｕｏｔ_NN ；_PU 劫持_VV ＆_PU ｑｕｏｔ_NN ；_PU 签名_NN 。_PU 
+在_P 网上_NN 银行_NN 的_DEG 认证_NN 和_CC 交易_NN 中_LC 只要_CS 做到_VV 可靠_JJ 的_DEG 数字_NN 签名_NN ，_PU 才_AD 能_VV 使_VV 电子_NN 签名_NN 具有_VV 与_P 手写_JJ 签名_NN 或者_CC 盖章_NN 同等_VA 的_DEC 效力_NN 。_PU 
+－－_PU ｅｒｇｏｎｇｂｉｏｓ_NR 诚恳_AD 请教_VV ！_PU ！_PU 
+谢谢_VV 回答_VV ！_PU 

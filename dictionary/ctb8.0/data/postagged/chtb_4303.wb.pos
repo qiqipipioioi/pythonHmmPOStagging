@@ -1,0 +1,94 @@
+高效_AD 使用_VV Ｌｉｎｕｘ_NR 的_DEC 七_CD 个_M 习惯_NN 
+越来越_AD 多_CD 的_DEG 人_NN 愿意_VV 尝试_VV ｌｉｎｕｘ_NR 系统_NN ，_PU 这些_DT 习惯_NN 也许_AD 会_VV 令_VV 你_PN 事半功倍_VV ，_PU 找到_VV 其中_NN 的_DEG 乐趣_NN 。_PU 
+刚_AD 开始_VV 使用_VV Ｌｉｎｕｘ_NR 时_LC 你_PN 也许_AD 会_VV 感到_VV 不_AD 习惯_VA ，_PU 许多_CD 高手_NN 也_AD 都_AD 有_VE 这样_JJ 的_DEG 经历_NN 。_PU 
+毕竟_AD ，_PU 曾经_AD 他们_PN 也_AD 都_AD 是_VC 新手_NN 。_PU 
+但是_AD 现在_NT Ｌｉｎｕｘ_NR 团体_NN 已经_AD 在_P 为_P 新_JJ 用户_NN 提供_VV 有关_JJ 指南_NN ，_PU 手册_NN 和_CC 基本_JJ 的_DEG 技术_NN 文档_NN 来_MSP 使_VV 他们_PN 尽快_AD 上手_VV 方面_NN 做_VV 的_DER 相当_AD 出色_VA 。_PU 
+三_CD 年_M 前_LC 我_PN 首次_AD 接触_VV Ｌｉｎｕｘ_NR ，_PU 很多_CD 人_NN 通过_P 论坛_NN ，_PU 在线聊天_NN 和_CC 电子_NN 邮件_NN 等_ETC 帮助_VV 我_PN ，_PU 这些_DT ＆ｑｕｏｔ；_PU 企鹅_NN ＆ｑｕｏｔ；_PU 们_NN 真是_AD 相当_AD 热心_VA 。_PU 
+对此_AD ，_PU 我_PN 深_AD 感_VV 应该_VV 为_P 无私_AD 帮助_VV 我_PN 的_DEC 团体_NN 做_VV 一些_CD 力所能及_VV 的_DEC 贡献_NN ，_PU 我_PN 应该_VV 给_P 刚_AD 使用_VV Ｌｉｎｕｘ_NR 的_DEC 朋友_NN 写_VV 点_CD 什么_PN 。_PU 
+这里_PN 我_PN 编译_VV 了_AS 七_CD 个_M 当_P 我_PN 刚_AD 入门_VV 时_LC 别人_PN 告诉_VV 我_PN 的_DEC 七_CD 个_M 习惯_NN 。_PU 
+我_PN 相信_VV 如果_CS 你_PN 运用_VV 了_AS 这_DT 七_CD 个_M 习惯_NN ，_PU 在_P 你_PN 使用_VV Ｌｉｎｕｘ_NR 时_LC 你_PN 会_VV 感觉_VV 更_AD 安全_VA ，_PU 便利_VA ，_PU 学到_VV 很多_CD 实用_JJ 的_DEG 东西_NN ，_PU 最终_AD 你_PN 会_VV 发现_VV 使用_VV Ｌｉｎｕｘ_NR 也_AD 是_VC 那样_VA 的_DEV 愉悦_VA 。_PU 
+＊_PU １_CD －_PU 不要_AD 以_P 根用户_NN 登录_VV ＊_PU 
+这_PN 是_VC 你_PN 首先_AD 应该_VV 注意_VV 和_VV 遵守_VV 的_DEC 。_PU 
+以前_NT 我们_PN 可能_AD 已经_AD 习惯_VV 了_AS Ｗｉｎｄｏｗｓ_NR ，_PU 我们_PN 一直_AD 以为_VV 权限_NN 越_AD 高_VA 越_AD 好_VA ，_PU 所以_AD 我们_PN 喜欢_VV 以_P 管理员_NN 帐户_NN 登录_VV 。_PU 
+但是_AD 这_PN 也许_AD 是_VC Ｗｉｎｄｏｗｓ_NR 经常_AD 被_SB 病毒_NN 骚扰_VV 和_CC 不_AD 安全_VA 的_DEC 重要_JJ 原因_NN ，_PU 现在_NT 太_AD 多_CD 人_NN 都_AD 在_AD 用_P 根用户_NN 登录_VV 。_PU 
+权限_NN 越_AD 高_VA 责任_NN 越_AD 大_VA ，_PU 拥有_VV 管理员_NN 权限_NN 你_PN 需要_VV 谨慎_AD 对待_VV 你_PN 所_MSP 做_VV 的_DEC 任何_DT 事情_NN ，_PU 但是_AD 错误_NN 还是_AD 不_AD 可_VV 避免_VV 。_PU 
+我_PN 记得_VV 我_PN 最_AD 先_AD 使用_VV 的_DEC 是_VC ＳｕｓｅＬｉｎｕｘ_NR ，_PU 有_VE 很多_CD 事项_NN 需要_VV 管理_VV 但是_AD 没有_VE 图像_NN 用户_NN 界面_NN 我_PN 不_AD 知道_VV 如何_AD 做_VV ，_PU 于是_AD 我_PN 天真_VA 的_DEV 注销_VV 并_AD 登录_VV 到_VV 了_AS 根用户_NN 的_DEG 图形_NN 界面_NN 。_PU 
+根用户_NN 图形_NN 界面_NN 的_DEG 默认_NN 壁纸_NN 是_VC 一_CD 排排_M 的_DEG 高亮_JJ 地雷_NN 。_PU 
+这些_DT 符号_NN 在_P 我_PN 脑海_NN 里_LC 盘旋_VV ，_PU 我_PN 很_AD 小心_VA 没有_AD 终于_AD 没有_AD 做_VV 错_VA 什么_PN 。_PU 
+那么_AD 以_P 根用户_NN 登录_VV 有_VE 那些_DT 危险_NN ？_PU 
+１_CD ．_PU 你_PN 可以_VV 想象_VV 你_PN 在_P 没有_VE 保护网_NN 的_DEC 情况_NN 下_LC 打秋千_VV ，_PU 会_VV 不_AD 会_VV 感到_VV 害怕_VV ？_PU 
+这_PN 和_P 你_PN 以_P 根用户_NN 登录_VV 的_DEC 道理_NN 是_VC 一样_VA 的_SP ，_PU 你_PN 会_VV 不经意间_AD 毁掉_VV 你_PN 的_DEG 系统_NN 。_PU 
+２_CD ．_PU 你_PN 可能_AD 会_VV 不小心_AD 运行_VV 恶意_JJ 软件_NN 。_PU 
+通常_AD 在_P 根用户_NN 模式_NN 下_LC 任何_DT 程序_NN 的_DEG 启动_NN 都_AD 默认_VV 给予_VV 所有_DT 权限_NN 的_SP 。_PU 
+３_CD ．_PU 如果_CS 你_PN 的_DEG 系统_NN 有_VE 安全_NN 漏洞_NN 没有_AD 修补_VV ，_PU 你_PN 就_AD 可能_AD 被_SB 别人_NN 完全_AD 控制_VV 。_PU 
+４_CD ．_PU 这_PN 是_VC 使用_VV Ｕｎｉｘ_NN 的_DEC 惯例_NN ，_PU 除非_CS 必须_VV 那么_AD 不要_AD 轻易_AD 在_P 根用户_NN 下_LC 运行_VV 任何_DT 东西_NN 。_PU 
+如果_CS 一_CD 个_M 不_AD 是_VC 自己_PN 触发_VV 的_DEC 程序_NN 请求_VV 根用户_NN 权限_NN ，_PU 那么_AD 你_PN 就_AD 要_VV 小心_VV 了_SP 。_PU 
+通常_AD ，_PU 我们_PN 不必_AD 登录_VV 根用户_NN 界面_NN ，_PU 下面_NN 是_VC 几_CD 条_M 技巧_NN ：_PU 
+＊_PU 使用_VV ＆_PU ｑｕｏｔ_NN ；_PU ｓｕｄｏ_NN ＆_PU ｑｕｏｔ_NN ；_PU 或_CC ＆_PU ｑｕｏｔ_NN ；_PU ｓｕ_NN ＆_PU ｑｕｏｔ_NN ；_PU 命令_NN ，_PU 并_AD 在_P 你_PN 完成_VV 管理_NN 时_LC 退出_VV 
+＊_PU 如果_CS 你_PN 不_AD 知道_VV 如何_AD 使用_VV 命令行_NN 完成_VV 这些_PN ，_PU 你_PN 可以_VV 使用_VV ＆_PU ｑｕｏｔ_NN ；_PU ｇｋｓｕ_NN ＆_PU ｑｕｏｔ_NN ；_PU 或_CC ＆_PU ｑｕｏｔ_NN ；_PU ｋｄｅｓｕ_NN ＆_PU ｑｕｏｔ_NN ；_PU 。_PU 
+比如_AD ，_PU 按_VV Ａｌｔ_NN ＋_PU Ｆ２_NN 并_AD 打出_VV ＆_PU ｑｕｏｔ_NN ；_PU ｇｋｓｕｎａｕｔｉｌｕｓ_NN ＆_PU ｑｕｏｔ_NN ；_PU ，_PU 并_AD 在_P 你_PN 完成_VV 时_LC 马上_AD 结束_VV 程序_NN 
+＊_PU ２_CD －_PU 合理_VA 的_DEV 命名_VV 你_PN 的_DEG 文件_NN ＊_PU 
+Ｌｉｎｕｘ_NR 环境_NN 下_LC ，_PU 你_PN 可以_VV 按照_P 你_PN 的_DEG 意愿_NN 命名_VV 文件_NN ，_PU 但是_AD 以下_JJ 两_CD 点_M 是_VC 不_AD 允许_VV 的_SP ：_PU １_CD ）_PU ＆_PU ｑｕｏｔ_NN ；_PU ／_PU ＆_PU ｑｕｏｔ_NN ；_PU 是_VC 根目录_NN 专用_VV 的_SP ；_PU ２_CD ）_PU 不要_AD 使用_VV 无效_JJ 字符_NN 。_PU 
+其它_DT 的_DEG 在_P 技术_NN 上_LC 都_AD 是_VC 可以_VV 的_SP ，_PU 但是_AD 为了_P 避免_VV 以后_NT 的_DEG 麻烦_NN 这里_PN 有_VE 几_CD 点_M 经验_NN 你_PN 可以_VV 遵守_VV ：_PU 
+＊_PU 经验_NN 上_LC ，_PU 只_AD 使用_VV 字母_NN 、_PU 数字_NN 、_PU 连接符_NN （_PU －_PU ）_PU 和_CC 下划线_NN （_PU ＿_PU ）_PU 
+＊_PU 避免_VV 使用_VV 美元符_NN （_PU ＄_PU ）_PU ，_PU 括弧_NN 和_CC 百分号_NN （_PU ％_CD ）_PU 等_ETC 特殊_JJ 字符_NN ，_PU 这些_DT 字符_NN 对于_P ｓｈｅｌｌ_NN 有_VE 着_AS 特殊_JJ 意义_NN ，_PU 可能_AD 会_VV 引起_VV 冲突_NN 
+＊_PU 避免_VV 使用_VV 空格_NN ，_PU 在_P 终端_NN 上_LC 处理_VV 含有_VV 空格_NN 的_DEC 文件_NN 是_VC 很_AD 愚蠢_VA 的_SP 。_PU 
+你_PN 可以_VV 用_P 连接符_NN 或_CC 下划线_NN 来_MSP 代替_VV 空格_NN 。_PU 
+这些_PN 已经_AD 基本上_AD 成为_VV 我_PN 的_DEG 习惯_NN ，_PU 并且_AD 我_PN 在_P 使用_VV Ｗｉｎｄｏｗｓ_NR 和_CC ＭＡＣ_NR 时_LC 也_AD 不_AD 自觉_VA 的_DEV 遵守_VV 这些_DT 准则_NN 。_PU 
+＊_PU ３_CD －_PU 将_BA 你_PN 的_DEG ｈｏｍｅ_NN 目录_NN 放在_VV 一_CD 个_M 独立_JJ 的_DEG 分区_NN 上_LC ＊_PU 
+这样_AD 做_VV 会_VV 给_VV 你_PN 很_AD 大_JJ 的_DEG 灵活性_NN 。_PU 
+将_BA ｈｏｍｅ_NN 目录_NN 放在_VV 一_CD 个_M 独立_JJ 的_DEG 分区_NN 上_LC ，_PU 可以_VV 在_P 你_PN 重装_VV 系统_NN 甚至_AD 升级_VV 你_PN 的_DEG 整个_DT 版本_NN 而_AD 不_AD 会_VV 丢失_VV 你_PN 的_DEG 数据_NN 和_CC 个人_NN 设置_NN 。_PU 
+你_PN 可以_VV 在_P 根目录_NN 下_LC 重新_AD 设置_VV 你_PN 所_MSP 需要_VV 的_DEC 而_AD 保留_VV ｈｏｍｅ_NN 分区_NN 。_PU 
+现在_NT 你_PN 可以_VV 将_BA 你_PN 需要_VV 的_DEC 随意_AD 分类_VV 而_AD 不必_AD 担心_VV 的_DEC 数据_NN 和_CC 个人_NN 设置_NN ，_PU 你_PN 可以_VV 随时_AD 使用_VV 它们_PN 。_PU 
+如果_CS 碰巧_AD 在_P 你_PN 安装_VV 系统_NN 之后_LC 才_AD 懂得_VV 这_DT 一_CD 点_NN ，_PU 不要_AD 失望_VV 。_PU 
+你_PN 可以_VV 按照_P Ｃａｒｔｈｉｋ_NR 在_P ｕｂａｎｔｕＢｌｏｇ_NR 上_LC 的_DEG 一_CD 片_M 名为_VV ＆_PU ｑｕｏｔ_NN ；_PU Ｍｏｖｅ／ｈｏｍｅｔｏｉｔ＇ｓｏｗｎｐａｒｔｉｔｉｏｎ_NR ＆_PU ｑｕｏｔ_NN ；_PU 的_DEC 指导道_NN 一步步_AD 的_DEV 完成_VV 。_PU 
+＊_PU ４_CD －_PU 合理_JJ 的_DEG 灾难_NN 管理_NN ＊_PU 
+Ｌｉｎｕｘ_NR 是_VC 比较_AD 强大_VA 和_CC 稳定_VA 的_SP ，_PU 但是_AD 任何_DT 系统_NN 都_AD 会_VV 崩溃_VV 。_PU 
+在_P 你_PN ＣＴＲＬ－ＡＬＴ－ＤＥＬ_NN ，_PU 重启_VV 之前_LC ，_PU 你_PN 应该_VV 学会_VV 如何_AD 处理_VV 你_PN 遇到_VV 的_DEC 事故_NN 。_PU 
+你_PN 需要_VV 知道_VV 如何_AD 在_P 不_AD 重启_VV 的_DEC 情况_NN 下_LC 轻松_AD 恢复_VV 你_PN 的_DEG 系统_NN 。_PU 
+我_PN 个人_PN 认为_VV 这_DT 种_M 情况_NN 分为_VV 几_CD 个_M 不同_JJ 的_DEG 层次_NN ，_PU 如果_CS 前_DT 一_CD 步_M 不_AD 奏效_VV 的话_SP 请_VV 转向_VV 下_DT 一_CD 步_M ：_PU 
+１_CD ．_PU 我_PN 将_BA ＆_PU ｑｕｏｔ_NN ；_PU 强制_AD 关闭_VV ＆_PU ｑｕｏｔ_NN ；_PU 程序_NN 放在_VV 我_PN 的_DEG 任务_NN 栏_NN 上_LC ，_PU 如果_CS 哪个_DT 程序_NN 出现_VV 问题_NN 可以_VV 单击_VV ＆_PU ｑｕｏｔ_NN ；_PU 强制_AD 关闭_VV ＆_PU ｑｕｏｔ_NN ；_PU 图标_NN 并_AD 结束_VV 该_DT 程序_NN 
+２_CD ．_PU 如果_CS 上_DT 一_CD 步_M 不_AD 奏效_VV ，_PU 调用_VV 终端_NN ，_PU 用_P ＆_PU ｑｕｏｔ_NN ；_PU ｐｓ－Ａ_NN ＆_PU ｑｕｏｔ_NN ；_PU ，_PU 记下_VV 那个_DT 出_VV 问题_NN 程序_NN 的_DEG 进程号_NN ，_PU 结束_VV 它_PN 
+３_CD ．_PU 使用_VV ＆_PU ｑｕｏｔ_NN ；_PU ｋｉｌｌａｌｌ_NN ＆_PU ｑｕｏｔ_NN ；_PU 命令_NN ，_PU 比如_AD ＆_PU ｑｕｏｔ_NN ；_PU ｋｉｌｌａｌｌｆｉｒｅｆｏｘ－ｂｉｎ_NN ＆_PU ｑｕｏｔ_NN ；_PU 
+４_CD ．_PU 如果_CS 整个_DT 图形_NN 界面_NN 都_AD 冻结_VV ，_PU 你_PN 已经_AD 不_AD 可能_AD 调用_VV 终端_NN ，_PU 按_VV ＣＴＲＬ－ＡＬＴ－Ｆ１_NN ，_PU 这样_AD 可以_VV 转到_VV 另_DT 一_CD 个_M 终端_NN ，_PU 这样_AD 你_PN 就_AD 可以_VV 使用_VV 步骤_NN ２_CD 和_CC ３_CD 来_MSP 结束_VV 出_VV 问题_NN 的_DEC 程序_NN 
+５_CD ．_PU 还_AD 不行_VV 的话_SP ，_PU 你_PN 可以_VV 使用_VV ＣＴＲＬ－ＡＬＴ－Ｂａｃｋｓｐａｃｅ_NR 组合_NN 重启_VV 你_NN 的_DEG 图形_NN 界面_NN ，_PU 但是_AD 要_VV 注意_VV 的_DEC 是_VC ，_PU 这样_AD 会_VV 结束_VV 你_PN 正在_AD 运行_VV 的_DEC ＧＵＩ_NN 程序_NN 
+６_CD ．_PU 调用_VV ＣＴＲＬ－ＡＬＴ－Ｆ１_NN 再_AD 使用_VV ＣＴＲＬ＋ＡＬＴ＋ＤＥＬ_NN 这样_AD 不_AD 会_VV 立即_AD 重启_VV 你_PN 的_DEG 系统_NN ，_PU 只是_AD 按照_P 正常_JJ 模式_NN 重启_VV ，_PU 所以_AD 是_VC 安全_VA 的_SP （_PU 假定_VV 你_NN 想要_VV 重启_VV 并且_AD ＣＴＲＬ－ＡＬＴ－Ｆ１_NN 可_VV 用_VV ）_PU 。_PU 
+７_CD ．_PU 如果_CS 这_DT 一切_PN 都_AD 不_AD 管用_VV ，_PU 也_AD 不用_AD 记着_VV 按_VV 强制_AD 重启_VV 按钮_NN ，_PU 尝试_VV ＲａｉｓｅａＳｋｉｎｎｙＥｌｅｐｈａｎｔ_NN 
+＊_PU ５_CD －_PU 主动_AD 尝试_VV ＊_PU 
+你_PN 可能_AD 对_P 朋友_NN 给_P 你_PN 设置_VV 设计_VV 的_DEC 当前_NT 版本_NN 和_CC 配置_NN 很_AD 满意_VA ，_PU 这_PN 适合_VV 你_PN 。_PU 
+这_PN 很_AD 好_VA ，_PU 但是_AD 可能_AD 会_VV 有_VE 比_P 这_PN 更_AD 好_VA 的_DEC 。_PU 
+为什么_AD 不_AD 尝试_VV 下_AD Ｌｉｎｕｘ_NR 和_CC 开源_NR 的_DEG 灵活性_NN 和_CC 丰富性_NN 呢_SP ？_PU 
+不要_AD 害怕_VV 尝试_VV 不同_JJ 的_DEG 程序_NN ，_PU 图形_NN 管理_NN 和_CC 桌面_NN 。_PU 
+实验_VV 直_AD 到_P 你_PN 找到_VV 最_AD 适合_VV 你_PN 的_DEC 。_PU 
+你_PN 可以_VV 这样_AD 想_VV ，_PU 你_PN 现在_NT 居住_VV 在_VV 世界_NN 上_LC 最_AD 好_JJ 的_DEG 地方_NN ，_PU 但是_AD 环球_JJ 旅行_NN 也_AD 不_AD 会_VV 有_VE 什么_DT 坏处_NN 的_SP ？_PU 
+或许_AD 说不定_AD 你_PN 还_AD 可以_VV 找到_VV 一_CD 个_M 更_AD 好_JJ 的_DEG 居住地_NN ，_PU 就算_AD 不_AD 能_VV ，_PU 你_PN 旅行_VV 的_DEC 时间_NN 也_AD 值得_VV 好好_AD 品味_VV ，_PU 你_PN 对_P 其它_DT 国家_NN ，_PU 它们_PN 的_DEG 人_NN 和_CC 风俗_NN ，_PU 思考_NN 方式_NN 了解_VV 的_DER 更_AD 多_VA ，_PU 最终_AD 说不定_AD 你_PN 会_VV 喜欢_VV 上_VV 这样_JJ 的_DEG 尝试_NN 。_PU 
+你_PN 尝试_VV 的_DEC 任何_DT 新事物_NN 都_AD 会_VV 增加_VV 你_PN 的_DEG 学识_NN ，_PU 一_CD 年_M 左右_LC 的_DEG 时间_NN 你_PN 将_AD 会_VV 对_P Ｌｉｎｕｘ_NR 和_CC 开源_NR 世界_NN 有_VE 一_CD 个_M 很_AD 好_JJ 的_DEG 把握_NN 。_PU 
+我_PN 个人_PN 曾_AD 尝试_VV 过_AS 至少_AD １０_CD 种_M 分配_NN 方式_NN ，_PU ４_CD 种_M 桌面_NN 和_CC 五_CD 种_M 桌面_NN 管理_NN 。_PU 
+我_PN 最近_NT 的_DEG 文章_NN 《_PU Ｅｔｙｍｏｌｏｇｙ_NN ｏｆ_P ＡＤｉｓｔｒｏ_NR 》_PU 使_VV 我_PN 对_P 更_AD 多_CD 的_DEG 分配_NN 感兴趣_VV ，_PU 象_P Ｚｅｎｗａｌｋ_NR ，_PU Ｆｏｒｅｓｉｇｈｔ_NR 和_CC Ｓａｂａｙｏｎ_NR 等_ETC 。_PU 
+朋友_NN ，_PU 主动_AD 尝试_VV ，_PU 这_PN 对_P 你_PN 有_VE 好处_NN 。_PU 
+在_P 你_PN 尝试_VV 之前_LC ，_PU 你_PN 可以_VV 参考_VV 以下_JJ 几_CD 点_M ：_PU 
+＊_PU 设置_VV 好_VV 你_PN 感觉_VV 最_AD 舒服_VA 的_DEC 系统_NN ，_PU 因为_P 你_PN 需要_VV 一_CD 个_M 时刻_AD 工作_VV 的_DEC 系统_NN 。_PU 
+这样_AD 你_PN 就_AD 可以_VV 按照_P 下面_NN 的_DEG 几_CD 点_M 进行_VV 尝试_NN 
+＊_PU 你_PN 可以_VV 利用_VV 虚拟机_NN 来_MSP 完成_VV 。_PU 
+安装_VV 一_CD 个_M Ｖｍｗａｒｅ_NN 或_CC Ｖｉｒｔｕａｌｂｏｘ_NR ，_PU 用_P 它们_PN 来_MSP 做_VV 测试_NN 
+＊_PU 如果_CS 你_PN 不_AD 知道_VV 如何_AD 运用_VV 虚拟机_NN ，_PU 你_PN 可以_VV 设置_VV 一_CD 个_M 独立_JJ 分区_NN 来_VV 尝试_VV 
+＊_PU 最_AD 好_VA 的_DEC ，_PU 你_PN 可以_VV 用_VV 一_CD 个_M 设置_VV 好_VA 的_DEC ＰＣ_NN ，_PU 再_AD 有_VE 一_CD 个_M 当作_P 测试_NN 用_VV 。_PU 
+这样_AD 你_PN 就_AD 可以_VV 随心所欲_VV 的_DEV 进行_VV 尝试_NN 
+＊_PU ６_CD －_PU 熟悉_VV 使用_VV 你_PN 的_DEG 命令行_NN ＊_PU 
+虽然_CS 我_PN 不_AD 提倡_VV 你_PN 一定_AD 要_VV 学习_VV 命令行_NN ，_PU 有_VE 太_AD 多_CD 的_DEG 文章_NN 一直_AD 强调_VV 学习_VV 命令行_NN 的_DEC 重要性_NN 。_PU 
+这里_PN 我_PN 假设_VV 你_PN 已经_AD 知道_VV 他_PN 的_DEG 重要性_NN 并且_AD 已经_AD 知道_VV 怎样_AD 用_P 它_PN 处理_VV 一些_CD 简单_JJ 的_DEG 管理_NN 任务_NN 。_PU 
+你_PN 可以_VV 按照_P 指导书_NN 和_CC 手册_NN 做_VV 相应_JJ 的_DEG 配置_NN 。_PU 
+但是_AD 不要_AD 一味_AD 的_DEV 复制_VV 和_CC 粘贴_VV 。_PU 
+就是说_AD ，_PU 不止_AD 不加思考_VV 的_DEV 执行_VV 命令_NN 许多_CD 有_VE 自由_JJ 天性_NN 的_DEC 人_NN 劝诫_VV 你_PN 要_VV 尽量_AD 深刻_VA 的_DEV 理解_VV 每_DT 条_M 命令行_NN 的_DEG 含义_NN ，_PU 它_PN 能_VV 做_VV 什么_PN 。_PU 
+为什么_AD 手册_NN 上_LC 这样_AD 做_VV 的_SP ，_PU 而_AD 不_AD 是_VC 那样_AD 做_VV ？_PU 
+理解_VV 你_PN 所_MSP 做_VV 步骤_NN 的_DEG 基本_JJ 原理_NN 。_PU 
+过_VV 了_AS 一_CD 段_M 时间_NN 你_PN 就_AD 会_VV 感觉_VV 你_PN 已经_AD 能_VV 很_AD 好_VA 的_DEV 运用_NN 它_PN 了_SP 。_PU 
+最后_AD 你_PN 会_VV 发现_VV 它_PN 仅仅_AD 是_VC 种_M 伪装_JJ 的_DEG 语言_NN 。_PU 
+每_DT 条_M 命令_NN 可能_AD 只_AD 是_VC 一些_CD 词语_NN 的_DEG 首字母_NN ，_PU 或_CC 一_CD 个_M 单词_NN 的_DEG 缩写_NN 。_PU 
+你_PN 希望_VV 你_PN 的_DEG 狗_NN 理解_VV ＆_PU ｑｕｏｔ_NN ；_PU Ｓｐｉｋｅ_VV ｆｅｔｃｈ_VV ｂａｌｌ_NN ＆_PU ｑｕｏｔ_NN ；_PU 这样_JJ 的_DEG 长_JJ 句_NN ，_PU 为什么_AD 不_AD 尝试_VV 理解_VV 下_AD ＆_PU ｑｕｏｔ_NN ；_PU ｓｕｄｏｍｖ／ｆｉｌｅ１／ｆｉｌｅ２_VV ＆_PU ｑｕｏｔ_NN ；_PU 那_PN ？_PU 
+＊_PU ７_CD －_PU 为_P 你_PN 的_DEG 用武之地_NN 做_VV 些_M 准备_NN ＊_PU 
+我_PN 有_VE 过_AS 很多_CD 这样_JJ 的_DEG 经历_NN ，_PU 当_P 有_VE 个_M 朋友_NN 请求_VV 我_PN 在_P 他_PN 的_DEG 电脑_NN 上_LC 做_VV 些_M 东西_NN ，_PU 但是_AD 由于_P 他_PN 所_MSP 选择_VV 的_DEC 操作_NN 系统_NN 会_VV 出现_VV 糗事_NN 。_PU 
+有时候_AD 我_PN 有_VE 急事_NN 但是_AD 仅_AD 有_VE 的_DEC 电脑_NN 有_VE 很_AD 挫_JJ 的_DEG 操作_NN 系统_NN 。_PU 
+不必_AD 痛苦_VV ，_PU 随身_AD 戴上_VV 你_PN 的_DEG ｌｉｎｕｘ_NR ＜_PU ｈｔｔｐ：／／ｙｅｅｙａｎ．ｃｏｍ／ａｒｔｉｃｌｅｓ／ｔａｇ／ｌｉｎｕｘ_URL ＞_PU 系统_NN ，_PU 不管是_AD 存储_VV 在_VV Ｕ盘_NN 或_CC ＣＤ_NN 上_LC 。_PU 
+有_VE 相当_AD 多_CD 的_DEG ｌｉｎｕｘ_NR 版本_NN 很_AD 方便_VA 的_SP ，_PU 象_P Ｋｎｏｐｐｉｘ_NR ，_PU ＤＳＬ_NR 和_CC ＰｕｐｐｙＬｉｎｕｘ_NR 等_ETC ．_PU 
+很_AD 惭愧_VA ，_PU 事实上_AD 我_PN 自己_PN 还_AD 没_AD 用上_VV 这个_DT 习惯_NN ，_PU 我_PN 想_VV 我_PN 也_AD 需要_VV 言行一致_VV 。_PU 

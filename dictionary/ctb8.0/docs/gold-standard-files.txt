@@ -1,0 +1,28 @@
+The following is a lit of files that are double-annotated and can be
+regarded as gold standard files.
+
+CTB-1 (69 files, 22,316 words)
+chtb_001.fid - chtb_043.fid
+chtb_144.fid - chtb_169.fid
+
+CTB-3 (32 files, 12,027 words)
+chtb_900.fid - chtb_931.fid
+
+CTB-4 (7 files, 13,828 words)
+chtb_1018.fid
+chtb_1020.fid
+chtb_1036.fid
+chtb_1044.fid
+chtb_1060.fid
+chtb_1061.fid
+chtb_1072.fid
+
+CTB-5 (6 files, 15,052 words)
+chtb_1118.fid
+chtb_1119.fid
+chtb_1132.fid
+chtb_1141.fid
+chtb_1142.fid
+chtb_1148.fid
+
+Total: 114 files, 63,223 words (12.46% of the corpus)
