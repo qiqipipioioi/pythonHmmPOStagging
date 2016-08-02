@@ -20,3 +20,8 @@ dictionary/     #tree bank字典
 tagger.py       #标注类
 treeBank.py     #生成hmm矩阵类
 ```
+
+##tagSet
+出处详见http://repository.upenn.edu/cgi/viewcontent.cgi?article=1039&context=ircs_reports
+
+(https://github.com/qiqipipioioi/pythonHmmPOStagging/blob/master/tagging.JPG)
