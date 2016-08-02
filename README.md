@@ -10,6 +10,8 @@
 testline = ['我','爱','北京','天安门','。']
 POS = POStagging()
 print ' '.join(POS.viterbi(testline))
+
+我_PN 爱_VV 北京_NR 天安门_NR 。_PU
 ```
 
 ##脚本

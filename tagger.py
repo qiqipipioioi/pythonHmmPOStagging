@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #coding:utf-8
-__author__ == 'Tuxun tuxun1988@gmail.com'
+__author__ = 'Tuxun tuxun1988@gmail.com'
 
 import numpy as np
 import treeBank
