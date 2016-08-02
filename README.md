@@ -6,15 +6,15 @@
 ##使用说明
 先实例化POStagging类，然后调用viterbi方法生成输出列表
 例如
-···
+```
 testline = ['我','爱','北京','天安门','。']
 POS = POStagging()
 print ' '.join(POS.viterbi(testline))
-···
+```
 
 ##脚本
-···
+```
 dictionary/     #tree bank字典
 tagger.py       #标注类
 treeBank.py     #生成hmm矩阵类
-···
+```
